@@ -7,4 +7,4 @@ http://105m3u8.epg-kc.com/v3/youshi/m3_Ezf6VNvIW51wZLG8xT274n3X_480p.m3u8?sessio
 https://live-cm-al-14-36.video.globo.com/h/0401634586494114350377516345000946334900303ajqvaPRbpSV1mKrRHANNaw/k/html5/a/F/u/3bea496c-e6fb-43c1-a304-b3698bd90b78/nu/globo-sp1/globo-sp1-audio_1=96000-video=313984.m3u8
 
 #EXTINF: -1 tvg-id = "" tvg-logo = "http://img2g.hdawiyr1g.xyz/gateway/files/3be86807-2969-4c65-897e-775e01757687" group-title = "TV Aberta", Discovery Channel
-https://mcp-cdn-discovery.storage.googleapis.com/discovery/1036/20/03/10/4855947/4855947_AD813E2410904583B20242EE733DED0E_200311_4855947_Largados_e_Pelados__A_Tribo_2500.m3u8
+https://cdn.esporteone.com/DISCOVERYSD/video.m3u8?md5=24iLFJcWVuJZ44E7YhTbhQ&expires=1634516150
