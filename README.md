@@ -5,6 +5,3 @@ http://105m3u8.epg-kc.com/v3/youshi/m3_Ezf6VNvIW51wZLG8xT274n3X_480p.m3u8?sessio
 
 #EXTINF: -1 tvg-id = "" tvg-logo = "http://img2g.hdawiyr1g.xyz/gateway/files/3be86807-2969-4c65-897e-775e01757687" group-title = "TV Aberta", globo
 https://live-cm-al-14-36.video.globo.com/h/0401634586494114350377516345000946334900303ajqvaPRbpSV1mKrRHANNaw/k/html5/a/F/u/3bea496c-e6fb-43c1-a304-b3698bd90b78/nu/globo-sp1/globo-sp1-audio_1=96000-video=313984.m3u8
-
-#EXTINF: -1 tvg-id = "" tvg-logo = "http://img2g.hdawiyr1g.xyz/gateway/files/3be86807-2969-4c65-897e-775e01757687" group-title = "TV Aberta", Discovery Channel
-http://104.149.156.118:14631/v4/youshi/m3_E3D2EB66-67DF-49EC-8eea_720p_2M.m3u8
