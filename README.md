@@ -7,4 +7,4 @@ http://105m3u8.epg-kc.com/v3/youshi/m3_Ezf6VNvIW51wZLG8xT274n3X_480p.m3u8?sessio
 https://live-cm-al-14-36.video.globo.com/h/0401634586494114350377516345000946334900303ajqvaPRbpSV1mKrRHANNaw/k/html5/a/F/u/3bea496c-e6fb-43c1-a304-b3698bd90b78/nu/globo-sp1/globo-sp1-audio_1=96000-video=313984.m3u8
 
 #EXTINF: -1 tvg-id = "" tvg-logo = "http://img2g.hdawiyr1g.xyz/gateway/files/3be86807-2969-4c65-897e-775e01757687" group-title = "TV Aberta", Discovery Channel
-http://painel.tvdigitalsbl.net:8081/live/balbino01/0101/477.ts
+http://185.181.102.2:8081/live/master04/chunks.m3u8?nimblesessionid=2409974&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDE3IDE6MzY6MjMgQU0maGFzaF92YWx1ZT0xckhrL3dpM0dpb1NJMVJwTzZtZ1R3PT0mdmFsaWRtaW51dGVzPTEw
