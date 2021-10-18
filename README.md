@@ -1,5 +1,3 @@
-
-
 # EXTM3U
 
 #EXTINF: -1 tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png " group-title = "CANAIS TELECINE", TC ACTION SD ALT http: // vipeiptv .com: 25461 / genesio123 / genesio123 / 855993
