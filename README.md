@@ -6,4 +6,4 @@ http://105m3u8.epg-kc.com/v3/youshi/m3_Ezf6VNvIW51wZLG8xT274n3X_480p.m3u8?sessio
 #EXTINF: -1 tvg-id = "" tvg-logo = "http://img2g.hdawiyr1g.xyz/gateway/files/3be86807-2969-4c65-897e-775e01757687" group-title = "TV Aberta", globo
 #EXTINF:-1 tvg-ID="" tvg-logo="https://faustinotv.me/kodi/img/discoverychannel.png"
 group-title="CANAIS | DOCUMENTÁRIOS", DISCOVERY CHANNEL 
-https://edge.mdcgate.com:443/v2ws
+http://edge.mdcgate.com:80/livemedia/stream_v2/get_thumbnails.php?code=412512
