@@ -7,4 +7,4 @@ http://105m3u8.epg-kc.com/v3/youshi/m3_Ezf6VNvIW51wZLG8xT274n3X_480p.m3u8?sessio
 https://live-cm-al-14-36.video.globo.com/h/0401634586494114350377516345000946334900303ajqvaPRbpSV1mKrRHANNaw/k/html5/a/F/u/3bea496c-e6fb-43c1-a304-b3698bd90b78/nu/globo-sp1/globo-sp1-audio_1=96000-video=313984.m3u8
 
 #EXTINF: -1 tvg-id = "" tvg-logo = "http://img2g.hdawiyr1g.xyz/gateway/files/3be86807-2969-4c65-897e-775e01757687" group-title = "TV Aberta", Discovery Channel
-https://geralorigin.eu-central-1.edge.mycdn.live/live/discoverysd/video.m3u8?md5=Cz0qGEiAAzk-pwoYah3YyA&expires=1634545826
+https://cdn.esporteone.com/DISCOVERYSD/video.m3u8?md5=A28eMEUqHvQJeKvnLMXd3Q&expires=1634520708
