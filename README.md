@@ -11,4 +11,4 @@ http://painel.tvdigitalsbl.net:80/vo/vo/13257
 #EXTINF: -1 tvg-id = "" tvg-logo = "http://img2g.hdawiyr1g.xyz/gateway/files/3be86807-2969-4c65-897e-775e01757687" group-title = "TV Aberta", globo
 #EXTINF:-1 tvg-ID="" tvg-logo="https://faustinotv.me/kodi/img/discoverychannel.png"
 group-title="CANAIS | DOCUMENTÁRIOS", DISCOVERY CHANNEL
-http://99wep1b.gsy1vl0.com:80/live/m3_3zFNpotNh0Q0iR_480p/m3_3zFNpotNh0Q0iR_480p_sensei_151227615-5.ts
+http://105m3u8.epg-kc.com:80/v3/youshi/m1_PwsKRjIegyASUaYBiH3ou5LT_480p.m3u8?session_id=ih6gOveUc7lk&app_ver=10101&auth_id=53539686_com.global.brasiltvweb&client_ip=2804:14c:154:88c9:2c60:8f96:6bd1:f55&user_id=53539686&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=85dc01b7&expired=1634617774&token=FF629D9BA7BCD4B4E6A40D945B6BC4B2&media_code=m1_PwsKRjIegyASUaYBiH3ou5LT_480p
