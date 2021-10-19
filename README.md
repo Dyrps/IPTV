@@ -1,4 +1,7 @@
-#EXTM3U url-tvg =
-"https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+#EXTM3U
+
 #EXTINF: -1 tvg-id = "5f99ac4fded33000078f29ab" tvg-name = "Globo" tvg-logo = "https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png" group-title = " Filmes "tvg-chno =" 50 ", Globo
 https://live-as-08-25.video.globo.com/h/0401634763720156163988716346773206077723365rRw2gBNrAzAcB3PBI_Qlfg/k/html5/a/F/u/3bea496c-e6fb-43c1-a304-b3698bd90b78/nu/globo-sp1/globo-sp1-audio_1=96000-video=3442944.m3u8
+
+#EXTINF: -1 tvg-id = "5f99ac4fded33000078f29ab" tvg-name = "Sbt" tvg-logo = "https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png" group-title = " Filmes "tvg-chno =" 50 ", Sbt
+https://r3---sn-oxunxg8pjvn-bg0l.googlevideo.com/videoplayback?expire=1634701823&ei=nz1vYcSmI7jR1sQPiYCrqAg&ip=2804%3A14c%3A154%3A88c9%3A7959%3A7f4c%3A43dd%3A9247&id=ABVQXgr2LW4.3&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=mT&mm=44%2C29&mn=sn-oxunxg8pjvn-bg0l%2Csn-bg07dn6r&ms=lva%2Crdu&mv=m&mvi=3&pcm2cms=yes&pl=48&hcs=%2Csd&smhost=%2Cr3---sn-bg07dn6l.googlevideo.com&gcr=br&initcwndbps=691250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=gh2YwDFiW2wdLmknXu7XO6kG&gir=yes&mt=1634679871&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=XKgz7ZzIetFpsA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAJY1aWJ6-yFaJCl0bjInbl7y0h4baB995cLxn3j9xWfwAiEAyjqorvoIn0offbwAVxAlgpy6qXDvPsWRVfWSKi2S69Q%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Chcs%2Csmhost%2Cinitcwndbps&lsig=AG3C_xAwRQIhAKQoOyg0aiUjXeJl5ylHoHrZClv-IqVdg2UWnTjuL4u1AiBYb6FxYvHokMid2poKZyaMZXcfFGSTbDPDNPHZrzgwnA%3D%3D&alr=yes&cpn=ohjB5wto-ElW11JH&cver=1.20211017.0.0&sq=2241656
