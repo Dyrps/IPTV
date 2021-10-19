@@ -1,5 +1,4 @@
-#EXTM3U
-
+# EXTM3U url-tvg = "https://i.mjh.nz/PlutoTV/br.xml.gz"
 #EXTINF: -1 tvg-id = "5fa97a8a75cc210007c9041d" tvg-name = "Guia de Canais" tvg-logo = "https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" group-title = "Plutão TV "tvg-chno =" 1 ", Guia de Canais
 https://stitcher.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98ec778-30b6-11ec-b799-0242ac110003
 #EXTINF: -1 tvg-id = "5f99ac4fded33000078f29ab" tvg-name = "Pluto TV Star Trek" tvg-logo = "https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png" group-title = " Filmes "tvg-chno =" 50 ", Pluto TV Star Trek
@@ -116,5 +115,3 @@ https://stitcher.pluto.tv/stitch/hls/channel/604b99d633a72b00078e05ad/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98ec778-30b6-11ec-b799-0242ac110003
 #EXTINF: -1 tvg-id = "6047ff2e5e61cf000784e4da" tvg-name = "MTV Spankin 'New" tvg-logo = "https://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/colorLogoPNG.png" group-title = " Música "tvg-chno =" 916 ", MTV Spankin 'Novo
 https://stitcher.pluto.tv/stitch/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98ec778-30b6-11ec-b799-0242ac110003
-
-
