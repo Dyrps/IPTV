@@ -11,4 +11,4 @@ http://painel.tvdigitalsbl.net:80/vo/vo/13257
 #EXTINF: -1 tvg-id = "" tvg-logo = "http://img2g.hdawiyr1g.xyz/gateway/files/3be86807-2969-4c65-897e-775e01757687" group-title = "TV Aberta", globo
 #EXTINF:-1 tvg-ID="" tvg-logo="https://faustinotv.me/kodi/img/discoverychannel.png"
 group-title="CANAIS | DOCUMENTÁRIOS", DISCOVERY CHANNEL 
-http://104.149.139.246:80/pablo1/pablo123/876227?token=RWJLdVhtNURJRnpuYTdp
+http://dns.clientetv.xyz:8080/deividy1598/845126fv/1948
