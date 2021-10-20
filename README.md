@@ -1,14 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:18
-#EXT-X-MEDIA-SEQUENCE:39087
-#EXT-X-DISCONTINUITY-SEQUENCE:0
-#EXTINF:3.866,
 
+#EXTINF: -1 tvg-id = "5f99ac4fded33000078f29ab" tvg-name = "Globo" tvg-logo = "https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png" group-title = " Filmes "tvg-chno =" 50 ", SBT HD
 media_w902022027_b216000_sleng_39087.ts
-#EXTINF:9.9,
-
-media_w902022027_b216000_sleng_39088.ts
-#EXTINF:10.534,
-
-media_w902022027_b216000_sleng_39089.ts
