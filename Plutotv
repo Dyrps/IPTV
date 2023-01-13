@@ -1,5 +1,4 @@
 #EXTM3U
 
-
-#EXTINF:0 group-title="Canal aberto" tvg-id="Globo SP" tvg-name="Globo SP Manaus" tvg-logo="https://i.imgur.com/4s6EL1E.png
+#EXTINF:-1tvg-id="Globo SP" tvg-logo="https://i.imgur.com/4s6EL1E.png group-title="Abertos",Globo SP
 http://168.205.87.198:8555/live/1052/123456/70.m3u8
