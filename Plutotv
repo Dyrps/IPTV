@@ -7,13 +7,4 @@ http://168.205.87.198:8555/live/1052/123456/70.ts
 http://168.205.87.198:8555/live/1052/123456/104.ts
 
 #EXTINF:-1tvg-id="Discovery channel" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/Discovery channel-logo-0-1536x1536.png" group-title="Abertos", Discovery channel 
-http://104.149.155.250:18088/live/m3_DFwhzUuzfistv1_1080p/m3_DFwhzUuzfistv1_1080p_sensei_16827800-5.ts
-
-
-
-
-
-
-
-
-
+http://104.149.155.250:14631/v4/youshi/m3_E3D2EB66-67DF-49EC-8eea_720p_2M.m3u8?trans_id=playlist&app_ver=10001&dead_time=1673652139&media_code=m3_E3D2EB66-67DF-49EC-8eea_720p_2M&client_ip=0&user_id=800329&app_id=divinalista&token=dd2e4386993038bd0c4f1aba4e92d691
