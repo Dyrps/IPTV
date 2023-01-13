@@ -1,11 +1,9 @@
-Oi#EXTM3U
+#EXTM3U
 
-####
-CANAL ABERTO 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4s6EL1E.png"group-title="CANAL ABERTO", Globo 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4s6EL1E.png"group-title="Abertos",Globo SP
 http://168.205.87.198:8555/live/1052/123456/70.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/4s6EL1E.png"group-title="CANAL ABERTO", Sbt
-http://livemedia.mobi/detail_channel.php?StreamId=1257383
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4s6EL1E.png"group-title="Abertos",Sbt
+http://94.23.145.233:80/kd42mvoc/psifoztl/18611?token=TxRaWEpeRw5HUghfBAEAAQlSWl8OAQQNBQxVUQZaX1IEBwRcWA8EVVIVFURDTEtUUQ49UFNGDgUKAwUDTkETQlFEbVBdFF8WVwQKUQcOGx0SFwtUUkYOBQQCBwRQWlEADBoQSVBSRw5HBQhQBwsbHRIGGk1SFlpVXmpQVxQKBVQWDFxMVVpJFgpZZgJVVVhfVEFYGwdGGBZbRkQQWA0TXVgaEFtQQhdVEVIbXBIJDgQAQU4bVAtBWkZHTRBYQTNiFhoQXEFCAFoWXlYIEgIbRUNBThteF2tGV0ZAQAcCC1RGFAgbCRRJFghWQTlTV1dfVQAWUFgKRxYIFwUQTkELXlpfRlZLaRVdARUDRAQJCgYSHg==
+
 
