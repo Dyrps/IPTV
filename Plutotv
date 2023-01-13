@@ -1,4 +1,4 @@
 #EXTM3U
-
-EXTINF:-1 tvg-id="CANAL DO BOI" tvg-logo="http://i.imgur.com/NKRWvKq.png"group-title="CANAL ABERTO", CANAL DO BOI
-http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+##############
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_ReGlobo.png"group-title="Abertos",Globo SP
+http://168.205.87.198:8555/live/1052/123456/70.m3u8
