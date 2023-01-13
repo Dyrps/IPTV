@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1tvg-id="Globo SP" tvg-logo="https://i.imgur.com/4s6EL1E.png" group-title="Abertos",Globo SP
-http://168.205.87.198:8555/hls-live/1052/123456/70.ts
+http://168.205.87.198:8555/live/1052/123456/70.ts
 
 #EXTINF:-1tvg-id="Sbt" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-1536x1536.png" group-title="Abertos",SBT
 http://168.205.87.198:8555/live/1052/123456/104.ts
