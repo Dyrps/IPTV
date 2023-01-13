@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4s6EL1E.png"group-title="Abertos",Globo SP
-http://168.205.87.198:8555/live/1052/123456/70.m3u8
 
-#EXTINF:-1 tvg-logo="http://digitalbr.live/logos/img/sbt.png"group-title="Abertos",Sbt
-http://94.23.145.233:80/kd42mvoc/psifoztl/18611?token=TxRaWEpeRw5HUghfBAEAAQlSWl8OAQQNBQxVUQZaX1IEBwRcWA8EVVIVFURDTEtUUQ49UFNGDgUKAwUDTkETQlFEbVBdFF8WVwQKUQcOGx0SFwtUUkYOBQQCBwRQWlEADBoQSVBSRw5HBQhQBwsbHRIGGk1SFlpVXmpQVxQKBVQWDFxMVVpJFgpZZgJVVVhfVEFYGwdGGBZbRkQQWA0TXVgaEFtQQhdVEVIbXBIJDgQAQU4bVAtBWkZHTRBYQTNiFhoQXEFCAFoWXlYIEgIbRUNBThteF2tGV0ZAQAcCC1RGFAgbCRRJFghWQTlTV1dfVQAWUFgKRxYIFwUQTkELXlpfRlZLaRVdARUDRAQJCgYSHg==
+#EXTINF:0 group-title="Canal aberto" tvg-id="Globo SP" tvg-name="Globo SP Manaus" tvg-logo="https://i.imgur.com/4s6EL1E.png
+http://168.205.87.198:8555/live/1052/123456/70.m3u8
