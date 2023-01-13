@@ -3,5 +3,5 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4s6EL1E.png"group-title="Abertos",Globo SP
 http://168.205.87.198:8555/live/1052/123456/70.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4s6EL1E.png"group-title="Abertos",Sbt
+#EXTINF:-1 tvg-logo="http://digitalbr.live/logos/img/sbt.png"group-title="Abertos",Sbt
 http://94.23.145.233:80/kd42mvoc/psifoztl/18611
