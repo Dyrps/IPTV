@@ -1,8 +1,11 @@
 #EXTM3U
 
 ####
-Canal aberto 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4s6EL1E.png"group-title="Canal aberto", Globo SP
+CANAL ABERTO 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4s6EL1E.png"group-title="CANAL ABERTO", Globo 
 http://168.205.87.198:8555/live/1052/123456/70.m3u8
+
+
 
 
