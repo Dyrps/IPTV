@@ -1,6 +1,4 @@
-#EXTM3U url-tvg="https://github.com/epgshare01/share01/raw/master/epg_ripper_ALL_SOURCES1.xml.gz"
-
-
+#EXTM3U url-tvg=""
 #EXTINF:-1tvg-id="Globo SP" tvg-logo="https://i.imgur.com/4s6EL1E.png" group-title="Abertos",Globo SP
 http://168.205.87.198:8555/hls-live/1052/123456/70
 
