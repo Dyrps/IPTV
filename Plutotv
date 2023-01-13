@@ -1,6 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="CANAL DO BOI" tvg-logo="http://i.imgur.com/NKRWvKq.png"group-title="CANAL ABERTO", CANAL DO BOI
+EXTINF:-1 tvg-id="CANAL DO BOI" tvg-logo="http://i.imgur.com/NKRWvKq.png"group-title="CANAL ABERTO", CANAL DO BOI
 http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/eadc1bacb17aea28d29fefc19868b5e1.png"group-title="Abertos",SBT
-http://xcui.vitvabc.xyz:8880/hls-live/287994026547/287994026547/16749
