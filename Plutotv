@@ -1,4 +1,4 @@
-#EXTM3U
+Oi#EXTM3U
 
 ####
 CANAL ABERTO 
@@ -7,7 +7,7 @@ CANAL ABERTO
 http://168.205.87.198:8555/live/1052/123456/70.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/4s6EL1E.png"group-title="CANAL ABERTO", Sbt
-http://livemedia.mobi/detail_channel.php?StreamId=1257383.m3u8
+http://livemedia.mobi/detail_channel.php?StreamId=1257383
 
 
 
