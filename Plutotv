@@ -1,6 +1,5 @@
 #EXTM3U url-tvg=""
 
-#EXTINF:-1tvg-id="A&E" tvg-logo="http://digitalbr.live/logos/img/ae.png" group-title="Canais l Filmes e séries",A&E
-http://rctv.tech:80/openbox10/kafta145/5040
+#EXTINF:-
 
-
+http://loadbl2.online:8080/get.php?username=86579883&password=74118879&type=m3u_plus
