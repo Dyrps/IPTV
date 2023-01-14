@@ -1,4 +1,4 @@
 #EXTM3U url-tvg="https://github.com/epgshare01/share01/raw/master/epg_ripper_ALL_SOURCES1.xml.gz"
 
 #EXTINF:-1tvg-id="A&E" tvg-logo="http://digitalbr.live/logos/img/ae.png" group-title="Canais l Filmes e séries",A&E
-http://rctv.tech:80/openbox10/kafta145/5040
+http://rctv.tech:80/openbox10/kafta145/5040.m3u
