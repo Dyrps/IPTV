@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://iptvx.one/epg/epg_lite.xml.gz Источник: https://gogosmart.pro/pt/texnologii/iptv/epg.html"
+#EXTM3U url-tvg="https://github.com/epgshare01/share01/raw/master/epg_ripper_ALL_SOURCES1.xml.gz"
 
 #EXTINF:-1tvg-id="A&E" tvg-logo="http://digitalbr.live/logos/img/ae.png" group-title="Canais l Filmes e séries",A&E
 http://rctv.tech:80/openbox10/kafta145/5040
