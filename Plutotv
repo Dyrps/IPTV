@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.lineup.tv.br/gdc.php"
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz Источник: https://gogosmart.pro/pt/texnologii/iptv/electronic-program-guide.html"
 
 #EXTINF:-1tvg-id="Globo HD" tvg-logo="http://digitalbr.live/logos/img/globo.png" group-title="Canais l Globo",Globo HD
 http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/1032
