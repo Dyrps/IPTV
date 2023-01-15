@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U 
 
-EXTINF:-1tvg-id="A&E" tvg-logo="http://digitalbr.live/logos/img/ae.png"group-title="Canais l Filmes e series",A&E
-http://rctv.tech:80/openbox10/kafta145/5040
+EXTINF:-1 group-title="Canais l Filmes e séries" tvg-logo="http://digitalbr.live/logos/img/ae.png",A&E
+http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/1030
