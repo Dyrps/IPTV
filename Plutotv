@@ -3,4 +3,5 @@ B#EXTM3U url-tvg="http://iptvx.one/epg/epg_lite.xml.gz"
 #EXTINF:-1tvg-id="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1-768x771.png" group-title="Canais l Discovery Channel", Discovery Channel 
 http://winne.contentservidir.online.global.prod.fastly.net:80/live/discoverychannel/play1.m3u8
 #EXTINF:-1tvg-id="Telecine Pipoca" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcpipocab.png" group-title="Canais l Telecine", Telecine Pipoca
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecinepipoca/play1.m3u_plus
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecinepipoca/play1.m3u8
+
