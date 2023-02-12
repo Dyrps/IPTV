@@ -8,3 +8,6 @@ http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecinepipoc
 
 #EXTINF:-1tvg-id="Telecine Action" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcactionb.png" group-title="Canais l Telecine", Telecine Action
 http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecineaction/play1.m3u8
+
+#EXTINF:-1tvg-id="Telecine Premium" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcpipocab.png" group-title="Canais l Telecine", Telecine Premium 
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecinepremium/play1.m3u8
