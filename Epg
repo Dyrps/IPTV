@@ -5,3 +5,6 @@ http://winne.contentservidir.online.global.prod.fastly.net:80/live/discoverychan
 
 #EXTINF:-1tvg-id="Telecine Pipoca" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcpipocab.png" group-title="Canais l Telecine", Telecine Pipoca
 http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecinepipoca/play1.m3u8
+
+#EXTINF:-1tvg-id="Telecine Action" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcactionb.png" group-title="Canais l Telecine", Telecine Action
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecineaction/play1.m3u8
