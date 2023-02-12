@@ -11,3 +11,6 @@ http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecineactio
 
 #EXTINF:-1tvg-id="Telecine Premium" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcpipocab.png" group-title="Canais l Telecine", Telecine Premium 
 http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecinepremium/play1.m3u8
+
+#EXTINF:-1tvg-id="Globo" tvg-logo="https://i.postimg.cc/N0qDCFRp/Logotipo_da_TV_Globo.png" group-title="Canais l Aberto", Globo 
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/globo/play1.m3u8
