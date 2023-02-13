@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://acstatic.co/epg/epg.xml"
+Oi#EXTM3U url-tvg="http://acstatic.co/epg/epg.xml"
 
 #EXTINF:-1tvg-id="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1-768x771.png" group-title="Canais l Discovery Channel", Discovery Channel 
 http://winne.contentservidir.online.global.prod.fastly.net:80/live/discoverychannel/play1.m3u8
@@ -27,5 +27,5 @@ http://winne.contentservidir.online.global.prod.fastly.net:80/live/hbo/plus/play
 EXTINF:-1tvg-id="Fx" tvg-logo="https://i.imgur.com/QHbhhmg.png" group-title="Canais l Filmes e Séries", Fx
 http://winne.contentservidir.online.global.prod.fastly.net:80/live/fx/play1.m3u8
 
-EXTINF:-1tvg-id="Fx" tvg-logo="https://i.imgur.com/3pOqmPF.png" group-title="Canais l Variedades", Multishow 
+EXTINF:-1tvg-id="Multishow" tvg-logo="https://i.imgur.com/3pOqmPF.png" group-title="Canais l Variedades", Multishow 
 http://winne.contentservidir.online.global.prod.fastly.net:80/live/multishow/play1.m3u8
