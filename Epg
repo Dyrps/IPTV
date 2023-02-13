@@ -23,3 +23,9 @@ http://winne.contentservidir.online.global.prod.fastly.net:80/live/hbo2/play1.m3
 
 #EXTINF:-1tvg-id="Hbo2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/hbo2b.png" group-title="Canais l Hbo", Hbo2
 http://winne.contentservidir.online.global.prod.fastly.net:80/live/hbo/plus/play1.m3u8
+
+EXTINF:-1tvg-id="Fx" tvg-logo="https://i.imgur.com/QHbhhmg.png" group-title="Canais l Filmes e Séries", Fx
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/fx/play1.m3u8
+
+EXTINF:-1tvg-id="Fx" tvg-logo="https://i.imgur.com/3pOqmPF.png" group-title="Canais l Variedades", Multishow 
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/multishow/play1.m3u8
