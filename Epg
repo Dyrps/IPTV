@@ -1,104 +1,510 @@
-#EXTM3U
-
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/9.ts
-http://168.205.87.198:8555/live/1437/123456/10.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/61.ts
-http://168.205.87.198:8555/live/1437/123456/62.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/69.ts
-http://168.205.87.198:8555/live/1437/123456/70.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/73.ts
-http://168.205.87.198:8555/live/1437/123456/74.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/9.ts
-http://168.205.87.198:8555/live/1437/123456/10.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/91.ts
-http://168.205.87.198:8555/live/1437/123456/92.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/95.ts
-http://168.205.87.198:8555/live/1437/123456/96.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/97.ts
-http://168.205.87.198:8555/live/1437/123456/98.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/101.ts
-http://168.205.87.198:8555/live/1437/123456/102.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/103.ts
-http://168.205.87.198:8555/live/1437/123456/104.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/105.ts
-http://168.205.87.198:8555/live/1437/123456/106.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/133.ts
-http://168.205.87.198:8555/live/1437/123456/134.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/135.ts
-http://168.205.87.198:8555/live/1437/123456/136.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/137.ts
-http://168.205.87.198:8555/live/1437/123456/138.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/143.ts
-http://168.205.87.198:8555/live/1437/123456/144.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/145.ts
-http://168.205.87.198:8555/live/1437/123456/146.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/147.ts
-http://168.205.87.198:8555/live/1437/123456/148.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/149.ts
-http://168.205.87.198:8555/live/1437/123456/150.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/151.ts
-http://168.205.87.198:8555/live/1437/123456/152.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/159.ts
-http://168.205.87.198:8555/live/1437/123456/160.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/163.ts
-http://168.205.87.198:8555/live/1437/123456/164.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/165.ts
-http://168.205.87.198:8555/live/1437/123456/166.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/189.ts
-http://168.205.87.198:8555/live/1437/123456/190.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/201.ts
-http://168.205.87.198:8555/live/1437/123456/202.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/205.ts
-http://168.205.87.198:8555/live/1437/123456/206.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/215.ts
-http://168.205.87.198:8555/live/1437/123456/216.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/217.ts
-http://168.205.87.198:8555/live/1437/123456/218.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/219.ts
-http://168.205.87.198:8555/live/1437/123456/220.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/221.ts
-http://168.205.87.198:8555/live/1437/123456/222.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/223.ts
-http://168.205.87.198:8555/live/1437/123456/224.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/225.ts
-http://168.205.87.198:8555/live/1437/123456/226.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/227.ts
-http://168.205.87.198:8555/live/1437/123456/228.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", http://168.205.87.198:8555/live/1437/123456/229.ts
-http://168.205.87.198:8555/live/1437/123456/230.ts
-
++GLOBOSAT	+globosat.br	
+463
+A&E HD	Ae.br	
+3394
+Amazon Sab	AmazonSat.br	
+23
+AMC	Amc.br	
+1926
+PLANETA ANIMAL	Animalplanet.br	
+3569
+ANOS 2000	anos2000.br	
+4
+ANOS 60	anos60.br	
+ANOS 70	anos70.br	
+4
+ANOS 80	anos80.br	
+4
+ANOS 90	anos90.br	
+ARTE 1	Arte1.br	
+417
+AXN HD	axn.br	
+3416
+TV PARA BEBÊS	BabyTV.br	
+252
+BANDA	Bandeirantes.br	
+3367
+BANDA FM	bandfm.br	
+NOTÍCIAS DE BANDA	bandnews.br	
+3220
+BANDSPORTSHD	Bandsports.br	
+5310
+BBC MUNDO	BBCworld.br	
+3
+BBC NOTÍCIAS MUNDIAIS	BBCworldnews.br	
+7
+BH FM	bhfm.br	
+9
+BISHD	bis.br	
+593
+PRETO	Black.br	
+303
+BLOOMBERG	Bloomberg.br	
+35
+BLUES	Blues.br	
+TV BOA VONTADE	Boavontadetv.br	
+66
+Bumerangue	Boomerang.br	
+692
+BOSSA NOVA	Bossanova.br	
+4
+BUSCA DE CANAIS	buscadecanais.br	
+Canal 21	Canal21.br	
+CANAL BRASIL	canalbrasil.br	
+2158
+CANAL DO CLIENTE	canaldocliente.br	
+1
+CANAL RURAL	canalrural.br	
+171
+CANCÃO NOVA	Cancaonova.br	
+3010
+CARTOON NETWORK	cartoonnetwork.br	
+2097
+CBN	Cbn.br	
+3
+CÉU DE VERIFICAÇÃO	Checkupsky.br	
+TV CINEBRASIL	Cinebrasiltv.br	
+2
+CINEMAXHD	Cinemax.br	
+1911
+CLIMATEMPO	Climatempo.br	
+CLUBE FM	Clubefm.br	
+3
+CNN Brasil	CNNBrasil.br	
+2463
+CNN INTERNACIONAL	Cnninternacional.br	
+217
+CNT	Cnt.br	
+32
+COMBATE HD	Combate.br	
+2554
+CENTRAL DA COMÉDIA	Comedycentral.br	
+1066
+DISCOTECA	Disco.br	
+CANAL DE DESCOBERTA HD	Discovery.br	
+5583
+civilização da descoberta	DiscoveryCivilization.br	
+523
+DISCOVERY HOME & HEALTH HD	Homehealth.br	
+3185
+DISCOVERY KIDS	Discoverykids.br	
+1868
+DESCOBERTA DA CIÊNCIA	DiscoveryScience.br	
+1600
+DISCOVERY THEATER HD	Discoverytheaterhd.br	
+993
+DESCOBERTA TURBO	Discturbohd.br	
+3121
+DISCOVERY WORLD HD	Discoveryworldhd.br	
+592
+DISCOVERY WORLD HD	Discoveryworld.br	
+626
+CANAL DISNEY	Disneychannel.br	
+841
+DISNEY JÚNIOR	Disneyjrhd.br	
+887
+DISNEY XD	Disneyxd.br	
+29
+DW (DEUTSCH+)	Dw(alemão+).br	
+279
+E!	E.br	
+648
+Ei Maxx	Eimaxx.br	
+Ei Maxx 2	Eimaxx2.br	
+ELETRÔNICA	Eletrônica.br	
+1
+EPTV CAMPINAS	Eptvcampinas.br	
+1409
+EPTV R.PRETO	Eptvrpreto.br	
+34
+EPTV SUL DE MINAS HD	Eptvsulminas.br	
+439
+ESOTÉRICO	Esotérico.br	
+ESPN	Espn.br	
+6809
+ESPN 2	ESPN2.br	
+7611
+ESPN 3	ESPN3.br	
+941
+ESPN 4	ESPN4.br	
+4004
+ESPN BRASIL	Espnbrasil.br	
+3730
+ESPN EXTRAHD	Espnextra.br	
+2692
+ESPORTE INT	Esporteint.br	
+29
+ESPORTE INT 2	esporteint2.br	
+ESPORTE INT BR	esporteintbr.br	
+Esporte Interativo	EsporteInterativo.br	
+1
+EUROCHANNEL	Eurochannel.br	
+37
+FESTA	Festa.br	
+FESTA JUNINA	festajunina.br	
+FILME E ARTES	FilmArts.br	
+398
+FISH TV HD	Fishtv.br	
+1049
+FOOD NETWORK HD	foodnetworkhd.br	
+1331
+FORRO	Forró.br	
+4
+RAPOSA	Fox.br	
+1277
+FOX LIFE	Foxlife.br	
+600
+CANAL FOX NEWS	FoxNews.br	
+2
+FOX PREMIUM 1	Foxpremium1.br	
+98
+FOX PREMIUM 2	Foxpremium2.br	
+111
+FOX SPORTS	Foxsports.br	
+1184
+FOX SPORTS 2 HD BRASIL	Foxsports2.br	
+1266
+FUTURA	Futura.br	
+452
+FX HD	Fx.br	
+2472
+Brilho	Glitz.br	
+Globo Anhanguera Goiás	GloboAnhangueraGoias.br	
+339
+GLOBO BELO HORIZONTE HD	globobh.br	
+209
+GLOBO BRASÍLIA HD	Globobrasilia.br	
+2730
+Globo Minas	Globominas.br	
+1148
+GLOBO NOTÍCIAS	Globonews.br	
+4352
+GLOBO NOTÍCIAS HD	Globonewshd.br	
+2926
+GLOBO RECIFE	Globorecife.br	
+384
+GLOBO RIO	Globorj.br	
+8222
+GLOBO SÃO PAULO HD	Globosp.br	
+23694
+GLOOBHD	gloob.br	
+1543
+GNT	Gnt.br	
+818
+GNTHD	gnthd.br	
+1062
+CANAL DE GOLFE	Golfchannel.br	
+23
+EVANGELHO	gospel.br	
+61
+HBO FAMÍLIA HD	Hbofamily.br	
+2985
+HBOHD	Hbo.br	
+4184
+HBO MUNDI	Max.br	
+2724
+HBO PLUS HD	Hboplus.br	
+4109
+HBO PLUS*e	Hbopluse.br	
+81
+HBO POP	maxup.br	
+1449
+HBO SIGNATURE HD	Hbosignature.br	
+830
+HBO XTREME	maxprime.br	
+3695
+HBO2HD	Hbo2.br	
+2388
+HIP HOP	hiphop.br	
+3
+HISTÓRIA 2	H2.br	
+1679
+HD HISTÓRICO	Historychannel.br	
+2496
+I.SAT	iSat.br	
+44
+TV IDEAL	Idealtv.br	
+42
+INTERTV CABUGI HD	Inttvcabugi.br	
+236
+INTERTV GRANDE MINAS HD	Intertvgminas.br	
+122
+INVESTIGAÇÃO DESCOBERTA	Investigacaodiscoveryid.br	
+2422
+ITATIAIA AM/FM	Itatiaiaamfm.br	
+ITV GAMES	itvgames.br	
+ITV LOTERIAS	Itvloterias.br	
+JAZZ	Jazz.br	
+2
+JOIAS VIP	Joiasvip.br	
+JOVEM PAN AM	jovempanam.br	
+JOVEM PAN FM	jovempanfm.br	
+1
+Notícias Jovem Pan	JovemPanNews.br	
+543
+CRIANÇAS	Kids.br	
+640
+VIDA BRASIL	Lifetime.br	
+764
+SAGUÃO	Lounge.br	
+9
+MAXPRIME*e	maxprimee.br	
+2
+MEGAPIXHD	Megapix.br	
+4852
+METAL	Metal.br	
+9
+MGM	MGM.br	
+Mix TV	Mixtv.br	
+73
+MOSAICO	Mosaico.br	
+1767
+MOSAICO ADULTO	Mosaicoadulto.br	
+MOSAICO ESPN	Mosaicoespn.br	
+MOSAICO ITV	Mosaicoitv.br	
+MPB	mpb.br	
+2
+MTV BRASIL	Mtv.br	
+568
+MULTISHOW HD	Multishow.br	
+3209
+MÚSICA CLÁSSICA	Musicaclassica.br	
+NATIONAL GEOGRAPHIC HD	Nationalgeographic.br	
+2457
+NATIONAL GEOGRAPHIC SELVAGEM HD	Natgeowildhd.br	
+109
+NATIVA	Nativa.br	
+2
+NBR	Nbr.br	
+2263
+NOVA ROCHA	Newrock.br	
+4
+NHK	Nhk.br	
+269
+Nick Jr.	NickJr.br	
+965
+NICKELODEON HD	Nickelodeon.br	
+932
+DESLIGADO	Off.br	
+1108
+PACOTES DE PROGRAMAÇÃO	pacotesdeprogramacao.br	
+PAGODE	pagode.br	
+3
+REDE PARAMOUNT	Paramounthd.br	
+1908
+REPRODUZIR TV	Playtv.br	
+67
+PLAYBOY	playboy.br	
+1542
+PLAYBOYTV	Playboytv.br	
+3486
+POLISHOP	Polishop.br	
+114
+HITS POP	Pophits.br	
+6
+Estreia 10	Premiere10.br	
+9
+ESTREIA 2	Premiere2.br	
+4936
+ESTREIA 3	Premiere3.br	
+1308
+ESTREIA 4	Premiere4.br	
+2019
+ESTREIA 5 BRASIL	Premiere5.br	
+663
+ESTREIA 6	Premiere6.br	
+913
+ESTREIA 7	Premiere7.br	
+1039
+ESTREIA 8	Premiere8.br	
+336
+ESTREIA 9	Premiere9.br	
+31
+CLUBES DE ESTRÉIA	Premiereclubes.br	
+15206
+RC DO PARÁ	Recdopara.br	
+RAI	Rai.br	
+17
+RBI	Rbi.br	
+RBS TV PORTO ALEGRE HD	Rbstvpoa.br	
+1249
+RCI	Rci.br	
+18
+GRAVAR HD	Rederecord.br	
+6167
+NOTÍCIAS GRAVADAS	Recordnews.br	
+1060
+REDE AMAZÔNICA MANAUS HD	Redeamazonica.br	
+546
+REDE BRASIL	redebrasil.br	
+192
+REDE FAMÍLIA	RedeFamilia.br	
+REDE GÊNESIS	RedeGenesis.br	
+274
+Rede Internacional de TV	RedeInternacionaldeTV.br	
+3
+REDE SUPER	RedeSuperdeTelevisao.br	
+46
+REDE VIDA	Redevida.br	
+3378
+REDETV!	redetv.br	
+2443
+REGGAE	Reggae.br	
+2
+RFI	Rfi.br	
+RIT TV	Rit.br	
+60
+ROCK BRASIL	Rockbrasil.br	
+ROCK CLÁSSICO	Rockclassico.br	
+PEDRAS ROLANTES	Rollingstones.br	
+ROMÂNTICAS	Romanticas.br	
+RPC CURITIBA HD	Rpccuritiba.br	
+1254
+Rádio CBN BH	Radiocbnbh.br	
+Rádio CBN BSB	Radiocbnbsb.br	
+Rádio CBN RJ	Radiocbnrj.br	
+RÁDIO GAÚCHA	Radiogaucha.br	
+1
+RÁDIO GLOBO RJ	Radiogloborj.br	
+1
+RÁDIO GLOBO SP	Radioglobosp.br	
+SAMBA DE RAIZ	sambaderaiz.br	
+TV SANTA CECÍLIA	SantaCeciliaTV.br	
+8
+SBT	Sbt.br	
+4768
+SERT. UNIVER.	Sertuniver.br	
+SERTANEJO	sertanejo.br	
+112
+SESCTV	SESCTV.br	
+29
+ZONA SEXUAL	Sexzone.br	
+SEXPRIVE	Sexpriv.br	
+1761
+SEXY HOT	sexyhot.br	
+10480
+SHOPTIME	Shoptime.br	
+168
+SIC INTERNACIONAL	sic.br	
+135
+CÉU	Sky.br	
+4
+SKY EMPRESAS	Skyempresas.br	
+SKY INFORMA	Skyinforma.br	
+SKY Rádios	Skyradios.br	
+CANAL SONY HD	Sony.br	
+2559
+ESPAÇO	espaço.br	
+2663
+ESPAÇO HD	spacehd.br	
+1191
+ESPORTVHD	Sportv.br	
+17978
+SPORTV2HD	Sportv2.br	
+4598
+SPORTV3HD	Sportv3.br	
+2415
+ESTÚDIO UNIVERSAL	Studiouniversal.br	
+1632
+SUNDANCE HD	Sundancehd.br	
+SYFY	Syfy.br	
+2188
+TBSHD	Tbs.br	
+839
+MTC	Tcm.br	
+592
+TELECINE ACTION HD	Tcaction.br	
+4846
+TELECINE CULT HD	Tccult.br	
+2774
+TELECINE FUN HD	Tcfun.br	
+3588
+TELECINE PIPOCA HD	Tcpipoca.br	
+5125
+TELECINE PREMIUM HD	Tcpremium.br	
+5797
+TELECINE TOUCH HD	Tctouch.br	
+3975
+TERRAVIVA	Terraviva.br	
+129
+TLC	Tlc.br	
+1201
+TNTHD	Tnt.br	
+3199
+SÉRIE TNT	TNTSerie.br	
+2708
+TOONCAST	Tooncast.br	
+185
+TRANSAMÉRICA POP	Transamericapop.br	
+Viver Viajar	TravelLiving.br	
+1
+TRUTVHD	Trutv.br	
+478
+TV AMAZONASHD	Tvamazonashd.br	
+TV ANHANGUERA HD	Tvanhangueragoiania.br	
+10
+TV APARECIDA	Tvaparecida.br	
+1205
+TV ASSEMBLEIA DE MINAS GERAIS	tvassembleia.br	
+14
+TV BAHIAHD	tvbahia.br	
+517
+TV BRASIL	tvbrasil.br	
+560
+TV Brasil Central	TVBrasilCentral.br	
+TV CÂMARA	tvcamara.br	
+127
+TV CENTRO AMÉRICA CUIABA HD	Centroamerica.br	
+51
+TV CIDADÂNIA	Tvcidadania.br	
+TV CLIMATEMPO	tvclimattempo.br	
+TV COMUNITÁRIA	tvcomunitaria.br	
+TV CULTURA	Tvcultura.br	
+521
+TV ESCOLA	tvescola.br	
+79
+TV ESPANHA	TVespanha.br	
+2
+TV GAZETA HD	TVGazeta.br	
+457
+TV JUSTIÇA	Tvjustica.br	
+122
+TV LIBERALHD	tvliberalbelem.br	
+90
+TV NOVO TEMPO	TVnovotempo.br	
+112
+TV RA TIM BUM!	TVratimbum.br	
+320
+TV SENADO	Tvsenado.br	
+160
+TV TEM BAURU	Tvtembauru.br	
+156
+Tv TEM ITAP.	tvtemitap.br	
+TV TEM SJRP	TVtemsjrp.br	
+TV TEM SOROCABA	tvtemsorocaba.br	
+117
+TV TRIBUNA	Tvtribuna.br	
+40
+TV UNIVERSITÁRIA	Tvuniversitaria.br	
+1
+TV União	TVUnião.br	
+64
+TV VERDES MARES HD	Verdesmares.br	
+1072
+TV5MONDE	tv5monde.br	
+14
+TV UNIVERSAL HD	Universalchannel.br	
+4832
+VANG SÃO JC	Vangsaojc.br	
+VANG TAUBATÉ	Vangtaubate.br	
+VH1	VH1.br	
+105
+VH1 Mega Hits	VH1MegaHits.br	
+14
+VIVA	viva.br	
+4139
+WARNER HD	Warnerchannel.br	
+5117
+WOOHOO	Woohoo.br	
+301
+ZOOMOO KIDS HD	Zoomoo.br
