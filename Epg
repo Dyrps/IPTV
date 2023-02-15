@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://iptvx.one/epg/epg_lite.xml.gz"
+#EXTM3U url-tvg="http://acstatic.co/epg/epg.xml"
 
 #EXTINF:-1tvg-id="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1-768x771.png" group-title="Canais l Discovery Channel", Discovery Channel 
 http://warez.la:80/9462431/3792669/18.m3u8
