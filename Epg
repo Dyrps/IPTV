@@ -1,15 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:11460
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:7
-#EXTINF:4.800000,
-
+#EXTINF
 http://glob.sempretobisha.ga.global.prod.fastly.net/live/globo/globo_11460_66.ts
-#EXTINF:4.800000,
 
-http://glob.sempretobisha.ga.global.prod.fastly.net/live/globo/globo_11461_66.ts
-#EXTINF:4.800000,
-
-http://glob.sempretobisha.ga.global.prod.fastly.net/live/globo/globo_11462_66.ts
-#EXTINF:4.800000,
