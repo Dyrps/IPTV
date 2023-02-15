@@ -1,46 +1,45 @@
 #EXTM3U
-
 #EXTINF:0,http://45.58.126.146:14039/play.m3u8
 http://45.58.126.146:14048/play.m3u8	http://45.58.126.146:14049/play.m3u8
-#EXTINF:0,ramal	http://45.58.126.146:14054/play.m3u8	http://45.58.126.146:14055/play.m3u8
+#EXTINF:0,http://45.58.126.146:14054/play.m3u8	http://45.58.126.146:14055/play.m3u8
 http://45.58.126.146:14052/play.m3u8	http://45.58.126.146:14053/play.m3u8
-#EXTINF:0,ramal	http://45.58.126.146:14056/play.m3u8	http://45.58.126.146:14057/play.m3u8
+#EXTINF:0,http://45.58.126.146:14056/play.m3u8	http://45.58.126.146:14057/play.m3u8
 http://45.58.126.146:14078/play.m3u8	http://45.58.126.146:14079/play.m3u8
-#EXTINF:0,ramal	http://45.58.126.146:14084/play.m3u8	http://45.58.126.146:14085/play.m3u8
+#EXTINF:0,http://45.58.126.146:14084/play.m3u8	http://45.58.126.146:14085/play.m3u8
 http://45.58.126.146:14130/play.m3u8	http://45.58.126.146:14131/play.m3u8
-#EXTINF:0,ramal	http://45.58.126.146:14122/play.m3u8	http://45.58.126.146:14123/play.m3u8
+#EXTINF:0,http://45.58.126.146:14122/play.m3u8	http://45.58.126.146:14123/play.m3u8
 http://45.58.126.146:14154/play.m3u8	http://45.58.126.146:14155/play.m3u8
-#EXTINF:0,ramal	http://45.58.126.146:14208/play.m3u8	http://45.58.126.146:14209/play.m3u8
+#EXTINF:0,http://45.58.126.146:14208/play.m3u8	http://45.58.126.146:14209/play.m3u8
 http://45.58.126.146:14196/play.m3u8	http://45.58.126.146:14197/play.m3u8
-#EXTINF:0,ramal	http://45.58.126.146:14202/play.m3u8	http://45.58.126.146:14203/play.m3u8
+#EXTINF:0,http://45.58.126.146:14202/play.m3u8	http://45.58.126.146:14203/play.m3u8
 http://45.58.126.146:14214/play.m3u8	http://45.58.126.146:14215/play.m3u8
-#EXTINF:0,ramal	http://45.58.126.146:14230/play.m3u8	http://45.58.126.146:14231/play.m3u8
+#EXTINF:0,http://45.58.126.146:14230/play.m3u8	http://45.58.126.146:14231/play.m3u8
 http://45.58.126.146:14248/play.m3u8	http://45.58.126.146:14249/play.m3u8
-#EXTINF:0,ramal	http://45.58.126.146:14240/play.m3u8	http://45.58.126.146:14241/play.m3u8
+#EXTINF:0,http://45.58.126.146:14240/play.m3u8	http://45.58.126.146:14241/play.m3u8
 http://45.58.126.146:14272/play.m3u8	http://45.58.126.146:14273/play.m3u8
-#EXTINF:0,ramal	http://45.58.126.146:14260/play.m3u8	http://45.58.126.146:14261/play.m3u8
+#EXTINF:0,http://45.58.126.146:14260/play.m3u8	http://45.58.126.146:14261/play.m3u8
 http://45.58.126.146:14328/play.m3u8	http://45.58.126.146:14329/play.m3u8
-#EXTINF:0,ramal	http://45.58.126.146:14266/play.m3u8	http://45.58.126.146:14267/play.m3u8
+#EXTINF:0,http://45.58.126.146:14266/play.m3u8	http://45.58.126.146:14267/play.m3u8
 http://45.58.126.146:14254/play.m3u8	http://45.58.126.146:14255/play.m3u8
-#EXTINF:0,ramal	http://45.58.126.146:14292/play.m3u8	http://45.58.126.146:14293/play.m3u8
+#EXTINF:0,http://45.58.126.146:14292/play.m3u8	http://45.58.126.146:14293/play.m3u8
 http://45.58.126.146:14316/play.m3u8	http://45.58.126.146:14317/play.m3u8
-#EXTINF:0,ramal	http://45.58.126.146:14286/play.m3u8	http://45.58.126.146:14287/play.m3u8
+#EXTINF:0,http://45.58.126.146:14286/play.m3u8	http://45.58.126.146:14287/play.m3u8
 http://45.58.126.146:14310/play.m3u8	http://45.58.126.146:14311/play.m3u8
-#EXTINF:0,ramal	http://45.58.126.146:14298/play.m3u8	http://45.58.126.146:14299/play.m3u8
-ramal	http://45.58.126.146:14322/play.m3u8	http://45.58.126.146:14323/play.m3u8
-#EXTINF:0,ramal	http://45.58.126.146:14302/play.m3u8	http://45.58.126.146:14303/play.m3u8
-ramal	http://45.58.126.146:14280/play.m3u8	http://45.58.126.146:14281/play.m3u8
-#EXTINF:0,ramal	http://45.58.126.146:14334/play.m3u8	http://45.58.126.146:14335/play.m3u8
-ramal	http://45.58.126.146:14304/play.m3u8	http://45.58.126.146:14305/play.m3u8
-#EXTINF:0,ramal	http://45.58.126.146:14344/play.m3u8	http://45.58.126.146:14345/play.m3u8
+#EXTINF:0,http://45.58.126.146:14298/play.m3u8	http://45.58.126.146:14299/play.m3u8
+http://45.58.126.146:14322/play.m3u8	http://45.58.126.146:14323/play.m3u8
+#EXTINF:0,http://45.58.126.146:14302/play.m3u8	http://45.58.126.146:14303/play.m3u8
+http://45.58.126.146:14280/play.m3u8	http://45.58.126.146:14281/play.m3u8
+#EXTINF:0,http://45.58.126.146:14334/play.m3u8	http://45.58.126.146:14335/play.m3u8
+http://45.58.126.146:14304/play.m3u8	http://45.58.126.146:14305/play.m3u8
+#EXTINF:0,http://45.58.126.146:14344/play.m3u8	http://45.58.126.146:14345/play.m3u8
 http://45.58.126.146:14350/play.m3u8	http://45.58.126.146:14351/play.m3u8
-#EXTINF:0,ramal	http://45.58.126.146:14010/play.m3u8	http://45.58.126.146:14011/play.m3u8
+#EXTINF:0,http://45.58.126.146:14010/play.m3u8	http://45.58.126.146:14011/play.m3u8
 http://45.58.126.146:14340/play.m3u8	http://45.58.126.146:14341/play.m3u8
-#EXTINF:0,ramal	http://45.58.126.146:14524/play.m3u8	http://45.58.126.146:14525/play.m3u8
+#EXTINF:0,http://45.58.126.146:14524/play.m3u8	http://45.58.126.146:14525/play.m3u8
 http://45.58.126.146:14704/play.m3u8	http://45.58.126.146:14705/play.m3u8
-#EXTINF:0,ramal	http://45.58.126.146:14706/play.m3u8	http://45.58.126.146:14707/play.m3u8
+#EXTINF:0,http://45.58.126.146:14706/play.m3u8	http://45.58.126.146:14707/play.m3u8
 http://45.58.126.146:14712/play.m3u8	http://45.58.126.146:14713/play.m3u8
-#EXTINF:0,ramal	http://45.58.126.146:14708/play.m3u8	http://45.58.126.146:14709/play.m3u8
+#EXTINF:0,http://45.58.126.146:14708/play.m3u8	http://45.58.126.146:14709/play.m3u8
 http://45.58.126.146:14532/play.m3u8	http://45.58.126.146:14533/play.m3u8
-#EXTINF:0,ramal	http://45.58.126.146:14152/play.m3u8	http://45.58.126.146:14153/play.m3u8
+#EXTINF:0,http://45.58.126.146:14152/play.m3u8	http://45.58.126.146:14153/play.m3u8
 http://45.58.126.146:14554/play.m3u8	http://45.58.126.146:14555/play.m3u8
