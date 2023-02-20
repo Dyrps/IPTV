@@ -46,7 +46,7 @@ http://45.58.126.146:14090/live/globo.ts
 http://45.58.126.146:14123/live/sbt.ts
 
 #EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Sbt" , Sbt
-http://45.58.126.146:14126/live/sbt.td
+http://45.58.126.146:14126/live/sbt.ts
 
 #EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Sbt" , Sbt
 http://45.58.126.146:14131/live/sbt.ts
@@ -70,10 +70,10 @@ http://45.58.126.146:14153/live/record.ts
 http://45.58.126.146:14155/live/record.ts
 
 #EXTINF:-1 tvg-id="Record" tvg-name="Record"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Record" , Record 
-http://45.58.126.146:14158/live/record.m3u8
+http://45.58.126.146:14158/live/record.ts
 
 #EXTINF:-1 tvg-id="Record" tvg-name="Record"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Record" , Record 
-http://45.58.126.146:14166/live/record.m3u8
+http://45.58.126.146:14166/live/record.ts
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Cartoon Network 
 http://45.58.126.146:14197/live/Cartoon_network.ts
