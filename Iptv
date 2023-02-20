@@ -42,13 +42,13 @@ http://45.58.126.146:14085/globo.ts
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
 http://45.58.126.146:14090/globo.ts
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l SBT" , SBT
+#EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Sbt" , Sbt
 http://45.58.126.146:14123/sbt.ts
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l SBT" , SBT
+#EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Sbt" , Sbt
 http://45.58.126.146:14126/sbt.td
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l SBT" , SBT
+#EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Sbt" , Sbt
 http://45.58.126.146:14131/sbt.ts
 
 #EXTINF:-1 tvg-id="Band" tvg-name="Band"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Band" , Band
@@ -99,7 +99,7 @@ http://45.58.126.146:14238/globo_news.ts
 #EXTINF:-1 tvg-id="JP News" tvg-name="JP News"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Notícias" , JP News 
 http://45.58.126.146:14241/jp_news.ts
 
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , Animal Planet 
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentarios" , Animal Planet 
 http://45.58.126.146:14249/animal_planet.ts
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery Channel 
@@ -108,8 +108,8 @@ http://45.58.126.146:14252/discovery_channel.ts
 #EXTINF:-1 tvg-id="Discovery H&H Channel" tvg-name="Discovery H&H Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery H&H
 http://45.58.126.146:14255/discovery_h&h.ts
 
-#EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery ID
-http://45.58.126.146:14258/discovery_id.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery Channel
+http://45.58.126.146:14258/discovery_channel.ts
 
 #EXTINF:-1 tvg-id="Discovery Science Channel" tvg-name="Discovery Science"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery Science 
 http://45.58.126.146:14261/discovery_science.ts
@@ -118,4 +118,16 @@ http://45.58.126.146:14261/discovery_science.ts
 http://45.58.126.146:14264/discovery_theater.ts
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery Turbo
-http://45.58.126.146:14267/discovery_turbo.m3u8
+http://45.58.126.146:14267/discovery_turbo.ts
+
+#EXTINF:-1 tvg-id="TCL" tvg-name="TCL"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Variedades" , TCL
+http://45.58.126.146:14270/tcl.ts
+
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery World" , Discovery World
+http://45.58.126.146:14273/dicovery_world.ts
+
+#EXTINF:-1 tvg-id="History" tvg-name="History"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , History
+http://45.58.126.146:14281/history.ts
+
+#EXTINF:-1 tvg-id="History 2" tvg-name="History 2"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , History 2
+http://45.58.126.146:14284/history_2.m3u8
