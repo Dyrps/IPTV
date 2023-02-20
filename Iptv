@@ -123,7 +123,7 @@ http://45.58.126.146:14267/discovery_turbo.ts
 #EXTINF:-1 tvg-id="TCL" tvg-name="TCL"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Variedades" , TCL
 http://45.58.126.146:14270/tcl.ts
 
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Disccovery" , Discovery World
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery World
 http://45.58.126.146:14273/discovery_world.ts
 
 #EXTINF:-1 tvg-id="History" tvg-name="History"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , History
