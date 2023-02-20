@@ -70,13 +70,13 @@ EXTINF:-1 tvg-id="Record" tvg-name="Record"  tvg-logo="https://marcas-logos.net/
 http://45.58.126.146:14155/live/record.ts
 
 EXTINF:-1 tvg-id="Record" tvg-name="Record"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Record" , Record 
-http://45.58.126.146:14158/live/record.m3u8
+http://45.58.126.146:14158/live/record.ts
 
 EXTINF:-1 tvg-id="Record" tvg-name="Record"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Record" , Record 
-http://45.58.126.146:14166/live/record.m3u8
+http://45.58.126.146:14166/live/record.ts
 
 EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Cartoon Network 
-http://45.58.126.146:14197/live/Cartoon_network.m3u8
+http://45.58.126.146:14197/live/Cartoon_network.ts
 
 EXTINF:-1 tvg-id="Cartonito" tvg-name="Cartonito"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Cartonito 
 http://45.58.126.146:14200/live/cartonito.ts
