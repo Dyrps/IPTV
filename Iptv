@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://acstatic.co/epg/epg.xml"
 
-#EXTINF:-1tvg-id="Globo Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1-768x771.png" 
+#EXTINF:-1tvg-id="Globo" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1-768x771.png" 
 group-title="Canais l Globo", Globo
 http://45.58.126.146:14008/live/globo.m3u8
