@@ -177,7 +177,8 @@ http://45.58.126.146:14320/paramont.ts
 #EXTINF:-1 tvg-id="Space" tvg-name="Space"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Space
 http://45.58.126.146:14323/space.ts
 
-#EXTINF:-1 tvg-id="Cine Canal" tvg-name="Cine Canal"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Cine Canal http://45.58.126.146:14326/cine_canal.ts
+#EXTINF:-1 tvg-id="Cine Canal" tvg-name="Cine Canal"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Cine Canal 
+http://45.58.126.146:14326/cine_canal.ts
 
 #EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Star Channel 
 http://45.58.126.146:14329/star_channel.ts
