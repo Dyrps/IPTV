@@ -211,10 +211,10 @@ EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca"  tvg-logo="https:/
 http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecinepipoca/play1.ts
 
 EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Premium 
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecinepremium.ts
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecinepremium/play1.ts
 
 EXTINF:-1 tvg-id="HBO" tvg-name="HBO"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/hbo.ts
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/hbo/play1.ts
 
 EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO2
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/hbo2.ts
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/hbo2/play1.ts
