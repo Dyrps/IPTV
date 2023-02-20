@@ -141,3 +141,27 @@ http://45.58.126.146:14293/a&e.ts
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , AMC
 http://45.58.126.146:14296/amc.ts
 
+#EXTINF:-1 tvg-id="National geographic" tvg-name="National geographic"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , National Geographic
+http://45.58.126.146:14287/national_geographic.ts
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filme e Séries" , A&E
+http://45.58.126.146:14293/a&e.ts
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , AXN
+http://45.58.126.146:14299/axn.ts
+
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Sony
+http://45.58.126.146:14302/sony.ts
+ 
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Sony
+http://45.58.126.146:14303/sony.ts
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Cinemax
+http://45.58.126.146:14305/cinemax.ts
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Variedades" , Comedy Central 
+http://45.58.126.146:14308/comedy_central.ts
+
+#EXTINF:-1 tvg-id="Fx" tvg-name="Fx"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Fx
+http://45.58.126.146:14311/fx.ts
+
