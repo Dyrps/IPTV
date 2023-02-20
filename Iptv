@@ -1,5 +1,3 @@
-#EXTM3U url-tvg="http://acstatic.co/epg/epg.xml"
-
-#EXTINF:-1tvg-id = tvg-name = "Globo" tvg-logo="" 
-group-title="Canais l Globo", Globo
+#EXTM3U
+#EXTINF:-1 tvg-logo="..." group-title="Canais l Globo",Globo
 http://45.58.126.146:14008/live/globo.m3u8
