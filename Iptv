@@ -42,13 +42,13 @@ http://45.58.126.146:14085/globo.ts
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
 http://45.58.126.146:14090/globo.ts
 
-#EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Sbt" , Sbt
+#EXTINF:-1 tvg-id="Sbt" tvg-name="SBT"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l SBT" , SBT
 http://45.58.126.146:14123/sbt.ts
 
-#EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Sbt" , Sbt
+#EXTINF:-1 tvg-id="Sbt" tvg-name="SBT"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l SBT" , SBT
 http://45.58.126.146:14126/sbt.td
 
-#EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Sbt" , Sbt
+#EXTINF:-1 tvg-id="Sbt" tvg-name="SBT"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l SBT" , SBT
 http://45.58.126.146:14131/sbt.ts
 
 #EXTINF:-1 tvg-id="Band" tvg-name="Band"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Band" , Band
