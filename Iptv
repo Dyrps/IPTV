@@ -1,122 +1,116 @@
-#EXTM3U url-tvg="http://acstatic.co/epg/epg.xml"
-
-#EXTINF:-1tvg-id="Globo" tvg-logo="" 
-group-title="Canais l Globo", Globo
-http://45.58.126.146:14008/live/globo.m3u8
-
-#EXTINF:-1tvg-id="Globo" tvg-logo="" 
+#EXTINF:-1tvg-id="Globo" tvg-logo=" " 
 group-title="Canais l Globo", Globo
 http://45.58.126.146:14011/live/globo.m3u8
 
-#EXTINF:-1tvg-id="Globo" tvg-logo="" 
+#EXTINF:-1tvg-id="Globo" tvg-logo=" " 
 group-title="Canais l Globo", Globo
 Globo
 http://45.58.126.146:14014/live/globo.m3u8
 
-#EXTINF:-1tvg-id="Globo" tvg-logo="" 
+#EXTINF:-1tvg-id="Globo" tvg-logo=" " 
 group-title="Canais l Globo", Globo
 Globo
 http://45.58.126.146:14020/live/globo.m3u8
 
-#EXTINF:-1tvg-id="Globo" tvg-logo="" 
+#EXTINF:-1tvg-id="Globo" tvg-logo=" " 
 group-title="Canais l Globo", Globo
 Globo
 http://45.58.126.146:14039/live/globo.m3u8
 
-#EXTINF:-1tvg-id="Globo" tvg-logo="" 
+#EXTINF:-1tvg-id="Globo" tvg-logo=" " 
 group-title="Canais l Globo", Globo
 Globo
 http://45.58.126.146:14044/live/globo.m3u8
 
-#EXTINF:-1tvg-id="Globo" tvg-logo="" 
+#EXTINF:-1tvg-id="Globo" tvg-logo=" " 
 group-title="Canais l Globo", Globo
 Globo
 http://45.58.126.146:14046/live/globo.m3u8
 
-#EXTINF:-1tvg-id="Globo" tvg-logo="" 
+#EXTINF:-1tvg-id="Globo" tvg-logo=" " 
 group-title="Canais l Globo", Globo
 Globo
 http://45.58.126.146:14049/live/globo.m3u8
 
-#EXTINF:-1tvg-id="Globo" tvg-logo="" 
+#EXTINF:-1tvg-id="Globo" tvg-logo=" " 
 group-title="Canais l Globo", Globo
 Globo
 http://45.58.126.146:14053/live/globo.m3u8
 
-#EXTINF:-1tvg-id="Globo" tvg-logo="" 
+#EXTINF:-1tvg-id="Globo" tvg-logo=" " 
 group-title="Canais l Globo", Globo
 Globo
 http://45.58.126.146:14055/live/globo.m3u8
 
-#EXTINF:-1tvg-id="Globo" tvg-logo="" 
+#EXTINF:-1tvg-id="Globo" tvg-logo=" " 
 group-title="Canais l Globo", Globo
 Globo
 http://45.58.126.146:14066/live/globo.m3u8
 
-#EXTINF:-1tvg-id="Globo" tvg-logo="" 
+#EXTINF:-1tvg-id="Globo" tvg-logo=" " 
 group-title="Canais l Globo", Globo
 Globo
 http://45.58.126.146:14070/live/globo.m3u8
 
-#EXTINF:-1tvg-id="Globo" tvg-logo="" 
+#EXTINF:-1tvg-id="Globo" tvg-logo=" " 
 group-title="Canais l Globo", Globo
 Globo 
 http://45.58.126.146:14079/live/globo.m3u8
 
-#EXTINF:-1tvg-id="Globo" tvg-logo="" 
+#EXTINF:-1tvg-id="Globo" tvg-logo=" " 
 group-title="Canais l Globo", Globo
 Globo 
 http://45.58.126.146:14085/live/globo.m3u8
 
-#EXTINF:-1tvg-id="Globo" tvg-logo="" 
+#EXTINF:-1tvg-id="Globo" tvg-logo=" " 
 group-title="Canais l Globo", Globo
 Globo
 http://45.58.126.146:14090/live/globo.m3u8
 
-#EXTINF:-1tvg-id="Sbt" tvg-logo="" 
+#EXTINF:-1tvg-id="Sbt" tvg-logo=" " 
 group-title="Canais l Sbt", Sbt
 http://45.58.126.146:14123/live/sbt.m3u8
 
-#EXTINF:-1tvg-id="Sbt" tvg-logo="" 
+#EXTINF:-1tvg-id="Sbt" tvg-logo=" " 
 group-title="Canais l Sbt", Sbt
 http://45.58.126.146:14126/live/sbt.m3u8
 
-#EXTINF:-1tvg-id="Sbt" tvg-logo="" 
+#EXTINF:-1tvg-id="Sbt" tvg-logo=" " 
 group-title="Canais l Sbt", Sbt
 http://45.58.126.146:14131/live/sbt.m3u8
 
-#EXTINF:-1tvg-id="Band" tvg-logo="" 
+#EXTINF:-1tvg-id="Band" tvg-logo=" " 
 group-title="Canais l Band", Band
 http://45.58.126.146:14140/live/band.m3u8
 
-#EXTINF:-1tvg-id="Band" tvg-logo="" 
+#EXTINF:-1tvg-id="Band" tvg-logo=" " 
 group-title="Canais l Band", Band
 http://45.58.126.146:14144/live/band.m3u8
 
-#EXTINF:-1tvg-id="Band" tvg-logo="" 
+#EXTINF:-1tvg-id="Band" tvg-logo=" " 
 group-title="Canais l Band", Band
 http://45.58.126.146:14148/live/band.m3u8
 
-#EXTINF:-1tvg-id="Record" tvg-logo="" 
+#EXTINF:-1tvg-id="Record" tvg-logo=" " 
 group-title="Canais l Record", Record 
 http://45.58.126.146:14153/live/record.m3u8
 
-#EXTINF:-1tvg-id="Record" tvg-logo="" 
+#EXTINF:-1tvg-id="Record" tvg-logo=" " 
 group-title="Canais l Globo", Globo
 http://45.58.126.146:14153/live/record.m3u8
 
-#EXTINF:-1tvg-id="Record" tvg-logo="" 
+#EXTINF:-1tvg-id="Record" tvg-logo=" " 
 group-title="Canais l Record", Record
 http://45.58.126.146:14155/live/record.m3u8
 
-#EXTINF:-1tvg-id="Record" tvg-logo="" 
+#EXTINF:-1tvg-id="Record" tvg-logo=" " 
 group-title="Canais l Record", Record 
 http://45.58.126.146:14158/live/record.m3u8
 
-#EXTINF:-1tvg-id="Record" tvg-logo="" 
+#EXTINF:-1tvg-id="Record" tvg-logo=" " 
 group-title="Canais l Record", Record
 http://45.58.126.146:14166/live/record.m3u8
 
-#EXTINF:-1tvg-id="Cartoon Network" tvg-logo="" 
+#EXTINF:-1tvg-id="Cartoon Network" tvg-logo=" " 
 group-title="Canais l Infantil", Cartoon Network 
 http://45.58.126.146:14197/live/Cartoon_network.m3u8
