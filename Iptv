@@ -55,9 +55,6 @@ http://45.58.126.146:14131/sbt.ts
 http://45.58.126.146:14140/band.ts
 
 #EXTINF:-1 tvg-id="Band" tvg-name="Band"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Band" , Band
-http://45.58.126.146:14144/band.ts
-
-#EXTINF:-1 tvg-id="Band" tvg-name="Band"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Band" , Band
 http://45.58.126.146:14148/band.ts
 
 #EXTINF:-1 tvg-id="Record" tvg-name="Record"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Record" , Record 
