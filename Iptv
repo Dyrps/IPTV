@@ -46,7 +46,7 @@ EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt"  tvg-logo="https://marcas-logos.net/wp-con
 http://45.58.126.146:14123/live/sbt.ts
 
 EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Sbt" , Sbt
-http://45.58.126.146:14126/live/sbt.td
+http://45.58.126.146:14126/live/sbt.ts
 
 EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Sbt" , Sbt
 http://45.58.126.146:14131/live/sbt.ts
