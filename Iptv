@@ -102,7 +102,7 @@ http://45.58.126.146:14238/globo_news.ts
 #EXTINF:-1 tvg-id="JP News" tvg-name="JP News"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Notícias" , JP News 
 http://45.58.126.146:14241/jp_news.ts
 
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentarios" , Animal Planet 
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , Animal Planet 
 http://45.58.126.146:14249/animal_planet.ts
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery Channel 
