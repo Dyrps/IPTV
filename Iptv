@@ -111,8 +111,8 @@ http://45.58.126.146:14252/discovery_channel.ts
 #EXTINF:-1 tvg-id="Discovery H&H Channel" tvg-name="Discovery H&H Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery H&H
 http://45.58.126.146:14255/discovery_h&h.ts
 
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery Channel
-http://45.58.126.146:14258/discovery_channel.ts
+#EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery ID
+http://45.58.126.146:14258/discovery_id.ts
 
 #EXTINF:-1 tvg-id="Discovery Science Channel" tvg-name="Discovery Science"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery Science 
 http://45.58.126.146:14261/discovery_science.ts
