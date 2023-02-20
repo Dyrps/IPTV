@@ -1,4 +1,4 @@
 #EXTM3U url-tvg="http://acstatic.co/epg/epg.xml"
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" ,Globo
-http://45.58.126.146:14011/live.ts
+http://45.58.126.146:14011/live/globo.ts
