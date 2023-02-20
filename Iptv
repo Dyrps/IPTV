@@ -205,16 +205,16 @@ http://45.58.126.146:14348/universal_tv.ts
 http://45.58.126.146:14351/warner_channel .ts
 
 EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Action 
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecineaction/play1.ts
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecineaction/play1.m3u8
 
 EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Pipoca 
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecinepipoca/play1.ts
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecinepipoca/play1.m3u8
 
 EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Premium 
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecinepremium/play1.ts
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecinepremium/play1.m3u8
 
 EXTINF:-1 tvg-id="HBO" tvg-name="HBO"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/hbo/play1.ts
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/hbo/play1.m3u8
 
 EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO2
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/hbo2/play1.ts
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/hbo2/play1.m3u8
