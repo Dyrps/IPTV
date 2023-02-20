@@ -1,3 +1,6 @@
+
+#EXTM3U url-tvg="http://acstatic.co/epg/epg.xml"
+
 #EXTINF:-1tvg-id="Globo" tvg-logo=" " 
 group-title="Canais l Globo", Globo
 http://45.58.126.146:14011/live/globo.m3u8
