@@ -135,7 +135,7 @@ http://45.58.126.146:14284/history_2.ts
 #EXTINF:-1 tvg-id="National geographic" tvg-name="National geographic"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , National Geographic
 http://45.58.126.146:14287/national_geographic.ts
 
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filme e Séries" , A&E
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , A&E
 http://45.58.126.146:14293/a&e.ts
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , AMC
