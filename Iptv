@@ -130,4 +130,4 @@ http://45.58.126.146:14273/dicovery_world.ts
 http://45.58.126.146:14281/history.ts
 
 #EXTINF:-1 tvg-id="History 2" tvg-name="History 2"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , History 2
-http://45.58.126.146:14284/history_2.m3u8
+http://45.58.126.146:14284/history_2.ts
