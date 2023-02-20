@@ -192,10 +192,10 @@ http://45.58.126.146:14335/syfy.ts
 #EXTINF:-1 tvg-id="Tbs" tvg-name="Tbs"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Tbs
 http://45.58.126.146:14338/tbs.ts
 
-#EXTINF:-1 tvg-id="Tnt" tvg-name="TNT"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , TNT
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , TNT
 http://45.58.126.146:14345/tnt.ts
 
-#EXTINF:-1 tvg-id="Tnt Séries" tvg-name="TNT Séries"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , TNT Séries 
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Séries"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , TNT Séries 
 http://45.58.126.146:14345/tnt_series.ts
 
 #EXTINF:-1 tvg-id="Universal Tv" tvg-name="Universal Tv"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Universal Tv 
