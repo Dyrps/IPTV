@@ -1,6 +1,5 @@
 EXTM3U url-tvg="http://acstatic.co/epg/epg.xml"
 
-
 #EXTINF:-1 tvg-id="A&E" 
 tvg-name="A&E"  
 tvg-logo=https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" 
@@ -475,7 +474,7 @@ tvg-logo=https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png"
 group-title="Canais l Filme e Séries" , A&E  
 http://45.58.126.146:5078/play.ts
 
-#EXTINF:-1 tvg-id="A&E" 
+#EXTINF:-1 tvg-id="A&E"
 tvg-name="A&E"  
 tvg-logo=https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" 
 group-title="Canais l Filme e Séries" , A&E  
