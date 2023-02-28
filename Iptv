@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="http://acstatic.co/epg/epg.xml"
 
-
 #EXTINF:-1 tvg-logo="https://midias.correiobraziliense.com.br/_midias/jpg/2022/11/30/675x450/1_6a124562_0e1a_445c_a64f_c03fd2cdf4c8-26959279.jfif?20221130183641?20221130183641" group-title="Canais l BBB 2023", Acompanhe a Casa
 http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/279824
 
@@ -172,13 +171,13 @@ http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149914
 #EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/06853ea758cbc3864417bd2927656aef.png" group-title="Canais l Filmes e Séries", Megapix HD*
 http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149912
 
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/06853ea758cbc3864417bd2927656aef.png" group-title="Canais l  Filmes e Séries", Megapix SD¹
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/06853ea758cbc3864417bd2927656aef.png" group-title="Canais l Filmes e Séries", Megapix SD¹
 http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150023
 
 #EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/51ec16566a66b9d0c159ed49cf2f2289.png" group-title="Canais l Filmes e Séries", Sony FHD (H265)
 http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/119370
 
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/51ec16566a66b9d0c159ed49cf2f2289.png" group-title="Canais l  Filmes e Séries", Sony FHD¹
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/51ec16566a66b9d0c159ed49cf2f2289.png" group-title="Canais l Filmes e Séries", Sony FHD¹
 http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149823
 
 #EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/51ec16566a66b9d0c159ed49cf2f2289.png" group-title="Canais l Filmes e Séries", Sony FHD*
