@@ -1,12 +1,35 @@
 #EXTM3U
 
-group,Canais l Globo
-ext,Globosp.br,Globo SP FHD (H265)¹,http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/269902
-ext,Globosp.br,Globo SP FHD (H265)²,http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/269901
-ext,Globosp.br,Globo SP FHD (H265)*,http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/269900
-ext,Globosp.br,Globo SP FHD,http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149599
-ext,Globosp.br,Globo SP FHD*,http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149596
-ext,Globosp.br,Globo SP HD,http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150005
-ext,Globosp.br,Globo SP HD*,http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149597
-ext,Globosp.br,Globo SP SD,http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150006
-ext,Globosp.br,Globo SP SD*,http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149598
+
+#EXTINF:-1 tvg-logo="https://midias.correiobraziliense.com.br/_midias/jpg/2022/11/30/675x450/1_6a124562_0e1a_445c_a64f_c03fd2cdf4c8-26959279.jfif?20221130183641?20221130183641" group-title="Canais l BBB 2023", Acompanhe a Casa
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/279824
+
+#EXTINF:-1 tvg-logo="https://midias.correiobraziliense.com.br/_midias/jpg/2022/11/30/675x450/1_6a124562_0e1a_445c_a64f_c03fd2cdf4c8-26959279.jfif?20221130183641?20221130183641" group-title="Canais l BBB 2023", Acompanhe a Casa 2
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/279825
+
+#EXTINF:-1 tvg-logo="https://midias.correiobraziliense.com.br/_midias/jpg/2022/11/30/675x450/1_6a124562_0e1a_445c_a64f_c03fd2cdf4c8-26959279.jfif?20221130183641?20221130183641" group-title="Canais l BBB 2023", Quarto Deserto
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/281781
+
+#EXTINF:-1 tvg-logo="https://midias.correiobraziliense.com.br/_midias/jpg/2022/11/30/675x450/1_6a124562_0e1a_445c_a64f_c03fd2cdf4c8-26959279.jfif?20221130183641?20221130183641" group-title="Canais l BBB 2023", Quarto Fundo Mar
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/281782
+
+#EXTINF:-1 tvg-logo="https://midias.correiobraziliense.com.br/_midias/jpg/2022/11/30/675x450/1_6a124562_0e1a_445c_a64f_c03fd2cdf4c8-26959279.jfif?20221130183641?20221130183641" group-title="Canais l BBB 2023", Sala
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/281783
+
+#EXTINF:-1 tvg-logo="https://midias.correiobraziliense.com.br/_midias/jpg/2022/11/30/675x450/1_6a124562_0e1a_445c_a64f_c03fd2cdf4c8-26959279.jfif?20221130183641?20221130183641" group-title="Canais l BBB 2023", Cozinha
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/281784
+
+#EXTINF:-1 tvg-logo="https://midias.correiobraziliense.com.br/_midias/jpg/2022/11/30/675x450/1_6a124562_0e1a_445c_a64f_c03fd2cdf4c8-26959279.jfif?20221130183641?20221130183641" group-title="Canais l BBB 2023", Piscina
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/281785
+
+#EXTINF:-1 tvg-logo="https://midias.correiobraziliense.com.br/_midias/jpg/2022/11/30/675x450/1_6a124562_0e1a_445c_a64f_c03fd2cdf4c8-26959279.jfif?20221130183641?20221130183641" group-title="Canais l BBB 2023", Jardim
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/281786
+
+#EXTINF:-1 tvg-logo="https://midias.correiobraziliense.com.br/_midias/jpg/2022/11/30/675x450/1_6a124562_0e1a_445c_a64f_c03fd2cdf4c8-26959279.jfif?20221130183641?20221130183641" group-title="Canais l BBB 2023", Academia
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/281787
+
+#EXTINF:-1 tvg-logo="https://midias.correiobraziliense.com.br/_midias/jpg/2022/11/30/675x450/1_6a124562_0e1a_445c_a64f_c03fd2cdf4c8-26959279.jfif?20221130183641?20221130183641" group-title="Canais l BBB 2023", Moisaco
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/281788
+
+#EXTINF:-1 tvg-logo="https://midias.correiobraziliense.com.br/_midias/jpg/2022/11/30/675x450/1_6a124562_0e1a_445c_a64f_c03fd2cdf4c8-26959279.jfif?20221130183641?20221130183641" group-title="Canais l BBB 2023", Quarto Secreto
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/281789
