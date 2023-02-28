@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://acstatic.co/epg/epg.xml"
 
 #EXTINF:-1 tvg-logo="https://midias.correiobraziliense.com.br/_midias/jpg/2022/11/30/675x450/1_6a124562_0e1a_445c_a64f_c03fd2cdf4c8-26959279.jfif?20221130183641?20221130183641" group-title="Canais l BBB 2023", Acompanhe a Casa
 http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/279824
