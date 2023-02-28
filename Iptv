@@ -1,28 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="Canais l Globo", Globo SP FHD (H265)¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/269902
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="Canais l Globo", Globo SP FHD (H265)²
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/269901
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="Canais l Globo", Globo SP FHD (H265)*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/269900
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="Canais l Globo", Globo SP FHD
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149599
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="Canais l Globo", Globo SP FHD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149596
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="Canais l Globo", Globo SP HD
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150005
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="Canais l Globo", Globo SP HD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149597
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="Canais l Globo", Globo SP SD
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150006
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="Canais l Globo", Globo SP SD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149598
+group,Canais l Globo
+ext,Globosp.br,Globo SP FHD (H265)¹,http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/269902
+ext,Globosp.br,Globo SP FHD (H265)²,http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/269901
+ext,Globosp.br,Globo SP FHD (H265)*,http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/269900
+ext,Globosp.br,Globo SP FHD,http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149599
+ext,Globosp.br,Globo SP FHD*,http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149596
+ext,Globosp.br,Globo SP HD,http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150005
+ext,Globosp.br,Globo SP HD*,http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149597
+ext,Globosp.br,Globo SP SD,http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150006
+ext,Globosp.br,Globo SP SD*,http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149598
