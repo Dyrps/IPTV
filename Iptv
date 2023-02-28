@@ -372,11 +372,24 @@ http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/269031
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Film%26Arts1998.png/revision/latest?cb=20200106220948&path-prefix=es" group-title="Canais l Filmes e Séries", Film & Arts FHD
 http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/269032
 
+
 #EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/509e5f41146e278f9eab1ddaceb34515.png" group-title="Canais l HBO", HBO FHD¹
 http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149693
 
 #EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/509e5f41146e278f9eab1ddaceb34515.png" group-title="Canais l HBO", HBO FHD*
 http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150829
+
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/509e5f41146e278f9eab1ddaceb34515.png" group-title="Canais l HBO", HBO FHD*
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150829
+
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/509e5f41146e278f9eab1ddaceb34515.png" Canais l HBO", HBO HD¹
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149694
+
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/509e5f41146e278f9eab1ddaceb34515.png" group-title="Canais l HBO", HBO HD*
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150828
+
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/509e5f41146e278f9eab1ddaceb34515.png" group-title="Canais l HBO", HBO SD ¹
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149695
 
 #EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/509e5f41146e278f9eab1ddaceb34515.png" group-title="Canais l HBO", HBO HD¹
 http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149694
@@ -386,6 +399,12 @@ http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150828
 
 #EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/509e5f41146e278f9eab1ddaceb34515.png" group-title="Canais l HBO", HBO SD ¹
 http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149695
+
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/675664b597f318f30d66c8d8834ea421.png" group-title="Canais l HBO", HBO 2 FHD¹
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149697
+
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/675664b597f318f30d66c8d8834ea421.png" group-title="Canais l HBO", HBO 2 FHD*
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150831
 
 #EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/675664b597f318f30d66c8d8834ea421.png" group-title="Canais l HBO", HBO 2 FHD¹
 http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149697
@@ -468,159 +487,4 @@ http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150014
 #EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/6db074bbc71d8f1fffbeeaeb9c450627.png" group-title="Canais l HBO", HBO POP SD¹
 http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150827
 
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/509e5f41146e278f9eab1ddaceb34515.png" group-title="Canais l HBO", HBO FHD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150829
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/509e5f41146e278f9eab1ddaceb34515.png" Canais l HBO", HBO HD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149694
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/509e5f41146e278f9eab1ddaceb34515.png" group-title="Canais l HBO", HBO HD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150828
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/509e5f41146e278f9eab1ddaceb34515.png" group-title="Canais l HBO", HBO SD ¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149695
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/675664b597f318f30d66c8d8834ea421.png" group-title="Canais l HBO", HBO 2 FHD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149697
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/675664b597f318f30d66c8d8834ea421.png" group-title="Canais l HBO", HBO 2 FHD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150831
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/c349cc59eaf3ea6dcb0f4741c8850fbb.png" group-title="Canais l Discovery", Discovery Channel FHD (H265)
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150754
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/c349cc59eaf3ea6dcb0f4741c8850fbb.png" group-title="Canais l Discovery", Discovery Channel FHD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149489
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/c349cc59eaf3ea6dcb0f4741c8850fbb.png" group-title="Canais l Discovery", Discovery Channel FHD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149487
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/c349cc59eaf3ea6dcb0f4741c8850fbb.png" group-title="Canais l Discovery", Discovery Channel HD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149972
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/c349cc59eaf3ea6dcb0f4741c8850fbb.png" group-title="Canais l Discovery", Discovery Channel SD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149486
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/2aa91284874cd8785bcf21c33492d4d2.png" group-title="Canais l Discovery", Discovery H&H FHD (H265)
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150755
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/2aa91284874cd8785bcf21c33492d4d2.png" group-title="Canais l Discovery", Discovery H&H FHD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149493
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/2aa91284874cd8785bcf21c33492d4d2.png" group-title="Canais l Discovery", Discovery H&H FHD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149490
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/2aa91284874cd8785bcf21c33492d4d2.png" group-title="Canais l Discovery", Discovery H&H HD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149492
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/2aa91284874cd8785bcf21c33492d4d2.png" group-title="Canais l Discovery", Discovery H&H HD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149491
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/2aa91284874cd8785bcf21c33492d4d2.png" group-title="Canais l Discovery", Discovery H&H SD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149973
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/159e1ad3fffca9cdcee3fcba3067ff4c.png" group-title="Canais l Discovery", Discovery Science FHD (H265)
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150756
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/159e1ad3fffca9cdcee3fcba3067ff4c.png" group-title="Canais l Discovery", Discovery Science FHD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149496
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/159e1ad3fffca9cdcee3fcba3067ff4c.png" group-title="Canais l Discovery", Discovery Science FHD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149494
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/159e1ad3fffca9cdcee3fcba3067ff4c.png" group-title="Canais l Discovery", Discovery Science HD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149497
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/159e1ad3fffca9cdcee3fcba3067ff4c.png" group-title="Canais l Discovery", Discovery Science HD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149495
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/159e1ad3fffca9cdcee3fcba3067ff4c.png" group-title="Canais l Discovery", Discovery Science SD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149974
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/6b6cd1f23d5b61b4dc2231abb3e61598.png" group-title="Canais l Discovery", Discovery Theater FHD (H265)
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150757
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/6b6cd1f23d5b61b4dc2231abb3e61598.png" group-title="Canais l Discovery", Discovery Theater FHD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149500
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/6b6cd1f23d5b61b4dc2231abb3e61598.png" group-title="Canais l Discovery", Discovery Theater FHD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149498
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/6b6cd1f23d5b61b4dc2231abb3e61598.png" group-title="Canais l Discovery", Discovery Theater HD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149501
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/6b6cd1f23d5b61b4dc2231abb3e61598.png" group-title="Canais l Discovery", Discovery Theater HD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149499
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/6b6cd1f23d5b61b4dc2231abb3e61598.png" group-title="Canais l Discovery", Discovery Theater SD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149975
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="Canais l Discovery", Discovery TLC FHD (H265)
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150758
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="Canais l Discovery", Discovery TLC FHD
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149502
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="Canais l Discovery", Discovery TLC HD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149503
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="Canais l Discovery", Discovery TLC HD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/175008
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="Canais l Discovery", Discovery TLC SD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149976
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/e1c318d5149af2f20062cd648c2c08e2.png" group-title="Canais l Discovery", Discovery Turbo FHD (H265)
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150759
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/e1c318d5149af2f20062cd648c2c08e2.png" group-title="Canais l Discovery", Discovery Turbo FHD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149506
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/e1c318d5149af2f20062cd648c2c08e2.png" group-title="Canais l Discovery", Discovery Turbo FHD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149504
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/e1c318d5149af2f20062cd648c2c08e2.png" group-title="Canais l Discovery", Discovery Turbo HD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149507
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/e1c318d5149af2f20062cd648c2c08e2.png" group-title="Canais l Discovery", Discovery Turbo HD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149505
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/e1c318d5149af2f20062cd648c2c08e2.png" group-title="Canais l Discovery", Discovery Turbo SD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149977
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/f84805a8d330949e37b1d7a55176a5f7.png" group-title="Canais l Discovery", Discovery World FHD (H265)
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150760
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/f84805a8d330949e37b1d7a55176a5f7.png" group-title="Canais l Discovery", Discovery World FHD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149510
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/f84805a8d330949e37b1d7a55176a5f7.png" group-title="Canais l Discovery", Discovery World FHD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149508
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/f84805a8d330949e37b1d7a55176a5f7.png" group-title="Canais l Discovery", Discovery World HD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149511
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/f84805a8d330949e37b1d7a55176a5f7.png" group-title="Canais l Discovery", Discovery World HD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149509
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/f84805a8d330949e37b1d7a55176a5f7.png" group-title="Canais l Discovery", Discovery World SD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149978
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="Canais l Discovery", Discovery ID - Investigação FHD (H265)
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150761
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="Canais l Discovery", Discovery ID - Investigação FHD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/175006
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="Canais l Discovery", Discovery ID - Investigação FHD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149512
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="Canais l Discovery", Discovery ID - Investigação HD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149514
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="Canais l Discovery", Discovery ID - Investigação HD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149513
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="Canais l Discovery", Discovery ID - Investigação SD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149515
 
