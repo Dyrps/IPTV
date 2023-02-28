@@ -486,24 +486,6 @@ http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149697
 #EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/675664b597f318f30d66c8d8834ea421.png" group-title="Canais l HBO", HBO 2 FHD*
 http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150831
 
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="Canais l Discovery", Discovery ID - Investigação FHD (H265)
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150761
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="Canais l Discovery", Discovery ID - Investigação FHD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/175006
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="Canais l Discovery", Discovery ID - Investigação FHD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149512
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="Canais l Discovery", Discovery ID - Investigação HD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149514
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="Canais l Discovery", Discovery ID - Investigação HD*
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149513
-
-#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="Canais l Discovery", ID - Investigação SD¹
-http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149515
-
 #EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/c349cc59eaf3ea6dcb0f4741c8850fbb.png" group-title="Canais l Discovery", Discovery Channel FHD (H265)
 http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150754
 
@@ -623,4 +605,22 @@ http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149509
 
 #EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/f84805a8d330949e37b1d7a55176a5f7.png" group-title="Canais l Discovery", Discovery World SD¹
 http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149978
+
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="Canais l Discovery", Discovery ID - Investigação FHD (H265)
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150761
+
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="Canais l Discovery", Discovery ID - Investigação FHD¹
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/175006
+
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="Canais l Discovery", Discovery ID - Investigação FHD*
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149512
+
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="Canais l Discovery", Discovery ID - Investigação HD¹
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149514
+
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="Canais l Discovery", Discovery ID - Investigação HD*
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149513
+
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b718adec73e04ce3ec720dd11a06a308.png" group-title="Canais l Discovery", Discovery ID - Investigação SD¹
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149515
 
