@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://midias.correiobraziliense.com.br/_midias/jpg/2022/11/30/675x450/1_6a124562_0e1a_445c_a64f_c03fd2cdf4c8-26959279.jfif?20221130183641?20221130183641" group-title="Canais l BBB 2023", Acompanhe a Casa
 http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/279824
 
@@ -33,3 +32,31 @@ http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/281788
 
 #EXTINF:-1 tvg-logo="https://midias.correiobraziliense.com.br/_midias/jpg/2022/11/30/675x450/1_6a124562_0e1a_445c_a64f_c03fd2cdf4c8-26959279.jfif?20221130183641?20221130183641" group-title="Canais l BBB 2023", Quarto Secreto
 http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/281789
+
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="Canais l Globo", Globo SP FHD (H265)¹
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/269902
+
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="Canais l Globo", Globo SP FHD (H265)²
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/269901
+
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="Canais l Globo", Globo SP FHD (H265)*
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/269900
+
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="Canais l Globo", Globo SP FHD
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149599
+
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="Canais l Globo", Globo SP FHD*
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149596
+
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="Canais l Globo", Globo SP HD
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150005
+
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="Canais l Globo", Globo SP HD*
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149597
+
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="Canais l Globo", Globo SP SD
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/150006
+
+#EXTINF:-1 tvg-logo="http://ccdntp.xyz:80/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="Canais l Globo", Globo SP SD*
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149598
+
