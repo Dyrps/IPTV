@@ -1,8 +1,214 @@
 #EXTM3U url-tvg="http://acstatic.co/epg/epg.xml"
 
-#EXTINF:-1 tvg-id="Warner " tvg-name="Warner"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes " , Warner
-https://list.iptvcat.com/my_list/s/5fd6f7d50c1362060e0a9df5b028e9cd.m3u8
 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
+http://45.58.126.146:14008
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
+http://45.58.126.146:14011/globo.ts
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
+http://45.58.126.146:14014/globo.ts
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
+http://45.58.126.146:14020/globo.ts
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
+http://45.58.126.146:14039/globo.ts
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
+http://45.58.126.146:14044/globo.ts
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
+http://45.58.126.146:14046/globo.ts
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
+http://45.58.126.146:14049/globo.ts
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
+http://45.58.126.146:14053/globo.ts
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
+http://45.58.126.146:14055/globo.ts
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
+http://45.58.126.146:14066/globo.ts
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
+http://45.58.126.146:14070/globo.ts
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
+http://45.58.126.146:14079/globo.ts
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
+http://45.58.126.146:14085/globo.ts
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
+http://45.58.126.146:14090/globo.ts
+
+#EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Sbt" , Sbt
+http://45.58.126.146:14123/sbt.ts
+
+#EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Sbt" , Sbt
+http://45.58.126.146:14126/sbt.td
+
+#EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Sbt" , Sbt
+http://45.58.126.146:14131/sbt.ts
+
+#EXTINF:-1 tvg-id="Band" tvg-name="Band"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Band" , Band
+http://45.58.126.146:14140/band.ts
+
+#EXTINF:-1 tvg-id="Band" tvg-name="Band"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Band" , Band
+http://45.58.126.146:14148/band.ts
+
+#EXTINF:-1 tvg-id="Record" tvg-name="Record"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Record" , Record 
+http://45.58.126.146:14153/record.ts
+
+#EXTINF:-1 tvg-id="Record" tvg-name="Record"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Record" , Record 
+http://45.58.126.146:14153/record.ts
+
+#EXTINF:-1 tvg-id="Record" tvg-name="Record"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Record" , Record 
+http://45.58.126.146:14158/record.ts
+
+#EXTINF:-1 tvg-id="Record" tvg-name="Record"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Record" , Record 
+http://45.58.126.146:14166/record.ts
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Cartoon Network 
+http://45.58.126.146:14197/Cartoon_network.ts
+
+#EXTINF:-1 tvg-id="Cartonito" tvg-name="Cartonito"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Cartonito 
+http://45.58.126.146:14200/cartonito.ts
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Discovery Kids 
+http://45.58.126.146:14203/discovery_kids.ts
+
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Gloob
+http://45.58.126.146:14209/gloob.ts
+
+#EXTINF:-1 tvg-id="Nick JR" tvg-name="Nick JR"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Nick JR 
+http://45.58.126.146:14212/nick_jr.ts
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Nickelodeon 
+http://45.58.126.146:14215/nickelodean.ts
+
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Notícias" , Band News 
+http://45.58.126.146:14231/bandnews.ts
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Notícias" , CNN 
+http://45.58.126.146:14234/cnn.ts
+
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Notícias" , Globo News 
+http://45.58.126.146:14238/globo_news.ts
+
+#EXTINF:-1 tvg-id="JP News" tvg-name="JP News"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Notícias" , JP News 
+http://45.58.126.146:14241/jp_news.ts
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , Animal Planet 
+http://45.58.126.146:14249/animal_planet.ts
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery Channel 
+http://45.58.126.146:14252/discovery_channel.ts
+
+#EXTINF:-1 tvg-id="Discovery H&H Channel" tvg-name="Discovery H&H Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery H&H
+http://45.58.126.146:14255/discovery_h&h.ts
+
+#EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery ID
+http://45.58.126.146:14258/discovery_id.ts
+
+#EXTINF:-1 tvg-id="Discovery Science Channel" tvg-name="Discovery Science"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery Science 
+http://45.58.126.146:14261/discovery_science.ts
+
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery Theater 
+http://45.58.126.146:14264/discovery_theater.ts
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery Turbo
+http://45.58.126.146:14267/discovery_turbo.ts
+
+#EXTINF:-1 tvg-id="TCL" tvg-name="TCL"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Variedades" , TCL
+http://45.58.126.146:14270/tcl.ts
+
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery World" , Discovery World
+http://45.58.126.146:14273/dicovery_world.ts
+
+#EXTINF:-1 tvg-id="History" tvg-name="History"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , History
+http://45.58.126.146:14281/history.ts
+
+#EXTINF:-1 tvg-id="History 2" tvg-name="History 2"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , History 2
+http://45.58.126.146:14284/history_2.ts
+
+#EXTINF:-1 tvg-id="National geographic" tvg-name="National geographic"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , National Geographic
+http://45.58.126.146:14287/national_geographic.ts
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , A&E
+http://45.58.126.146:14293/a&e.ts
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , AMC
+http://45.58.126.146:14296/amc.ts
+
+#EXTINF:-1 tvg-id="National geographic" tvg-name="National geographic"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , National Geographic
+http://45.58.126.146:14287/national_geographic.ts
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filme e Séries" , A&E
+http://45.58.126.146:14293/a&e.ts
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , AXN
+http://45.58.126.146:14299/axn.ts
+
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Sony
+http://45.58.126.146:14302/sony.ts
+ 
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Sony
+http://45.58.126.146:14303/sony.ts
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Cinemax
+http://45.58.126.146:14305/cinemax.ts
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Variedades" , Comedy Central 
+http://45.58.126.146:14308/comedy_central.ts
+
+#EXTINF:-1 tvg-id="Fx" tvg-name="Fx"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Fx
+http://45.58.126.146:14311/fx.ts
+
+#EXTINF:-1 tvg-id="Life Time" tvg-name="Life Time"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Variedades" , Life Time 
+http://45.58.126.146:14314/lifetime.ts
+
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Megapix 
+http://45.58.126.146:14317/megapix.ts
+
+#EXTINF:-1 tvg-id="Paramont" tvg-name="Paramont"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Paramont 
+http://45.58.126.146:14320/paramont.ts
+
+#EXTINF:-1 tvg-id="Space" tvg-name="Space"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Space
+http://45.58.126.146:14323/space.ts
+
+#EXTINF:-1 tvg-id="Cine Canal" tvg-name="Cine Canal"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Cine Canal http://45.58.126.146:14326/cine_canal.ts
+
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Star Channel 
+http://45.58.126.146:14329/star_channel.ts
+
+ #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Studio Universal 
+http://45.58.126.146:14332/studio_univesal.ts
+
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Syfy
+http://45.58.126.146:14335/syfy.ts
+
+#EXTINF:-1 tvg-id="Tbs" tvg-name="Tbs"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Tbs
+http://45.58.126.146:14338/tbs.ts
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , TNT
+http://45.58.126.146:14345/tnt.ts
+
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Séries"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , TNT Séries 
+http://45.58.126.146:14345/tnt_series.ts
+
+#EXTINF:-1 tvg-id="Universal Tv" tvg-name="Universal Tv"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Universal Tv 
+http://45.58.126.146:14348/universal_tv.ts
+
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Warner Channel 
+http://45.58.126.146:14351/warner_channel .ts
+
+#EXTINF:-1 tvg-id="Warner " tvg-name="Warner"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes " , Warner
+https://list.iptvcat.com/my_list/s/8413156655b775c453aba82fa1bacb30.m3u8
 
 
 
