@@ -1,70 +1,11 @@
 #EXTM3U url-tvg="http://acstatic.co/epg/epg.xml"
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
-http://45.58.126.146:14008
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
-http://45.58.126.146:14011/globo.ts
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
-http://45.58.126.146:14014/globo.ts
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
-http://45.58.126.146:14020/globo.ts
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
-http://45.58.126.146:14039/globo.ts
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
-http://45.58.126.146:14044/globo.ts
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
-http://45.58.126.146:14046/globo.ts
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
-http://45.58.126.146:14049/globo.ts
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
-http://45.58.126.146:14053/globo.ts
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
-http://45.58.126.146:14055/globo.ts
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
-http://45.58.126.146:14066/globo.ts
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
-http://45.58.126.146:14070/globo.ts
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
-http://45.58.126.146:14079/globo.ts
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
-http://45.58.126.146:14085/globo.ts
-
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo SP
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo
-http://45.58.126.146:14090/globo.ts
-
-#EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Sbt" , Sbt
-http://45.58.126.146:14123/sbt.ts
-
-#EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Sbt" , Sbt
-http://45.58.126.146:14126/sbt.td
-
-#EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Sbt" , Sbt
-http://45.58.126.146:14131/sbt.ts
-
-#EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Sbt" , Sbt
+#EXTINF:-1 tvg-id="Sbt SP" tvg-name="Sbt SP"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Sbt" , Sbt SP
 http://170.82.200.38:8080/sbt_sp/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Band" tvg-name="Band"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Band" , Band
-http://45.58.126.146:14140/band.ts
-
-#EXTINF:-1 tvg-id="Band" tvg-name="Band"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Band" , Band
-http://45.58.126.146:14148/band.ts
 
 #EXTINF:-1 tvg-id="Band SP" tvg-name="Band SP"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Band" , Band SP
 http://170.82.200.38:8080/band_sp/tracks-v1a1/mono.m3u8
@@ -189,7 +130,8 @@ http://45.58.126.146:14320/paramont.ts
 #EXTINF:-1 tvg-id="Space" tvg-name="Space"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Space
 http://45.58.126.146:14323/space.ts
 
-#EXTINF:-1 tvg-id="Cine Canal" tvg-name="Cine Canal"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Cine Canal http://45.58.126.146:14326/cine_canal.ts
+#EXTINF:-1 tvg-id="Cine Canal" tvg-name="Cine Canal"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Cine Canal 
+http://45.58.126.146:14326/cine_canal.ts
 
 #EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Star Channel 
 http://45.58.126.146:14329/star_channel.ts
