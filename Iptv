@@ -176,3 +176,6 @@ http://15.235.10.31:14387/hbo_family.ts
 
 #EXTINF:-1 tvg-id="Retrô Tv" tvg-name="Retrô Tv"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Retrô Tv" , Retrô TV 
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Abertos" , Rede Brasil 
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
