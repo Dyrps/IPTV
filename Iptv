@@ -180,5 +180,14 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Abertos" , Rede Brasil 
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
 
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Pipoca 
-https://directv.bz/uuid/51ch8ou6/key/e3492526803c010736fc0998854472e0
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Pipoca
+http://186.237.99.202:8000/play/TCPremium/index.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Cult
+http://186.237.99.202:8000/play/TCCult/index.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Fun
+http://186.237.99.202:8000/play/TCFun/index.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Touch
+http://186.237.99.202:8000/play/TCTouch/index.m3u8
