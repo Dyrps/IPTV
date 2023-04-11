@@ -152,14 +152,23 @@ http://45.58.126.146:14351/warner_channel.ts
 
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Warner Channel 
 
-#EXTINF:-1 tvg-id="HBO 2" tvg-name=HBO 2"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO 2 
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO
+http://15.235.10.31:14379/hbo.ts
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO 2 
 http://15.235.10.31:14399/Hbo2.ts
 
-#EXTINF:-1 tvg-id="HBO Pop" tvg-name=HBO Pop"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO Pop 
+#EXTINF:-1 tvg-id="HBO Pop" tvg-name="HBO Pop"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO Pop 
 http://15.235.10.31:14397/hbo_pop.ts
 
-#EXTINF:-1 tvg-id="HBO Mundi" tvg-name=HBO Mundi"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO Mundi 
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-name="HBO Mundi"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO Mundi 
 http://15.235.10.31:14395/hbo_mundi.ts
 
-#EXTINF:-1 tvg-id="HBO Extreme" tvg-name=HBO Extreme"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , Extreme 
+#EXTINF:-1 tvg-id="HBO Extreme" tvg-name="HBO Extreme"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO Extreme 
 http://15.235.10.31:14407/hbo_extreme.ts
+
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO Signature
+http://15.235.10.31:14401/hbo_signature.ts
+
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO Plus
+http://15.235.10.31:14409/HBO Plus.ts
