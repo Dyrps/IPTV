@@ -1,6 +1,5 @@
 #EXTM3U
 
-url-tvg="http://acstatic.co/epg/epg.xml"
 url-tvg="http://epg.pfsv.io"
 
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Globo" , Globo SP
