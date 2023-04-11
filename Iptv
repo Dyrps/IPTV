@@ -170,6 +170,3 @@ http://15.235.10.31:14409/HBO Plus.ts
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO Family 
 http://15.235.10.31:14387/hbo_family.ts 
-
-#EXTINF:-1 tvg-id="Tv Retrô" tvg-name="Tv Retrô"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Tv Retrô" , Tv Retrô 
-https://list.iptvcat.com/my_list/s/a694e5537cc2fda74ef49482aed32614
