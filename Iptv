@@ -99,7 +99,6 @@ http://45.58.126.146:14299/axn.ts
 #EXTINF:-1 tvg-id="Sony" tvg-name="Sony"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Sony
 http://45.58.126.146:14302/sony.ts
 
-
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Cinemax
 http://45.58.126.146:14305/cinemax.ts
 
@@ -126,7 +125,7 @@ http://45.58.126.146:14323/space.ts
 #EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Star Channel 
 http://45.58.126.146:14329/star_channel.ts
 
- #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Studio Universal 
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Studio Universal 
 http://45.58.126.146:14332/studio_universal.ts
 
 #EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Syfy
