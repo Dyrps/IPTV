@@ -6,7 +6,6 @@ http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="SBT SP" tvg-name="SBT SP"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l SBT" , SBT SP
 http://170.82.200.38:8080/sbt_sp/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1 tvg-id="Band SP" tvg-name="Band SP"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Band" , Band SP
 http://170.82.200.38:8080/band_sp/tracks-v1a1/mono.m3u8
 
@@ -85,13 +84,8 @@ http://45.58.126.146:14281/history.ts
 #EXTINF:-1 tvg-id="History 2" tvg-name="History 2"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , History 2
 http://45.58.126.146:14284/history_2.ts
 
-#EXTINF:-1 tvg-id="National geographic" tvg-name="National geographic"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , National Geographic
-http://45.58.126.146:14287/national_geographic.ts
-
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , A&E
 http://45.58.126.146:14293/a&e.ts
-
-http://170.82.200.38:8080/star_channel/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , AMC
 http://45.58.126.146:14296/amc.ts
