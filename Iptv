@@ -6,6 +6,7 @@ http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Sbt SP" tvg-name="Sbt SP"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Sbt" , Sbt SP
 http://170.82.200.38:8080/sbt_sp/tracks-v1a1/mono.m3u8
 
+
 #EXTINF:-1 tvg-id="Band SP" tvg-name="Band SP"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Band" , Band SP
 http://170.82.200.38:8080/band_sp/tracks-v1a1/mono.m3u8
 
@@ -75,8 +76,8 @@ http://45.58.126.146:14267/discovery_turbo.ts
 #EXTINF:-1 tvg-id="TCL" tvg-name="TCL"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Variedades" , TCL
 http://45.58.126.146:14270/tcl.ts
 
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery World" , Discovery World
-http://45.58.126.146:14273/dicovery_world.ts
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery World
+http://45.58.126.146:14273/discovery_world.ts
 
 #EXTINF:-1 tvg-id="History" tvg-name="History"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , History
 http://45.58.126.146:14281/history.ts
@@ -89,6 +90,8 @@ http://45.58.126.146:14287/national_geographic.ts
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , A&E
 http://45.58.126.146:14293/a&e.ts
+
+http://170.82.200.38:8080/star_channel/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , AMC
 http://45.58.126.146:14296/amc.ts
@@ -150,8 +153,6 @@ http://45.58.126.146:14348/universal_tv.ts
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Warner Channel 
 http://45.58.126.146:14351/warner_channel.ts
 
-#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Warner Channel 
-
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO
 http://15.235.10.31:14379/hbo.ts
 
@@ -172,3 +173,6 @@ http://15.235.10.31:14401/hbo_signature.ts
 
 #EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO Plus
 http://15.235.10.31:14409/HBO Plus.ts
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO Family 
+http://15.235.10.31:14387/hbo_family.ts
