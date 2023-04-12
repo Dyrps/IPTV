@@ -181,4 +181,4 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
 
 #EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Touch
-http://5.255.90.192:4000/play/a00k
+http://playback.imirun.net:8080//MultishowHD/tracks-v1a1/mono.m3u8%20
