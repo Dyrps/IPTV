@@ -178,4 +178,7 @@ http://15.235.10.31:14387/hbo_family.ts
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Abertos" , Rede Brasil 
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
+
+#EXTINF:-1 tvg-id="Teste" tvg-name="Teste"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Teste" , Teste
 http://186.148.184.163:8000/play/a04b/Index.m3u8
