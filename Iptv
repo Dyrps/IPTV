@@ -57,6 +57,9 @@ http://45.58.126.146:14241/jp_news.ts
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-logo-1.png" group-title="Canais l Documentários" , Animal Planet 
 http://45.58.126.146:14249/animal_planet.ts
 
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-logo-1.png" group-title="Canais l Documentários" , HGTV 
+http://15.235.10.31:14412/hgtv.ts
+
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/10/Discovery-Logo.png" group-title="Canais l Discovery" , Discovery Channel 
 http://45.58.126.146:14252/discovery_channel.ts
 
@@ -151,7 +154,7 @@ http://45.58.126.146:14348/universal_tv.ts
 http://45.58.126.146:14351/warner_channel.ts
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/HBO-LOGO.png" group-title="Canais l HBO" , HBO
-http://15.235.10.31:14379/hbo.ts
+http://15.235.10.31:14396/Hbo2.ts
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO 2 
 http://15.235.10.31:14399/Hbo2.ts
@@ -166,7 +169,7 @@ http://15.235.10.31:14395/hbo_mundi.ts
 http://15.235.10.31:14407/hbo_extreme.ts
 
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO Signature
-http://15.235.10.31:14401/hbo_signature.ts
+http://15.235.10.31:14403/hbo_signature.ts
 
 #EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO Plus
 http://15.235.10.31:14409/hbo_plus.ts
