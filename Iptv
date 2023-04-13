@@ -114,9 +114,6 @@ http://15.235.10.31:14505/multishow.ts
 #EXTINF:-1 tvg-id="Fx" tvg-name="Fx"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Fx
 http://45.58.126.146:14311/fx.ts
 
-#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Action
-http://45.58.126.146:14354/telecineaction.ts
-
 #EXTINF:-1 tvg-id="Life Time" tvg-name="Life Time"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Variedades" , Life Time 
 http://45.58.126.146:14314/lifetime.ts
 
@@ -188,3 +185,25 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
 
 #EXTINF:-1 tvg-id="Futura" tvg-name="Futura"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Abertos" , Futura 
 http://15.235.10.31:14337/futura.ts
+
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Action 
+http://186.237.99.202:8000/play/TCAction/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Pipoca 
+http://186.237.99.202:8000/play/TCPipoca/index.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Premium 
+http://186.237.99.202:8000/play/TCPremium/index.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Cult 
+http://186.237.99.202:8000/play/TCCult/index.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Action 
+http://186.237.99.202:8000/play/TCFun/index.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Touch 
+http://186.237.99.202:8000/play/TCTouch/index.m3u8
+
+
