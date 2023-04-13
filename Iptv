@@ -12,15 +12,6 @@ http://170.82.200.38:8080/band_sp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Record" tvg-name="Record"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Record" , Record 
 http://45.58.126.146:14153/record.ts
 
-#EXTINF:-1 tvg-id="Record" tvg-name="Record"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Record" , Record 
-http://45.58.126.146:14153/record.ts
-
-#EXTINF:-1 tvg-id="Record" tvg-name="Record"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Record" , Record 
-http://45.58.126.146:14158/record.ts
-
-#EXTINF:-1 tvg-id="Record" tvg-name="Record"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Record" , Record 
-http://45.58.126.146:14166/record.ts
-
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/Cartoon-Network-Logo.png" group-title="Canais l Infantil" , Cartoon Network 
 http://45.58.126.146:14197/Cartoon_network.ts
 
@@ -35,7 +26,6 @@ http://45.58.126.146:14203/discovery_kids.ts
 
 #EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Gloob
 http://45.58.126.146:14209/gloob.ts
-
 
 #EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Gloobinho 
 http://15.235.10.31:14359/gloobinho.ts
@@ -192,7 +182,6 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Abertos" , Rede Brasil 
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
-
 
 #EXTINF:-1 tvg-id="Futura" tvg-name="Futura"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Abertos" , Futura 
 http://15.235.10.31:14337/futura.ts
