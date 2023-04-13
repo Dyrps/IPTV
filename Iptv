@@ -36,6 +36,10 @@ http://45.58.126.146:14203/discovery_kids.ts
 #EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Gloob
 http://45.58.126.146:14209/gloob.ts
 
+
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Gloobinho 
+http://15.235.10.31:14359/gloobinho.ts
+
 #EXTINF:-1 tvg-id="Nick JR" tvg-name="Nick JR"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png" group-title="Canais l Infantil" , Nick JR 
 http://45.58.126.146:14212/nick_jr.ts
 
@@ -111,6 +115,12 @@ http://45.58.126.146:14305/cinemax.ts
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" group-title="Canais l Variedades" , Comedy Central 
 http://45.58.126.146:14308/comedy_central.ts
 
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" group-title="Canais l Variedades" , GNT
+http://15.235.10.31:14366/gnt.ts
+
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" group-title="Canais l Variedades" , Multishow 
+http://15.235.10.31:14505/multishow.ts
+
 #EXTINF:-1 tvg-id="Fx" tvg-name="Fx"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Fx
 http://45.58.126.146:14311/fx.ts
 
@@ -183,5 +193,6 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Abertos" , Rede Brasil 
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
 
-#EXTINF:-1 tvg-id="Teste" tvg-name="Teste"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Teste" , Teste
-http://186.148.184.163:8000/play/a04b/Index.m3u8
+
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Abertos" , Futura 
+http://15.235.10.31:14337/futura.ts
