@@ -43,7 +43,7 @@ http://45.58.126.146:14231/bandnews.ts
 http://45.58.126.146:14234/cnn.ts
 
 #EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Notícias" , Globo News 
-http://45.58.126.146:14238/globo_news.ts
+http://15.235.10.31:14354/globonews.ts
 
 #EXTINF:-1 tvg-id="JP News" tvg-name="JP News"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Notícias" , JP News 
 http://45.58.126.146:14241/jp_news.ts
