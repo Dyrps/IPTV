@@ -130,7 +130,7 @@ http://45.58.126.146:14323/space.ts
 http://45.58.126.146:14326/cine_canal.ts
 
 #EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Star Channel 
-http://45.58.126.146:14329/star_channel.ts
+http://170.82.200.38:8080/star_channel/tracks-v1a1/mono.m3u8
 
  #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/10/Universal-Logo.png" group-title="Canais l Filmes e Séries" , Studio Universal 
 http://45.58.126.146:14332/studio_universal.ts
@@ -218,3 +218,6 @@ http://200.194.238.229:8383/live/urbantv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Urban Movies" tvg-name="Urban Movies"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Urban" , Urban Movies 
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+
+
+
