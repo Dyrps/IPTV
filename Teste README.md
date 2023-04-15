@@ -1,82 +1,49 @@
-EXTM3U
-#EXTINF:-1, TV TROPICAL HD
-http://170.80.157.9:8000/play/a01f
-#EXTINF:-1,Agro Canal HD
-http://170.80.157.9:8000/play/a04c
-#EXTINF:-1,BAND RN HD
-http://170.80.157.9:8000/play/a01e
-#EXTINF:-1,CABUGI HD
-http://170.80.157.9:8000/play/a01g
-#EXTINF:-1,CABUGI_1SEG
-http://170.80.157.9:8000/play/a05q
-#EXTINF:-1,CABUGI_HD
-http://170.80.157.9:8000/play/a05p
-#EXTINF:-1,CANAL RURAL BRASIL
-http://170.80.157.9:8000/play/a05d
-#EXTINF:-1,CANAL SAUDE
-http://170.80.157.9:8000/play/a02m
-#EXTINF:-1,CANCAO NOVA HD
-http://170.80.157.9:8000/play/a02d
-#EXTINF:-1,CULTURA HD
-http://170.80.157.9:8000/play/a02e
-#EXTINF:-1,Canal do Boi HD
-http://170.80.157.9:8000/play/a04b
-#EXTINF:-1,EDUCACAO
-http://170.80.157.9:8000/play/a03m
-#EXTINF:-1,Futura HD
-http://170.80.157.9:8000/play/a027
-#EXTINF:-1,ID TV HD
-http://170.80.157.9:8000/play/a051
-#EXTINF:-1,NOVO TEMPO HD
-http://170.80.157.9:8000/play/a01z
-#EXTINF:-1,POLISHOP 1
-http://170.80.157.9:8000/play/a031
-#EXTINF:-1,POLISHOP 2
-http://170.80.157.9:8000/play/a032
-#EXTINF:-1,REDE BOAS NOVAS HD
-http://170.80.157.9:8000/play/a02i
-#EXTINF:-1,REDE CNT
-http://170.80.157.9:8000/play/a05n
-#EXTINF:-1,REDEVIDA HD
-http://170.80.157.9:8000/play/a05c
-#EXTINF:-1,Record News HD
-http://170.80.157.9:8000/play/a020
-#EXTINF:-1,Rede SØculo 21 Educa
-http://170.80.157.9:8000/play/a04g
-#EXTINF:-1,Rede SØculo 21 HD
-http://170.80.157.9:8000/play/a04f
-#EXTINF:-1,RedeAmeric
-http://170.80.157.9:8000/play/a057
-#EXTINF:-1,RedeTV! Geracao
-http://170.80.157.9:8000/play/a022
-#EXTINF:-1,RedeTV! HD1
-http://170.80.157.9:8000/play/a021
-#EXTINF:-1,RedeTV! HD2
-http://170.80.157.9:8000/play/a023
-#EXTINF:-1,SHOPTIME
-http://170.80.157.9:8000/play/a03u
-#EXTINF:-1,TRRHD
-http://170.80.157.9:8000/play/a036
-#EXTINF:-1,TV BRASIL
-http://170.80.157.9:8000/play/a02j
-#EXTINF:-1,TV BRASIL 2
-http://170.80.157.9:8000/play/a02k
-#EXTINF:-1,TV EDUCATIVA HD
-http://170.80.157.9:8000/play/a02f
-#EXTINF:-1,TV ESCOLA
-http://170.80.157.9:8000/play/a02l
-#EXTINF:-1,TV Mirante HD2
-http://170.80.157.9:8000/play/a05l
-#EXTINF:-1,TV Mirante Sao Luis
-http://170.80.157.9:8000/play/a05k
-#EXTINF:-1,TV Ponta Negra (SBT)
-http://170.80.157.9:8000/play/a055
-#EXTINF:-1,TV VERDADE HD - O Caminho Antigo
-http://170.80.157.9:8000/play/a02x
-#EXTINF:-1,TV WA
-http://170.80.157.9:8000/play/a04a
-#EXTINF:-1,TVE REME
-http://170.80.157.9:8000/play/a03l
-#EXTINF:-1,TVU HD
-http://170.80.157.9:8000/play/a01x
-Avaliado por 10 pessoas
+#EXTM3U
+#EXTINF:-1,Arte 1
+http://191.209.60.250:8000/play/a00g
+#EXTINF:-1,BBB HD 1
+http://191.209.60.250:8000/play/a016
+#EXTINF:-1,BBB HD 1
+http://191.209.60.250:8000/play/a015
+#EXTINF:-1,BBB HD 2
+http://191.209.60.250:8000/play/a017
+#EXTINF:-1,BBB Mosaico HD
+http://191.209.60.250:8000/play/a018
+#EXTINF:-1,Band News
+http://191.209.60.250:8000/play/a00i
+#EXTINF:-1,CNN Brasil
+http://191.209.60.250:8000/play/a00o
+#EXTINF:-1,Canal Brasil
+http://191.209.60.250:8000/play/a00t
+#EXTINF:-1,Canal EducaĿªo
+http://191.209.60.250:8000/play/a00m
+#EXTINF:-1,Cinecanal
+http://191.209.60.250:8000/play/a00s
+#EXTINF:-1,Comedy Central
+http://191.209.60.250:8000/play/a00r
+#EXTINF:-1,E!
+http://191.209.60.250:8000/play/a00f
+#EXTINF:-1,ESPN 2
+http://191.209.60.250:8000/play/a00h
+#EXTINF:-1,FOX Sports 2
+http://191.209.60.250:8000/play/a00n
+#EXTINF:-1,FX
+http://191.209.60.250:8000/play/a00q
+#EXTINF:-1,Futura
+http://191.209.60.250:8000/play/a00e
+#EXTINF:-1,HBO MUNDI
+http://191.209.60.250:8000/play/a00v
+#EXTINF:-1,National Geographic
+http://191.209.60.250:8000/play/a00p
+#EXTINF:-1,Sexy Hot
+http://191.209.60.250:8000/play/a00k
+#EXTINF:-1,TCM
+http://191.209.60.250:8000/play/a00u
+#EXTINF:-1,TV Aparecida
+http://191.209.60.250:8000/play/a00w
+#EXTINF:-1,TV Brasil 2
+http://191.209.60.250:8000/play/a00c
+#EXTINF:-1,TV Senado
+http://191.209.60.250:8000/play/a00d
+#EXTINF:-1,Warner Channel
+http://191.209.60.250:8000/play/a00j
