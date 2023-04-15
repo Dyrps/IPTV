@@ -84,6 +84,19 @@ http://45.58.126.146:14281/history.ts
 #EXTINF:-1 tvg-id="History 2" tvg-name="History 2"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , History 2
 http://45.58.126.146:14284/history_2.ts
 
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Star Channel 
+http://170.82.200.38:8080/star_channel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Cine Canal" tvg-name="Cine Canal"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Cine Canal
+http://45.58.126.146:14326/cine_canal.ts
+
+#EXTINF:-1 tvg-id="Fx" tvg-name="Fx"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Fx
+http://45.58.126.146:14311/fx.ts
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , TNT
+http://45.58.126.146:14341/tnt_fhd.ts
+
+
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , A&E
 http://45.58.126.146:14293/a&e.ts
 
@@ -93,29 +106,11 @@ http://45.58.126.146:14296/amc.ts
 #EXTINF:-1 tvg-id="National geographic" tvg-name="National geographic"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , National Geographic
 http://45.58.126.146:14287/national_geographic.ts
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , AXN
-http://45.58.126.146:14299/axn.ts
-
 #EXTINF:-1 tvg-id="Sony" tvg-name="Sony"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/Sony-Pictures-logo.png" group-title="Canais l Filmes e Séries" , Sony
 http://45.58.126.146:14302/sony.ts
 
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Cinemax
 http://45.58.126.146:14305/cinemax.ts
-
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" group-title="Canais l Variedades" , Comedy Central 
-http://45.58.126.146:14308/comedy_central.ts
-
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" group-title="Canais l Variedades" , GNT
-http://15.235.10.31:14366/gnt.ts
-
-#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" group-title="Canais l Variedades" , Multishow 
-http://15.235.10.31:14505/multishow.ts
-
-#EXTINF:-1 tvg-id="Fx" tvg-name="Fx"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Fx
-http://45.58.126.146:14311/fx.ts
-
-#EXTINF:-1 tvg-id="Life Time" tvg-name="Life Time"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Variedades" , Life Time 
-http://45.58.126.146:14314/lifetime.ts
 
 #EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Megapix 
 http://45.58.126.146:14317/megapix.ts
@@ -126,23 +121,11 @@ http://45.58.126.146:14320/paramont.ts
 #EXTINF:-1 tvg-id="Space" tvg-name="Space"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Space
 http://45.58.126.146:14323/space.ts
 
-#EXTINF:-1 tvg-id="Cine Canal" tvg-name="Cine Canal"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Cine Canal
-http://45.58.126.146:14326/cine_canal.ts
-
-#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Star Channel 
-http://170.82.200.38:8080/star_channel/tracks-v1a1/mono.m3u8
-
  #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/10/Universal-Logo.png" group-title="Canais l Filmes e Séries" , Studio Universal 
 http://45.58.126.146:14332/studio_universal.ts
 
-#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/Syfy-logo.png" group-title="Canais l Filmes e Séries" , Syfy
-http://45.58.126.146:14335/syfy.ts
-
 #EXTINF:-1 tvg-id="Tbs" tvg-name="Tbs"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Tbs
 http://45.58.126.146:14338/tbs.ts
-
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , TNT
-http://45.58.126.146:14341/tnt_fhd.ts
 
 #EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Séries"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , TNT Séries 
 http://45.58.126.146:14345/tnt_series.ts
@@ -152,6 +135,24 @@ http://45.58.126.146:14348/universal_tv.ts
 
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/10/Warner-Bros-Logo.png" group-title="Canais l Filmes e Séries" , Warner Channel 
 http://45.58.126.146:14351/warner_channel.ts
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , AXN
+http://45.58.126.146:14299/axn.ts
+
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/Syfy-logo.png" group-title="Canais l Filmes e Séries" , Syfy
+http://45.58.126.146:14335/syfy.ts
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" group-title="Canais l Variedades" , Comedy Central 
+http://45.58.126.146:14308/comedy_central.ts
+
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" group-title="Canais l Variedades" , GNT
+http://15.235.10.31:14366/gnt.ts
+
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" group-title="Canais l Variedades" , Multishow 
+http://15.235.10.31:14505/multishow.ts
+
+#EXTINF:-1 tvg-id="Life Time" tvg-name="Life Time"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Variedades" , Life Time 
+http://45.58.126.146:14314/lifetime.ts
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/HBO-LOGO.png" group-title="Canais l HBO" , HBO
 http://15.235.10.31:14396/Hbo2.ts
