@@ -193,16 +193,16 @@ http://45.58.126.146:14354/telecineaction.ts
 http://23.237.10.66:16195/telecinepipoca/g.ts
 
 #EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Premium 
-http://186.237.99.202:8000/play/TCPremium/index.m3u8
+http://gmaplay.xyz:8080/tvonline323523562436/k9W0tfjRezdql1gyUC0bhiOAHpIHX2Rn/62211
 
 #EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Cult 
-http://186.237.99.202:8000/play/TCCult/index.m3u8
+http://gmaplay.xyz:8080/tvonline323523562436/k9W0tfjRezdql1gyUC0bhiOAHpIHX2Rn/62208
 
 #EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Fun
-http://186.237.99.202:8000/play/TCFun/index.m3u8
+http://gmaplay.xyz:8080/tvonline323523562436/k9W0tfjRezdql1gyUC0bhiOAHpIHX2Rn/62209
 
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Touch 
-http://186.237.99.202:8000/play/TCTouch/index.m3u8
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Touch
+http://gmaplay.xyz:8080/tvonline323523562436
 
 #EXTINF:-1 tvg-id="Urban Kids" tvg-name="Urban Kids"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Urban" , Urban Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
@@ -218,6 +218,4 @@ http://200.194.238.229:8383/live/urbantv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Urban Movies" tvg-name="Urban Movies"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Urban" , Urban Movies 
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
-
-
 
