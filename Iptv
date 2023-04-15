@@ -202,7 +202,7 @@ http://gmaplay.xyz:8080/tvonline323523562436/k9W0tfjRezdql1gyUC0bhiOAHpIHX2Rn/62
 http://gmaplay.xyz:8080/tvonline323523562436/k9W0tfjRezdql1gyUC0bhiOAHpIHX2Rn/62209
 
 #EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Touch
-http://gmaplay.xyz:8080/tvonline323523562436/k9W0tfjRezdql1gyUC0bhiOAHpIHX2Rn/62212
+http://cdnnewott.com:80/D1F02A8636C4CCC/alfiUdH6Cv/76280
 
 #EXTINF:-1 tvg-id="Urban Kids" tvg-name="Urban Kids"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Urban" , Urban Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
@@ -218,9 +218,5 @@ http://200.194.238.229:8383/live/urbantv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Urban Movies" tvg-name="Urban Movies"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Urban" , Urban Movies 
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Teste" tvg-name="Teste"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Teste" , Teste
-
-
 
 
