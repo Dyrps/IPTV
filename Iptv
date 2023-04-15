@@ -187,25 +187,25 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
 http://15.235.10.31:14337/futura.ts
 
 #EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Action 
-http://45.58.126.146:14354/telecineaction.ts
+http://yesimes.oknirvana.club:8880/6mk060014/78982516/65800
 
 #EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Pipoca 
-http://23.237.10.66:16195/telecinepipoca/g.ts
+http://yesimes.oknirvana.club:8880/6mk060014/78982516/65806
 
 #EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Premium 
 http://yesimes.oknirvana.club:8880/6mk060014/78982516/65808
 
 #EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Cult 
-http://gmaplay.xyz:8080/tvonline323523562436/k9W0tfjRezdql1gyUC0bhiOAHpIHX2Rn/62208
+http://yesimes.oknirvana.club:8880/6mk060014/78982516/65802
 
 #EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Fun
-http://gmaplay.xyz:8080/tvonline323523562436/k9W0tfjRezdql1gyUC0bhiOAHpIHX2Rn/62209
+http://yesimes.oknirvana.club:8880/6mk060014/78982516/65804
 
 #EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Touch
-http://cdnnewott.com:80/D1F02A8636C4CCC/alfiUdH6Cv/76280
+http://yesimes.oknirvana.club:8880/6mk060014/78982516/65810
 
 #EXTINF:-1 tvg-id="Urban Kids" tvg-name="Urban Kids"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Urban" , Urban Kids
-http://200.194.238.229:8383/live/urbankids/playlist.m3u8 
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Urban Docs" tvg-name="Urban Docs"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Urban" , Urban Docs
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
@@ -218,5 +218,3 @@ http://200.194.238.229:8383/live/urbantv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Urban Movies" tvg-name="Urban Movies"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Urban" , Urban Movies 
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
-
-
