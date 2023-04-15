@@ -1,257 +1,82 @@
-#EXTM3U
-
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14008/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14011/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14014/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14020/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14039/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14044/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14046/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14049/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14053/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14055/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14057/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14066/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14070/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14085/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14090/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14123/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14126/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14131/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14140/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14144/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14148/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14153/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14155/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14158/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14166/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14197/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14200/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14203/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14231/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14234/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14238/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14241/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14249/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14252/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14255/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14258/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14261/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14264/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14267/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14270/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14273/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14281/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14284/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14287/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14293/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14296/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14299/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14302/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14303/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14305/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14308/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14311/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14314/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14317/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14320/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14323/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14326/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14329/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14332/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14335/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14338/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14341/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14342/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14345/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14348/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14351/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14510/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14514/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14525/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14533/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14552/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14554/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14555/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14556/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14562/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14600/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14668/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14705/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14707/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14708/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14709/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14710/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14714/play.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais l Filme e Séries", A&E
-http://45.58.126.146:14715/play.ts
-
+EXTM3U
+#EXTINF:-1, TV TROPICAL HD
+http://170.80.157.9:8000/play/a01f
+#EXTINF:-1,Agro Canal HD
+http://170.80.157.9:8000/play/a04c
+#EXTINF:-1,BAND RN HD
+http://170.80.157.9:8000/play/a01e
+#EXTINF:-1,CABUGI HD
+http://170.80.157.9:8000/play/a01g
+#EXTINF:-1,CABUGI_1SEG
+http://170.80.157.9:8000/play/a05q
+#EXTINF:-1,CABUGI_HD
+http://170.80.157.9:8000/play/a05p
+#EXTINF:-1,CANAL RURAL BRASIL
+http://170.80.157.9:8000/play/a05d
+#EXTINF:-1,CANAL SAUDE
+http://170.80.157.9:8000/play/a02m
+#EXTINF:-1,CANCAO NOVA HD
+http://170.80.157.9:8000/play/a02d
+#EXTINF:-1,CULTURA HD
+http://170.80.157.9:8000/play/a02e
+#EXTINF:-1,Canal do Boi HD
+http://170.80.157.9:8000/play/a04b
+#EXTINF:-1,EDUCACAO
+http://170.80.157.9:8000/play/a03m
+#EXTINF:-1,Futura HD
+http://170.80.157.9:8000/play/a027
+#EXTINF:-1,ID TV HD
+http://170.80.157.9:8000/play/a051
+#EXTINF:-1,NOVO TEMPO HD
+http://170.80.157.9:8000/play/a01z
+#EXTINF:-1,POLISHOP 1
+http://170.80.157.9:8000/play/a031
+#EXTINF:-1,POLISHOP 2
+http://170.80.157.9:8000/play/a032
+#EXTINF:-1,REDE BOAS NOVAS HD
+http://170.80.157.9:8000/play/a02i
+#EXTINF:-1,REDE CNT
+http://170.80.157.9:8000/play/a05n
+#EXTINF:-1,REDEVIDA HD
+http://170.80.157.9:8000/play/a05c
+#EXTINF:-1,Record News HD
+http://170.80.157.9:8000/play/a020
+#EXTINF:-1,Rede SØculo 21 Educa
+http://170.80.157.9:8000/play/a04g
+#EXTINF:-1,Rede SØculo 21 HD
+http://170.80.157.9:8000/play/a04f
+#EXTINF:-1,RedeAmeric
+http://170.80.157.9:8000/play/a057
+#EXTINF:-1,RedeTV! Geracao
+http://170.80.157.9:8000/play/a022
+#EXTINF:-1,RedeTV! HD1
+http://170.80.157.9:8000/play/a021
+#EXTINF:-1,RedeTV! HD2
+http://170.80.157.9:8000/play/a023
+#EXTINF:-1,SHOPTIME
+http://170.80.157.9:8000/play/a03u
+#EXTINF:-1,TRRHD
+http://170.80.157.9:8000/play/a036
+#EXTINF:-1,TV BRASIL
+http://170.80.157.9:8000/play/a02j
+#EXTINF:-1,TV BRASIL 2
+http://170.80.157.9:8000/play/a02k
+#EXTINF:-1,TV EDUCATIVA HD
+http://170.80.157.9:8000/play/a02f
+#EXTINF:-1,TV ESCOLA
+http://170.80.157.9:8000/play/a02l
+#EXTINF:-1,TV Mirante HD2
+http://170.80.157.9:8000/play/a05l
+#EXTINF:-1,TV Mirante Sao Luis
+http://170.80.157.9:8000/play/a05k
+#EXTINF:-1,TV Ponta Negra (SBT)
+http://170.80.157.9:8000/play/a055
+#EXTINF:-1,TV VERDADE HD - O Caminho Antigo
+http://170.80.157.9:8000/play/a02x
+#EXTINF:-1,TV WA
+http://170.80.157.9:8000/play/a04a
+#EXTINF:-1,TVE REME
+http://170.80.157.9:8000/play/a03l
+#EXTINF:-1,TVU HD
+http://170.80.157.9:8000/play/a01x
+Avaliado por 10 pessoas
