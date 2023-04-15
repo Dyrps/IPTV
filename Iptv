@@ -96,7 +96,6 @@ http://45.58.126.146:14311/fx.ts
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , TNT
 http://45.58.126.146:14341/tnt_fhd.ts
 
-
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , A&E
 http://45.58.126.146:14293/a&e.ts
 
