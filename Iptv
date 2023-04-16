@@ -1,707 +1,220 @@
 #EXTM3U url-tvg="http://acstatic.co/epg/epg.xml"
 
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL",GLOOB
-http://15.235.87.173:14110/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","GLOOBINHO
-http://172.93.110.132:14219/
-#EXTINF:-1 tvg-logo="group-title="INFANTIL","RA TIM BUM
-http://172.93.110.132:14224/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","BAND NEWS
-http://172.93.110.132:14230/
-#EXTINF:-1 tvg-logo=""group-title="TELECINES","TELECINE CULT
-http://172.93.110.132:14358/
-#EXTINF:-1 tvg-logo=""group-title="TELECINES","TELECINE FUN
-http://172.93.110.132:14361/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","RECORD NEWS
-http://172.93.110.132:14247/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","GLOOBINHO2
-http://172.93.110.132:14221/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO2
-http://172.93.110.132:14376/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","ZOOMOO KIDS
-http://172.93.110.132:14229/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","Globo News FHD
-http://172.93.110.132:14237
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","Globo News HD
-http://172.93.110.132:14237
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","Globo NewsSD
-http://172.93.110.132:14237
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","Globo News 4K
-http://172.93.110.132:14237
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","Jp News FHD
-http://172.93.110.132:14240/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","Jp News HD
-http://172.93.110.132:14240/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","Jp News SD
-http://172.93.110.132:14240/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","Jp News 4K
-http://172.93.110.132:14240/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","TNT FHD
-http://172.93.110.132:14028
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","TNT HD
-http://172.93.110.132:14028
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","TNTSD
-http://172.93.110.132:14028
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","TNT 4K
-http://172.93.110.132:14028
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","MegaPix FHD
-http://51.83.238.223:16823/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","MegaPix HD
-http://51.83.238.223:16823/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","MegaPix SD
-http://51.83.238.223:16823/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","MegaPix 4K
-http://51.83.238.223:16823/
-#EXTINF:-1 tvg-logo=""group-title="TELECINES","Telecine Action FHD
-http://51.83.238.223:16703/
-#EXTINF:-1 tvg-logo=""group-title="TELECINES","Telecine Action HD
-http://51.83.238.223:16703/
-#EXTINF:-1 tvg-logo=""group-title="TELECINES","Telecine Action SD
-http://51.83.238.223:16703/
-#EXTINF:-1 tvg-logo=""group-title="TELECINES","Telecine Action 4K
-http://51.83.238.223:16703/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","Combate FHD
-http://51.83.238.223:16417/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","Combate HD
-http://185.150.190.225:16484/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","Combate SD
-http://209.222.97.92:16493/
-#EXTINF:-1 tvg-logo="group-title="ESPORTES","Combate 4K
-http://51.83.238.223:16417/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","Premiere Clube HD
-http://172.93.110.132:14451/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","Premiere 2
-http://185.150.190.225:16464/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","Premiere 3
-http://185.150.190.225:16468/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","Premiere 4
-http://185.150.190.225:16472/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","Premiere 5
-http://185.150.190.225:16476/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","Premiere 6
-http://185.150.190.225:16482/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","Espn + Plus FHD
-http://51.83.238.223:16515/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","Espn + Plus HD
-http://51.83.238.223:16515/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","Espn + Plus SD
-http://51.83.238.223:16515/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","Espn + Plus 4K
-http://51.83.238.223:16515/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","A Fazenda 1 HD
-http://172.93.110.132:14166
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","A Fazenda 1 SD
-http://172.93.110.132:14166
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","A Fazenda 1 4K
-http://172.93.110.132:14166
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","Futura FHD
-http://172.93.110.132:14176
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","Futura HD
-http://172.93.110.132:14176
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","Futura SD
-http://172.93.110.132:14177/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","Futura 4K
-http://172.93.110.132:14176
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","Agro+ SD
-http://172.93.110.132:14170/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","Discovery Channel Science FHD
-http://172.93.110.132:14260
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","Discovery Channel Science HD
-http://172.93.110.132:14260
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","Discovery Channel Science SD
-http://172.93.110.132:14260
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","Discovery Channel Science 4K
-http://172.93.110.132:14260
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","Zoo Moo Kids FHD
-http://172.93.110.132:14228
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","Zoo Moo Kids HD
-http://172.93.110.132:14228
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","Zoo Moo Kids SD
-http://172.93.110.132:14228
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","Zoo Moo Kids 4K
-http://172.93.110.132:14228
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","Ra Tim Bum TV FHD
-http://172.93.110.132:14223/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","Ra Tim Bum TV HD
-http://172.93.110.132:14223/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","Ra Tim Bum TV SD
-http://172.93.110.132:14223/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","Ra Tim Bum TV 4K
-http://172.93.110.132:14223/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","Whooo FHD
-http://172.93.110.132:14225
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","Whooo HD
-http://172.93.110.132:14226
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","Whooo SD
-http://172.93.110.132:14226
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","Whooo 4K
-http://172.93.110.132:14225
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","Viva FHD
-http://199.127.60.83:16884/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","Viva HD
-http://199.127.60.83:16884/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","Viva SD
-http://199.127.60.83:16884/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","Viva 4K
-http://199.127.60.83:16884/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","MEGAPIX H265
-http://89.187.183.109:14170/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","ID SD
-http://15.235.10.43:14423/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO EXTREME H265
-http://15.235.10.43:14404/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","HGVT
-http://15.235.10.43:14413/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO SIGNATURE
-http://15.235.10.43:14400/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO MUNDI H265
-http://15.235.10.43:14394/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","FX SD
-http://15.235.10.43:14341/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO FAMILY
-http://15.235.10.43:14388/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO MAX
-http://15.235.10.43:14389/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","GAZETA
-http://15.235.10.43:14347/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO EXTRENE SD
-http://15.235.10.43:14405/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","HISTORY
-http://15.235.10.43:14419/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO 2 H265
-http://15.235.10.43:14383/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","FOX SPORTES 2
-http://15.235.10.43:14329/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","FOX SPORTES 2 SD
-http://15.235.10.43:14326/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO SIGNATURE HD
-http://15.235.10.43:14403/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO FAMILY SD
-http://15.235.10.43:14387/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","HGVT SD
-http://15.235.10.43:14412/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO PLUS HD
-http://15.235.10.43:14411/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO FAMILY SD²
-http://15.235.10.43:14385/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","HBO MUNDI HD²
-http://15.235.10.43:14393/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","HBO POP HD²
-http://15.235.10.43:14397/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","FX HD²
-http://15.235.10.43:14340/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO PLUS HD²
-http://15.235.10.43:14409/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","FX SD²
-http://15.235.10.43:14342/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO HD²
-http://15.235.10.43:14380/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO2 4K
-http://15.235.10.43:14384/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","HBO POP HD²
-http://15.235.10.43:14398/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","GAZETA HD
-http://15.235.10.43:14346/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO PLUS +
-http://15.235.10.43:14410/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","GLOBO H265
-http://15.235.10.43:14324/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO SD¹
-http://15.235.10.43:14378/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","ID SD¹
-http://15.235.10.43:14424/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","ID SD²
-http://15.235.10.43:14425/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","HISTORY H265
-http://15.235.10.43:14417/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO H265²
-http://15.235.10.43:14379/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO + SD¹
-http://15.235.10.43:14408/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","HGVT ²
-http://15.235.10.43:14418/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","FOXSPORTES 2SD¹
-http://15.235.10.43:14327/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO FAMILY SD³
-http://15.235.10.43:14386/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO POP H265
-http://15.235.10.43:14399/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO 2 H265
-http://15.235.10.43:14381/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN H265
-http://15.235.10.43:14390/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","FOXSPORTES
-http://15.235.10.43:14328/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO EXTREME
-http://15.235.10.43:14407/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO MUNDI
-http://15.235.10.43:14395/
-#EXTINF:-1 tvg-logo=""group-title="VARIEDADES","DISCOVERY TURBO HD
-http://15.235.10.31:14248/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","H&H DISCOVERY HD
-http://15.235.10.31:14230/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","COMBATE HD
-http://15.235.10.31:14166/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","DISCOVERY SCIENCE INT
-http://15.235.10.31:14235/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","DOG TV
-http://15.235.10.31:14257/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","HOME&HEALT HD
-http://15.235.10.31:14228/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN 2 HD
-http://15.235.10.31:14286/
-#EXTINF:-1 tvg-logo=""group-title="VARIEDADES","DISCOVERY TURBO 4K
-http://15.235.10.31:14246/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","CANAL 21 4K
-http://15.235.10.31:14277/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","DISCOVERY SCIENCE SD
-http://15.235.10.31:14237/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","FILME & ARTES
-http://15.235.10.31:14307/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","DISCOVERY KIDS HD
-http://15.235.10.31:14234/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN 4 HD
-http://15.235.10.31:14295/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","DISCOVERY WORLD HD
-http://15.235.10.31:14249/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN 4 4K
-http://15.235.10.31:14293/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","DISCOVERY WORLD FHD
-http://15.235.10.31:14247/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN 2 FHD
-http://15.235.10.31:14284/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","FILMES & ARTES FHD
-http://15.235.10.31:14303/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","DISCOVERY TURBO SD
-http://15.235.10.31:14245/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","FOOD
-http://15.235.10.31:14320/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","CANAL VENDAS 24 HRS
-http://15.235.10.31:14312/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","FILM & ARTES SD
-http://15.235.10.31:14308/
-#EXTINF:-1 tvg-logo=""group-title="AO DOC","DISCOVERY THEATER HD
-http://15.235.10.31:14241/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","FOOD 4K
-http://15.235.10.31:14321/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN 3 SD
-http://15.235.10.31:14288/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","DISCOVERY THEATER
-http://15.235.10.31:14239/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","H&H DISCOVERY 4K
-http://15.235.10.31:14229/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN 3 FHD
-http://15.235.10.31:14289/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","DISCOVERY CHANNEL
-http://15.235.10.31:14226/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","SBT HD
-http://15.235.10.31:14009/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","DISCOVERY CHANNEL 4K
-http://15.235.10.31:14225/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","CANAL TESTE
-http://15.235.10.31:14220/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","FOOD SD
-http://15.235.10.31:14322/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","FILM & ARTES UHD
-http://15.235.10.31:14309/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN EXTRA
-http://15.235.10.31:14297/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","FOODNETWORK
-http://15.235.10.31:14319/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","DISCOVERY SD
-http://15.235.10.31:14223/
-#EXTINF:-1 tvg-logo=""group-title="DS","DISCOVERY TURBO SD
-http://15.235.10.31:14243/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN 3 4K
-http://15.235.10.31:14291/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","DISCOVERY SCIENCE 4K
-http://15.235.10.31:14238/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","DOG TV 4K
-http://15.235.10.31:14256/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","DISCOVERY TURBO 4K
-http://15.235.10.31:14244/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","DISCOVERY CHANNEL 4K
-http://15.235.10.31:14224/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","DISCOVERY KIDS SD
-http://15.235.10.31:14231/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","DISCOVERY KIDS FHD
-http://15.235.10.31:14232/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","TV DIARIO
-http://15.235.10.31:14221/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN EXTRA FHD
-http://15.235.10.31:14296/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","STAR +
-http://15.235.10.31:14299/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","DISCOVERY TURBO SD²
-http://15.235.10.31:14250/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN ²
-http://15.235.10.31:14298/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","GLOBO ²
-http://15.235.10.31:14196/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","H&H DISCOVERY SD²
-http://15.235.10.31:14227/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","FILM & ARTES ²
-http://15.235.10.31:14305/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN 4²
-http://15.235.10.31:14294/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","DISCOVERY THEATER HD²
-http://15.235.10.31:14242/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","DISCOVERY KIDS SD²
-http://15.235.10.31:14233/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","FASHIONTV
-http://15.235.10.31:14304/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","BAND²
-http://89.187.183.109:14020/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","TNT SPORTES HD
-http://89.187.183.109:14019/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","MEGAPIX SD
-http://89.187.183.109:14170/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN3 UHD
-http://89.187.183.109:14051/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","BAND SPORTES SD2
-http://15.235.55.115:14071/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","ANIMAL PLANET SD
-http://199.127.60.83:16192/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","CARTOONITO HD
-http://199.127.60.83:14682/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","TOONCAST HD²
-http://172.93.110.132/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","DISCOVERY TURBO HD
-http://15.235.10.31:14248/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","H&H DISCOVERY HD
-http://15.235.10.31:14230/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","COMBATE HD
-http://15.235.10.31:14166/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","DISCOVERY SCIENCE INT
-http://15.235.10.31:14235/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","DOG TV
-http://15.235.10.31:14257/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","HOME&HEALT HD
-http://15.235.10.31:14228/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN 2 HD
-http://15.235.10.31:14286/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","DISCOVERY TURBO 4K
-http://15.235.10.31:14246/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","CANAL 21 4K
-http://15.235.10.31:14277/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","DISCOVERY SCIENCE SD
-http://15.235.10.31:14237/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","FILME & ARTES
-http://15.235.10.31:14307/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","DISCOVERY KIDS HD
-http://15.235.10.31:14234/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN 4 HD
-http://15.235.10.31:14295/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","DISCOVERY WORLD HD
-http://15.235.10.31:14249/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN 4 4K
-http://15.235.10.31:14293/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","DISCOVERY WORLD FHD
-http://15.235.10.31:14247/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN 2 FHD
-http://15.235.10.31:14284/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","FILMES & ARTES FHD
-http://15.235.10.31:14303/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","DISCOVERY TURBO SD
-http://15.235.10.31:14245/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","FOOD
-http://15.235.10.31:14320/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","CANAL VENDAS 24 HRS
-http://15.235.10.31:14312/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","FILM & ARTES SD
-http://15.235.10.31:14308/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","DISCOVERY THEATER HD
-http://15.235.10.31:14241/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","FOOD 4K
-http://15.235.10.31:14321/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN 3 SD
-http://15.235.10.31:14288/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","DISCOVERY THEATER
-http://15.235.10.31:14239/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","H&H DISCOVERY 4K
-http://15.235.10.31:14229/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN 3 FHD
-http://15.235.10.31:14289/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","DISCOVERY CHANNEL
-http://15.235.10.31:14226/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","SBT HD
-http://15.235.10.31:14009/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","DISCOVERY CHANNEL 4K
-http://15.235.10.31:14225/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","CANAL TESTE
-http://15.235.10.31:14220/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","FOOD SD
-http://15.235.10.31:14322/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","FILM&ARTES UHD
-http://15.235.10.31:14309/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","ESPN EXTRA
-http://15.235.10.31:14297/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","FOODNETWORK
-http://15.235.10.31:14319/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","DISCOVERY SD
-http://15.235.10.31:14223/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","DISCOVERY TURBO SD
-http://15.235.10.31:14243/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","ESPN 3 4K
-http://15.235.10.31:14291/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","DISCOVERY SCIENCE 4K
-http://15.235.10.31:14238/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","DOG TV 4K
-http://15.235.10.31:14256/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","DISCOVERY TURBO 4K
-http://15.235.10.31:14244/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","DISCOVERY CHANNEL 4K
-http://15.235.10.31:14224/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","DISCOVERY KIDS SD
-http://15.235.10.31:14231/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","DISCOVERY KIDS FHD
-http://15.235.10.31:14232/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","TV DIARIO
-http://15.235.10.31:14221/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","ESPN EXTRA FHD
-http://15.235.10.31:14296/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","STAR +
-http://15.235.10.31:14299/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","DISCOVERY TURBO SD²
-http://15.235.10.31:14250/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN ²
-http://15.235.10.31:14298/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","GLOBO ²
-http://15.235.10.31:14196/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","H&H DISCOVERY SD²
-http://15.235.10.31:14227/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","FILM & ARTES ²
-http://15.235.10.31:14305/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN 4²
-http://15.235.10.31:14294/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","DISCOVERY THEATER HD²
-http://15.235.10.31:14242/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","DISCOVERY KIDS SD²
-http://15.235.10.31:14233/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","FASHIONTV
-http://15.235.10.31:14304/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","teste
-http://199.127.60.83:16004/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","SBT
-http://199.127.60.83:16170/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","SONY HD
-http://199.127.60.83:16063/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","CARTOONNETWORK HD
-http://199.127.60.83:14687/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","FX HD
-http://199.127.60.83:16043/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","VIVA HD
-http://199.127.60.83:16884/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","A&E HD
-http://199.127.60.83:16002/
-#EXTINF:-1 tvg-logo=""group-title="TELECINES","TELECINE ACTION HD
-http://199.127.60.83:16056/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","PREMIERE 1
-http://199.127.60.83:16468/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","MEGAPIX HD
-http://199.127.60.83:16048/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","FUTURA HD
-http://172.93.110.132:14177/
-#EXTINF:-1 tvg-logo=""group-title="TELECINES","TELECINE FUN HD
-http://172.93.110.132:14361/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","ID DISCOVERY HD
-http://172.93.110.132:14257/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","CANAL DO BOI
-http://172.93.110.132:14174/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","ZOO MOO KIDS HD
-http://172.93.110.132:14229/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","NHK HD
-http://172.93.110.132:14243/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","NHK 4K
-http://172.93.110.132:14244/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","RECORD HD
-http://172.93.110.132:14166/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","DISCOVERY SCIENCE 4K
-http://172.93.110.132:14260/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","GLOBO NEWS HD
-http://172.93.110.132:14237/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","RA TIM BUM
-http://172.93.110.132:14224/
-#EXTINF:-1 tvg-logo=""group-title="TELECINES","TELECINE CULT HD
-http://172.93.110.132:14358/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","RECORD FHD
-http://172.93.110.132:14167/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","RECORD NEWS HD
-http://172.93.110.132:14245/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","RECORD 4K
-http://172.93.110.132:14157/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","CANAL 21
-http://172.93.110.132:14179/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","RA TIM BUM HD
-http://172.93.110.132:14223/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","WOOHOO
-http://172.93.110.132:14225/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","AGRO +
-http://172.93.110.132:14170/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","GLOBO UHD
-http://172.93.110.132:14068/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","GLOOBINHO HD
-http://172.93.110.132:14220/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","GLOOBINHO 4K
-http://172.93.110.132:14219/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","GLOOBINHO SD
-http://172.93.110.132:14221/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","RECORD NEWS SD
-http://172.93.110.132:14247/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","JOVEM PAN
-http://172.93.110.132:14240/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","PREMIERE CLUBES
-http://172.93.110.132:14451/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","FUTURA FHD
-http://172.93.110.132:14178/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","BAND SD
-http://172.93.110.132:14063/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","ZOOMOO KIDS HD
-http://172.93.110.132:14228/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO
-http://172.93.110.132:14373/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","CNN SD
-http://172.93.110.132:14236/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","BAND NEWS HD
-http://172.93.110.132:14230/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","TOONCAST HD
-http://172.93.110.132:14218/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","FUTURA 4K
-http://172.93.110.132:14176/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","WOOHOO SD
-http://172.93.110.132:14226/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO 2 HD
-http://172.93.110.132:14376/
-#EXTINF:-1 tvg-logo=""group-title="TELECINES","TELECINE TOUCH HD
-http://172.93.110.132:14370/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","TERRA VIVA
-http://172.93.110.132:14175/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","GLOBO HD
-http://15.235.55.115:14090/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","GLOBO FHD
-http://15.235.55.115:14074/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","GLOBO MG
-http://15.235.55.115:14104/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","BAND HD
-http://15.235.55.115:14066/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","GLOBO SD
-http://15.235.55.115:14106/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","GLOBO SP
-http://15.235.55.115:14101/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","GLOBO SD 2
-http://15.235.55.115:14100/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","BIS HD
-http://15.235.55.115:14083/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","BIS FHD
-http://15.235.55.115:14084/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","BIS 4 K
-http://15.235.55.115:14085/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","GLOBO RJ
-http://15.235.55.115:14079/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","GLIBO RJ HD
-http://15.235.55.115:14078/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","GLOBO 4K
-http://15.235.55.115:14089/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","BAND ESPORTES HD
-http://15.235.55.115:14071/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","BAND SD
-http://15.235.55.115:14067/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","BAND ESPORTES FHD
-http://15.235.55.115:14068/
-#EXTINF:-1 tvg-logo="'group-title="ESPORTES","STADIO TNT SD
-http://89.187.183.109:14026/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","MEGAPIX HD
-http://89.187.183.109:14170/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESTADIO TNT HD
-http://89.187.183.109:14019/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","TNT ESTADIO 2
-http://89.187.183.109:14026/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","TNT ESTADIO
-http://89.187.183.109:14019/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","COMEDY CENTRAL SD²
-http://195.201.243.48:14026/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN2²
-http://89.187.183.109:14051/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","REDE VIDA
-http://185.150.190.225:14071/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","RECORD SD²
-http://51.222.44.30:14171/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","MEGAPIX UHD ²
-http://89.187.183.109:14170/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO+ UHD
-http://51.222.44.30:14081/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","NICK SD
-http://84.17.44.179:14310/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","REDETV ! UHD
-http://51.159.54.153:14397/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","SPACE HD
-http://51.159.54.153:14408/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","SPORTV 2 UHD2
-http://51.159.54.153:14414/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","SPORTV UHD2
-http://51.159.54.153:14411/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","SPORTV 3 UHD
-http://51.159.54.153:14417/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","ESPN UHD
-http://89.38.96.234:14525/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","HBO UHD
-http://195.181.163.144:14606/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","NATIONAL GEOGRAFIC UHD
-http://84.17.44.179:14635/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","PREMIERECLUBES UHD
-http://195.181.163.144:14694/
-#EXTINF:-1 tvg-logo=""group-title="TELECINES","TELECINE TESTE
-http://195.201.243.48:14703/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","SPACE UHD
-http://195.181.163.144:14730/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","MULTISHOW SD
-http://51.222.44.30:14897/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","MTV UHD
-http://51.222.44.30:14921/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","FX UHD
-http://199.127.60.83:16043/
-#EXTINF:-1 tvg-logo=""group-title="TELECINES","TELECINE ACTION UHD2
-http://199.127.60.83:16056/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","SONY UHD
-http://199.127.60.83:16063/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","MULTISHOW
-http://23.237.10.66:16124/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","SBT UHD
-http://209.222.97.92:16173/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","SPORTV 2 UHD
-http://23.237.10.66:16180/
-#EXTINF:-1 tvg-logo=""group-title="DOCUMENTARIOS","ANIMAL PLANET UHD
-http://199.127.60.83:16192/
-#EXTINF:-1 tvg-logo=""group-title="INFANTIL","DISNEY CHANNEL UHD
-http://51.83.238.223:16274/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","BOO TERROR
-http://23.237.10.66:16420/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","GO SHOP
-http://23.237.10.66:16426/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","PREMIERE 6
-http://185.150.190.225:16464/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","PREMIERER 5
-http://185.150.190.225:16468/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","PREMIERER 4
-http://185.150.190.225:16472/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","CGTN
-http://23.237.10.66:16473/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","PREMIERE 3
-http://185.150.190.225:16476/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","PREMIERE 2
-http://185.150.190.225:16482/
-#EXTINF:-1 tvg-logo=""group-title="AO VIVO","89.7 FM
-http://23.237.10.66:16492/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","SPORTV UHD
-http://209.222.97.92:16525/
-#EXTINF:-1 tvg-logo=""group-title="ESPORTES","COMBATE UHD
-http://209.222.97.92:16493/
-#EXTINF:-1 tvg-logo=""group-title="TELECINES","TELECINE ACTION UHD
-http://51.83.238.223:16703/
-#EXTINF:-1 tvg-logo=""group-title="TELECINES","TELECINE PIPOCA UHD
-http://51.83.238.223:16763/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","MEGAPIX UHD
-http://51.83.238.223:16823/
-#EXTINF:-1 tvg-logo=""group-title="FILMES E SERIES","UNIVERSAL CHANNEL
-http://51.83.238.223:16883/
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP"  tvg-logo="https://www.pngwing.com/pt/free-png-tsrrl" group-title="Canais l Globo" , Globo SP
+http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-id="SBT SP" tvg-name="SBT SP"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l SBT" , SBT SP
+http://170.82.200.38:8080/sbt_sp/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Band SP" tvg-name="Band SP"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Band" , Band SP
+http://170.82.200.38:8080/band_sp/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Record" tvg-name="Record"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Record" , Record 
+http://45.58.126.146:14153/record.ts
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/Cartoon-Network-Logo.png" group-title="Canais l Infantil" , Cartoon Network 
+http://45.58.126.146:14197/Cartoon_network.ts
+
+#EXTINF:-1 tvg-id="Cartonito" tvg-name="Cartonito"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Cartonito 
+http://45.58.126.146:14200/cartonito.ts
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/10/Disney-Channel-Logo-1024x640.png" group-title="Canais l Infantil" , Disney Channel
+http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Discovery Kids 
+http://45.58.126.146:14203/discovery_kids.ts
+
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Gloob
+http://45.58.126.146:14209/gloob.ts
+
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Gloobinho 
+http://15.235.10.31:14359/gloobinho.ts
+
+#EXTINF:-1 tvg-id="Nick JR" tvg-name="Nick JR"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png" group-title="Canais l Infantil" , Nick JR 
+http://45.58.126.146:14212/nick_jr.ts
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/Nickelodeon-Logo.png" group-title="Canais l Infantil" , Nickelodeon 
+http://45.58.126.146:14215/nickelodean.ts
+
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Notícias" , Band News 
+http://45.58.126.146:14231/bandnews.ts
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/CNN-LOGO.png" group-title="Canais l Notícias" , CNN 
+http://45.58.126.146:14234/cnn.ts
+
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Notícias" , Globo News 
+http://15.235.10.31:14354/globonews.ts
+
+#EXTINF:-1 tvg-id="JP News" tvg-name="JP News"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Notícias" , JP News 
+http://45.58.126.146:14241/jp_news.ts
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-logo-1.png" group-title="Canais l Documentários" , Animal Planet 
+http://45.58.126.146:14249/animal_planet.ts
+
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-logo-1.png" group-title="Canais l Documentários" , HGTV 
+http://15.235.10.31:14412/hgtv.ts
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/10/Discovery-Logo.png" group-title="Canais l Discovery" , Discovery Channel 
+http://45.58.126.146:14252/discovery_channel.ts
+
+#EXTINF:-1 tvg-id="Discovery H&H Channel" tvg-name="Discovery H&H Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery H&H
+http://45.58.126.146:14255/discovery_h&h.ts
+
+#EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery ID
+http://45.58.126.146:14258/discovery_id.ts
+
+#EXTINF:-1 tvg-id="Discovery Science Channel" tvg-name="Discovery Science"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery Science 
+http://45.58.126.146:14261/discovery_science.ts
+
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery Theater 
+http://45.58.126.146:14264/discovery_theater.ts
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery Turbo
+http://45.58.126.146:14267/discovery_turbo.ts
+
+#EXTINF:-1 tvg-id="TCL" tvg-name="TCL"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/TLC-Logo.png" group-title="Canais l Documentários" , TCL
+http://45.58.126.146:14270/tcl.ts
+
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery World
+http://45.58.126.146:14273/discovery_world.ts
+
+#EXTINF:-1 tvg-id="History" tvg-name="History"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/HBO-LOGO.png" group-title="Canais l Documentários" , History
+http://45.58.126.146:14281/history.ts
+
+#EXTINF:-1 tvg-id="History 2" tvg-name="History 2"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , History 2
+http://45.58.126.146:14284/history_2.ts
+
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Star Channel 
+http://170.82.200.38:8080/star_channel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Cine Canal" tvg-name="Cine Canal"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Cine Canal
+http://45.58.126.146:14326/cine_canal.ts
+
+#EXTINF:-1 tvg-id="Fx" tvg-name="Fx"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Fx
+http://45.58.126.146:14311/fx.ts
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , TNT
+http://45.58.126.146:14341/tnt_fhd.ts
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , A&E
+http://45.58.126.146:14293/a&e.ts
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , AMC
+http://45.58.126.146:14296/amc.ts
+
+#EXTINF:-1 tvg-id="National geographic" tvg-name="National geographic"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , National Geographic
+http://45.58.126.146:14287/national_geographic.ts
+
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/Sony-Pictures-logo.png" group-title="Canais l Filmes e Séries" , Sony
+http://45.58.126.146:14302/sony.ts
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Cinemax
+http://45.58.126.146:14305/cinemax.ts
+
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Megapix 
+http://45.58.126.146:14317/megapix.ts
+
+#EXTINF:-1 tvg-id="Paramont" tvg-name="Paramont"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/Paramount-Pictures-Logo-1.png" group-title="Canais l Filmes e Séries" , Paramont 
+http://45.58.126.146:14320/paramont.ts
+
+#EXTINF:-1 tvg-id="Space" tvg-name="Space"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Space
+http://45.58.126.146:14323/space.ts
+
+ #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/10/Universal-Logo.png" group-title="Canais l Filmes e Séries" , Studio Universal 
+http://45.58.126.146:14332/studio_universal.ts
+
+#EXTINF:-1 tvg-id="Tbs" tvg-name="Tbs"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Tbs
+http://45.58.126.146:14338/tbs.ts
+
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Séries"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , TNT Séries 
+http://45.58.126.146:14345/tnt_series.ts
+
+#EXTINF:-1 tvg-id="Universal Tv" tvg-name="Universal Tv"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Universal Tv 
+http://45.58.126.146:14348/universal_tv.ts
+
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/10/Warner-Bros-Logo.png" group-title="Canais l Filmes e Séries" , Warner Channel 
+http://45.58.126.146:14351/warner_channel.ts
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , AXN
+http://45.58.126.146:14299/axn.ts
+
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/Syfy-logo.png" group-title="Canais l Filmes e Séries" , Syfy
+http://45.58.126.146:14335/syfy.ts
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" group-title="Canais l Variedades" , Comedy Central 
+http://45.58.126.146:14308/comedy_central.ts
+
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" group-title="Canais l Variedades" , GNT
+http://15.235.10.31:14366/gnt.ts
+
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" group-title="Canais l Variedades" , Multishow 
+http://15.235.10.31:14505/multishow.ts
+
+#EXTINF:-1 tvg-id="Life Time" tvg-name="Life Time"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Variedades" , Life Time 
+http://45.58.126.146:14314/lifetime.ts
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/HBO-LOGO.png" group-title="Canais l HBO" , HBO
+http://15.235.10.31:14379/Hbo.ts
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO 2 
+http://15.235.10.31:14383/hbo2.ts
+
+#EXTINF:-1 tvg-id="HBO Pop" tvg-name="HBO Pop"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO Pop 
+http://15.235.10.31:14397/hbo_pop.ts
+
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-name="HBO Mundi"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO Mundi 
+http://15.235.10.31:14395/hbo_mundi.ts
+
+#EXTINF:-1 tvg-id="HBO Extreme" tvg-name="HBO Extreme"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO Extreme 
+http://15.235.10.31:14407/hbo_extreme.ts
+
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO Signature
+http://15.235.10.31:14403/hbo_signature.ts
+
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO Plus
+http://15.235.10.31:14409/hbo_plus.ts
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO Family 
+http://15.235.10.31:14387/hbo_family.ts 
+
+#EXTINF:-1 tvg-id="Retrô Tv" tvg-name="Retrô Tv"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Retrô Tv" , Retrô TV 
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Abertos" , Rede Brasil 
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
+
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Abertos" , Futura 
+http://15.235.10.31:14337/futura.ts
+
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Action 
+http://yesimes.oknirvana.club:8880/6mk060014/78982516/2439
+
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Pipoca 
+http://yesimes.oknirvana.club:8880/6mk060014/78982516/65806
+
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Premium 
+http://yesimes.oknirvana.club:8880/6mk060014/78982516/65808
+
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Cult 
+http://yesimes.oknirvana.club:8880/6mk060014/78982516/65802
+
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Fun
+http://yesimes.oknirvana.club:8880/6mk060014/78982516/65804
+
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Touch
+http://yesimes.oknirvana.club:8880/6mk060014/78982516/65810
+
+#EXTINF:-1 tvg-id="Urban Kids" tvg-name="Urban Kids"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Urban" , Urban Kids
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Urban Docs" tvg-name="Urban Docs"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Urban" , Urban Docs
+http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Urban Séries" tvg-name="Urban Séries"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Urban" , Urban Séries 
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Urban TV" tvg-name="Urban TV"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Urban" , Urban TV
+http://200.194.238.229:8383/live/urbantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Urban Movies" tvg-name="Urban Movies"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Urban" , Urban Movies 
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
