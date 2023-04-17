@@ -222,5 +222,3 @@ http://200.194.238.229:8383/live/urbantv/playlist.m3u8
 #EXTINF:-1 tvg-id="Urban Movies" tvg-name="Urban Movies"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Urban" , Urban Movies 
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Urban Movies" tvg-name="Urban Movies"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Urban" , Urban Movies
-http://172.93.110.132:14358/
