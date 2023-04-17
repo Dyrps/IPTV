@@ -141,6 +141,9 @@ http://45.58.126.146:14299/axn.ts
 #EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/Syfy-logo.png" group-title="Canais l Filmes e Séries" , Syfy
 http://45.58.126.146:14335/syfy.ts
 
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" group-title="Canais l Variedades" , Viva
+http://199.127.60.83:16884/viva.ts
+
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" group-title="Canais l Variedades" , Comedy Central 
 http://45.58.126.146:14308/comedy_central.ts
 
