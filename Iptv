@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://http://epg.it999.ru/edem.xml.gz"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
 
 #EXTINF:-1 tvg-id="Globosp.br"  group-title="Canais l Globo" , Globo SP
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
