@@ -1,6 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Globosp.br"  group-title="Canais l Globo" , Globo SP
+
+#EXTINF:-1 tvg-id="Globosp.br"  tvg-name="Retrô Tv"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png"
+group-title="Canais l Globo" , Globo SP
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" group-title="Canais l SBT" , SBT SP
@@ -171,7 +173,7 @@ http://15.235.10.31:14395/hbo_mundi.ts
 #EXTINF:-1 tvg-id="HBO Extreme" tvg-name="HBO Extreme"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO Extreme 
 http://15.235.10.31:14407/hbo_extreme.ts
 
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO Signature
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO Signature"  tvg-logo="" group-title="Canais l HBO" , HBO Signature
 http://15.235.10.31:14403/hbo_signature.ts
 
 #EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l HBO" , HBO Plus
@@ -224,3 +226,4 @@ http://172.93.110.132:14358/
 
 #EXTINF:-1 tvg-id="Retrô Tv" tvg-name="Retrô Tv"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Retrô Tv" , Retrô TV 
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
