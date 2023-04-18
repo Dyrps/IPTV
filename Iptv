@@ -3,13 +3,13 @@
 #EXTINF:-1 tvg-id="Globosp.br"  group-title="Canais l Globo" , Globo SP
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l SBT" , SBT SP
+#EXTINF:-1 tvg-id="Sbt.br" group-title="Canais l SBT" , SBT SP
 http://170.82.200.38:8080/sbt_sp/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Band SP" tvg-name="Band SP"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Band" , Band SP
+#EXTINF:-1 tvg-id="Bandeirantes.br" group-title="Canais l Band" , Band SP
 http://170.82.200.38:8080/band_sp/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Record" tvg-name="Record"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Record" , Record 
+#EXTINF:-1 tvg-id="Rederecord.br" group-title="Canais l Record" , Record 
 http://45.58.126.146:14153/record.ts
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/Cartoon-Network-Logo.png" group-title="Canais l Infantil" , Cartoon Network 
