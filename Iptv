@@ -186,22 +186,22 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
 #EXTINF:-1 tvg-id="Futura" tvg-name="Futura"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Abertos" , Futura 
 http://15.235.10.31:14337/futura.ts
 
-#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Action 
+#EXTINF:-1 tvg-id="Tcaction.br" group-title="Canais l Telecine" , Telecine Action 
 http://45.230.96.42:80/distv/@distv/655
 
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Pipoca 
+#EXTINF:-1 tvg-id="Tcpipoca.br" group-title="Canais l Telecine" , Telecine Pipoca 
 http://45.230.96.42:80/distv/@distv/658
 
-#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Premium 
+#EXTINF:-1 tvg-id="Tcpremium.br" group-title="Canais l Telecine" , Telecine Premium 
 http://45.230.96.42:80/distv/@distv/659
 
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Cult 
+#EXTINF:-1 tvg-id="Tccult.br" group-title="Canais l Telecine" , Telecine Cult 
 http://45.230.96.42:80/distv/@distv/656
 
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Fun
+#EXTINF:-1 tvg-id="Tcfun.br" group-title="Canais l Telecine" , Telecine Fun
 http://45.230.96.42:80/distv/@distv/657
 
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Telecine" , Telecine Touch
+#EXTINF:-1 tvg-id="Tctouch.br" group-title="Canais l Telecine" , Telecine Touch
 http://45.230.96.42:80/distv/@distv/660
 
 #EXTINF:-1 tvg-id="Urban Kids" tvg-name="Urban Kids"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Urban" , Urban Kids
@@ -224,3 +224,4 @@ http://172.93.110.132:14358/
 
 #EXTINF:-1 tvg-id="Retrô Tv" tvg-name="Retrô Tv"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Retrô Tv" , Retrô TV 
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
