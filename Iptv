@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://pfsv.io"
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP"  tvg-logo="https://www.pngwing.com/pt/free-png-tsrrl" group-title="Canais l Globo" , Globo SP
+#EXTINF:-1 tvg-id="Globosp.br"  group-title="Canais l Globo" , Globo SP
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l SBT" , SBT SP
