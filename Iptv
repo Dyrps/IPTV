@@ -30,10 +30,10 @@ http://45.58.126.146:14209/gloob.ts
 #EXTINF:-1 tvg-id="ext" group-title="Canais l Infantil" , Gloobinho 
 http://15.235.10.31:14359/gloobinho.ts
 
-#EXTINF:-1 tvg-id="NickJr.br"  group-title="Canais l Infantil" , Nick JR 
+#EXTINF:-1 tvg-id="NickJr.br" group-title="Canais l Infantil" , Nick JR 
 http://45.58.126.146:14212/nick_jr.ts
 
-#EXTINF:-1 tvg-id="ext"  group-title="Canais l Infantil" , Nickelodeon 
+#EXTINF:-1 tvg-id="Nickelodeon.br" group-title="Canais l Infantil" , Nickelodeon 
 http://45.58.126.146:14215/nickelodeon.ts
 
 #EXTINF:-1 tvg-id="bandnews.br" group-title="Canais l Notícias" , Band News 
