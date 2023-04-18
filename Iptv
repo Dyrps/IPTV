@@ -33,25 +33,25 @@ http://15.235.10.31:14359/gloobinho.ts
 #EXTINF:-1 tvg-id="NickJr.br"  group-title="Canais l Infantil" , Nick JR 
 http://45.58.126.146:14212/nick_jr.ts
 
-#EXTINF:-1 tvg-id="ext"  group-title="Canais l Infantil" , Nickelodeon 
+#EXTINF:-1 tvg-id="Nickelodeon.br"  group-title="Canais l Infantil" , Nickelodeon 
 http://45.58.126.146:14215/nickelodeon.ts
 
-#EXTINF:-1 tvg-id="Band News" tvg-name="Band News"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Notícias" , Band News 
+#EXTINF:-1 tvg-id="bandnews.br" group-title="Canais l Notícias" , Band News 
 http://45.58.126.146:14231/bandnews.ts
 
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/CNN-LOGO.png" group-title="Canais l Notícias" , CNN 
+#EXTINF:-1 tvg-id="CNNBrasil.br"  group-title="Canais l Notícias" , CNN 
 http://45.58.126.146:14234/cnn.ts
 
-#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Notícias" , Globo News 
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Notícias" , Globo News 
 http://15.235.10.31:14354/globonews.ts
 
-#EXTINF:-1 tvg-id="JP News" tvg-name="JP News"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Notícias" , JP News 
+#EXTINF:-1 tvg-id="JovemPanNews.br" group-title="Canais l Notícias" , JP News 
 http://45.58.126.146:14241/jp_news.ts
 
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-logo-1.png" group-title="Canais l Documentários" , Animal Planet 
+#EXTINF:-1 tvg-id="Animalplanet.br" group-title="Canais l Documentários" , Animal Planet 
 http://45.58.126.146:14249/animal_planet.ts
 
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-logo-1.png" group-title="Canais l Documentários" , HGTV 
+#EXTINF:-1 tvg-id="ext" group-title="Canais l Documentários" , HGTV 
 http://15.235.10.31:14412/hgtv.ts
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/10/Discovery-Logo.png" group-title="Canais l Discovery" , Discovery Channel 
@@ -224,4 +224,3 @@ http://172.93.110.132:14358/
 
 #EXTINF:-1 tvg-id="Retrô Tv" tvg-name="Retrô Tv"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Retrô Tv" , Retrô TV 
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-
