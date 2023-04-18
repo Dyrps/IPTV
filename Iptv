@@ -42,7 +42,7 @@ http://45.58.126.146:14231/bandnews.ts
 #EXTINF:-1 tvg-id="CNNBrasil.br"  group-title="Canais l Notícias" , CNN 
 http://45.58.126.146:14234/cnn.ts
 
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Notícias" , Globo News 
+#EXTINF:-1 tvg-id="Globonews.br" group-title="Canais l Notícias" , Globo News 
 http://15.235.10.31:14354/globonews.ts
 
 #EXTINF:-1 tvg-id="JovemPanNews.br" group-title="Canais l Notícias" , JP News 
@@ -53,6 +53,9 @@ http://45.58.126.146:14249/animal_planet.ts
 
 #EXTINF:-1 tvg-id="ext" group-title="Canais l Documentários" , HGTV 
 http://15.235.10.31:14412/hgtv.ts
+
+#EXTINF:-1 tvg-id="Tlc.br" group-title="Canais l Documentários" , TCL
+http://45.58.126.146:14270/tcl.ts
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/10/Discovery-Logo.png" group-title="Canais l Discovery" , Discovery Channel 
 http://45.58.126.146:14252/discovery_channel.ts
@@ -71,9 +74,6 @@ http://45.58.126.146:14264/discovery_theater.ts
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery Turbo
 http://45.58.126.146:14267/discovery_turbo.ts
-
-#EXTINF:-1 tvg-id="TCL" tvg-name="TCL"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/TLC-Logo.png" group-title="Canais l Documentários" , TCL
-http://45.58.126.146:14270/tcl.ts
 
 #EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery World
 http://45.58.126.146:14273/discovery_world.ts
@@ -224,3 +224,4 @@ http://172.93.110.132:14358/
 
 #EXTINF:-1 tvg-id="Retrô Tv" tvg-name="Retrô Tv"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Retrô Tv" , Retrô TV 
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
