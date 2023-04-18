@@ -12,22 +12,22 @@ http://170.82.200.38:8080/band_sp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Rederecord.br" group-title="Canais l Record" , Record 
 http://45.58.126.146:14153/record.ts
 
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/Cartoon-Network-Logo.png" group-title="Canais l Infantil" , Cartoon Network 
+#EXTINF:-1 tvg-id="cartoonnetwork.br"  group-title="Canais l Infantil" , Cartoon Network 
 http://45.58.126.146:14197/Cartoon_network.ts
 
-#EXTINF:-1 tvg-id="Cartonito" tvg-name="Cartonito"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Cartonito 
+#EXTINF:-1 tvg-id="Boomerang.br" group-title="Canais l Infantil" , Cartonito 
 http://45.58.126.146:14200/cartonito.ts
 
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/10/Disney-Channel-Logo-1024x640.png" group-title="Canais l Infantil" , Disney Channel
+#EXTINF:-1 tvg-id="Disneychannel.br" group-title="Canais l Infantil" , Disney Channel
 http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Globo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Discovery Kids 
+#EXTINF:-1 tvg-id="Discoverykids.br" group-title="Canais l Infantil" , Discovery Kids 
 http://45.58.126.146:14203/discovery_kids.ts
 
-#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Gloob
+#EXTINF:-1 tvg-id="gloob.br" group-title="Canais l Infantil" , Gloob
 http://45.58.126.146:14209/gloob.ts
 
-#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Gloobinho 
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Infantil" , Gloobinho 
 http://15.235.10.31:14359/gloobinho.ts
 
 #EXTINF:-1 tvg-id="Nick JR" tvg-name="Nick JR"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png" group-title="Canais l Infantil" , Nick JR 
@@ -224,3 +224,4 @@ http://172.93.110.132:14358/
 
 #EXTINF:-1 tvg-id="Retrô Tv" tvg-name="Retrô Tv"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Retrô Tv" , Retrô TV 
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
