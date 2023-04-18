@@ -30,10 +30,10 @@ http://45.58.126.146:14209/gloob.ts
 #EXTINF:-1 tvg-id="ext" group-title="Canais l Infantil" , Gloobinho 
 http://15.235.10.31:14359/gloobinho.ts
 
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick JR"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png" group-title="Canais l Infantil" , Nick JR 
+#EXTINF:-1 tvg-id="NickJr.br"  group-title="Canais l Infantil" , Nick JR 
 http://45.58.126.146:14212/nick_jr.ts
 
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/Nickelodeon-Logo.png" group-title="Canais l Infantil" , Nickelodeon 
+#EXTINF:-1 tvg-id="Nickelodeon.br"  group-title="Canais l Infantil" , Nickelodeon 
 http://45.58.126.146:14215/nickelodean.ts
 
 #EXTINF:-1 tvg-id="Band News" tvg-name="Band News"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Notícias" , Band News 
@@ -224,3 +224,4 @@ http://172.93.110.132:14358/
 
 #EXTINF:-1 tvg-id="Retrô Tv" tvg-name="Retrô Tv"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Retrô Tv" , Retrô TV 
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
