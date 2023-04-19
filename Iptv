@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo"  tvg-logo="
 https://pt.m.wikipedia.org/wiki/Ficheiro:Logotipo_da_TV_Globo.png"
- group-title="Canais l Globo" , Globo
+group-title="Canais l Globo" , Globo
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br"  group-title="Canais l SBT" , SBT SP
