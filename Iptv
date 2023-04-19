@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo"  tvg-logo="https://www.pngwing.com/pt/free-png-tsrrl" group-title="Canais l Globo" , Globo
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo"  tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/04/Logo-Negativo-Rede-Globo-Png.png"
+ group-title="Canais l Globo" , Globo
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 
 https://www.pngwing.com/pt/free-png-tsrrl
