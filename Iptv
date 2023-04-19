@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" , Globo
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" , Globo
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Sbt"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l SBT" , SBT SP
@@ -233,4 +233,3 @@ http://200.194.238.229:8383/live/urbansports/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RetroTv" tvg-name="Retrô Tv"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Canais l Retrô Tv" , Retrô TV 
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-
