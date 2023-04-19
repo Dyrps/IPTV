@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Brazil/sky.com.br.channels/epg.xml
+#EXTM3U url-tvg=http://acstatic.co/epg/epg.xml
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" , Globo 
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
