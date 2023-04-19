@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-3.png" group-title="Canais l Globo" , Globo
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://mondrian.claro.com.br/channels/default/globo.svg" group-title="Canais l Globo" , Globo
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br"  group-title="Canais l SBT" , SBT SP
