@@ -3,130 +3,130 @@
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" , Globo
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l SBT" , SBT SP
+#EXTINF:-1 tvg-id="Sbt"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l SBT" , SBT SP
 http://170.82.200.38:8080/sbt_sp/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bandeirantes.br"  group-title="Canais l Band" , Band SP
+#EXTINF:-1 tvg-id="Band"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais l Band" , Band
 http://170.82.200.38:8080/bandsp/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Rederecord.br"  group-title="Canais l Record" , Record 
+#EXTINF:-1 tvg-id="Record"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="Canais l Record" , Record
 http://45.58.126.146:14153/record.ts
 
-#EXTINF:-1 tvg-id="cartoonnetwork.br" group-title="Canais l Infantil" ,  Cartoon Network 
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoon-network.png"group-title="Canais l Infantil" ,  Cartoon Network 
 http://45.58.126.146:14197/Cartoon_network.ts
 
-#EXTINF:-1 tvg-id="Boomerang.br"  group-title="Canais l Infantil" , Cartonito 
+#EXTINF:-1 tvg-id="Cartonito"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoonito.png"group-title="Canais l Infantil" , Cartonito 
 http://45.58.126.146:14200/cartonito.ts
 
-#EXTINF:-1 tvg-id="Disneychannel.br"  group-title="Canais l Infantil" , Disney Channel
+#EXTINF:-1 tvg-id="Disney Channel"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/disney-channel.png" group-title="Canais l Infantil" , Disney Channel
 http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ext"  group-title="Canais l Infantil" , Discovery Kids 
+#EXTINF:-1 tvg-id="Discovery Kids"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png"group-title="Canais l Infantil" , Discovery Kids 
 http://45.58.126.146:14203/discovery_kids.ts
 
-#EXTINF:-1 tvg-id="gloob.br"  group-title="Canais l Infantil" , Gloob
+#EXTINF:-1 tvg-id="gloob"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/gloob.png" group-title="Canais l Infantil" , Gloob
 http://45.58.126.146:14209/gloob.ts
 
-#EXTINF:-1 tvg-id="ext"  group-title="Canais l Infantil" , Gloobinho 
+#EXTINF:-1 tvg-id="Gloobinho"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/gloobinho.png" group-title="Canais l Infantil" , Gloobinho 
 http://15.235.10.31:14359/gloobinho.ts
 
-#EXTINF:-1 tvg-id="NickJr.br"  group-title="Canais l Infantil" , Nick JR 
+#EXTINF:-1 tvg-id="Nick JR"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/nick-jr.png"group-title="Canais l Infantil" , Nick JR 
 http://45.58.126.146:14212/nick_jr.ts
 
-#EXTINF:-1 tvg-id="Nickelodeon.br"  group-title="Canais l Infantil" , Nickelodeon 
+#EXTINF:-1 tvg-id="Nickelodeon"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/nickelodeon.png"group-title="Canais l Infantil" , Nickelodeon 
 http://45.58.126.146:14215/nickelodeon.ts
 
-#EXTINF:-1 tvg-id="bandnews.br"  group-title="Canais l Notícias" , Band News 
+#EXTINF:-1 tvg-id="bandnews.br"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png"group-title="Canais l Notícias" , Band News 
 http://45.58.126.146:14231/bandnews.ts
 
-#EXTINF:-1 tvg-id="CNNBrasil.br"  group-title="Canais l Notícias" , CNN 
+#EXTINF:-1 tvg-id="CNNBrasil.br"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png"group-title="Canais l Notícias" , CNN 
 http://45.58.126.146:14234/cnn.ts
 
-#EXTINF:-1 tvg-id="Globonews.br" group-title="Canais l Notícias" , Globo News 
+#EXTINF:-1 tvg-id="Globonews.br" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png"group-title="Canais l Notícias" , Globo News 
 http://15.235.10.31:14354/globonews.ts
 
-#EXTINF:-1 tvg-id="JovemPanNews.br" group-title="Canais l Notícias" , JP News 
+#EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png"group-title="Canais l Notícias" , JP News 
 http://45.58.126.146:14241/jp_news.ts
 
-#EXTINF:-1 tvg-id="Animalplanet.br" group-title="Canais l Documentários" , Animal Planet 
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png"group-title="Canais l Documentários" , Animal Planet 
 http://45.58.126.146:14249/animal_planet.ts
 
-#EXTINF:-1 tvg-id="ext" group-title="Canais l Documentários" , HGTV 
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png"group-title="Canais l Documentários" , HGTV 
 http://15.235.10.31:14412/hgtv.ts
 
-#EXTINF:-1 tvg-id="Tlc.br" group-title="Canais l Documentários" , TCL
+#EXTINF:-1 tvg-id="Tlc.br" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png"group-title="Canais l Documentários" , TCL
 http://45.58.126.146:14270/tcl.ts
 
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/10/Discovery-Logo.png" group-title="Canais l Discovery" , Discovery Channel 
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery.png" group-title="Canais l Discovery" , Discovery Channel 
 http://45.58.126.146:14252/discovery_channel.ts
 
-#EXTINF:-1 tvg-id="Discovery H&H Channel" tvg-name="Discovery H&H Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery H&H
+#EXTINF:-1 tvg-id="Discovery H&H Channel" tvg-name="Discovery H&H Channel"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-home-and-health.png" group-title="Canais l Discovery" , Discovery H&H
 http://45.58.126.146:14255/discovery_h&h.ts
 
-#EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery ID
+#EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png" group-title="Canais l Discovery" , Discovery ID
 http://45.58.126.146:14258/discovery_id.ts
 
-#EXTINF:-1 tvg-id="Discovery Science Channel" tvg-name="Discovery Science"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery Science 
+#EXTINF:-1 tvg-id="Discovery Science Channel" tvg-name="Discovery Science"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-science.png" group-title="Canais l Discovery" , Discovery Science 
 http://45.58.126.146:14261/discovery_science.ts
 
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery Theater 
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-theater.png" group-title="Canais l Discovery" , Discovery Theater 
 http://45.58.126.146:14264/discovery_theater.ts
 
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery Turbo
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-turbo.png" group-title="Canais l Discovery" , Discovery Turbo
 http://45.58.126.146:14267/discovery_turbo.ts
 
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Discovery" , Discovery World
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-world.png" group-title="Canais l Discovery" , Discovery World
 http://45.58.126.146:14273/discovery_world.ts
 
-#EXTINF:-1 tvg-id="History" tvg-name="History"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/HBO-LOGO.png" group-title="Canais l Documentários" , History
+#EXTINF:-1 tvg-id="History" tvg-name="History"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/history-channel.png" group-title="Canais l Documentários" , History
 http://45.58.126.146:14281/history.ts
 
-#EXTINF:-1 tvg-id="History 2" tvg-name="History 2"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , History 2
+#EXTINF:-1 tvg-id="History 2" tvg-name="History 2"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/history-2.png" group-title="Canais l Documentários" , History 2
 http://45.58.126.146:14284/history_2.ts
 
-#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Star Channel 
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/star-channel.png" group-title="Canais l Filmes e Séries" , Star Channel 
 http://170.82.200.38:8080/star_channel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Cine Canal" tvg-name="Cine Canal"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Cine Canal
+#EXTINF:-1 tvg-id="Cine Canal" tvg-name="Cine Canal"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cinecanal.png" group-title="Canais l Filmes e Séries" , Cine Canal
 http://45.58.126.146:14326/cine_canal.ts
 
-#EXTINF:-1 tvg-id="Fx" tvg-name="Fx"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Fx
+#EXTINF:-1 tvg-id="Fx" tvg-name="Fx"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/fx.png" group-title="Canais l Filmes e Séries" , Fx
 http://45.58.126.146:14311/fx.ts
 
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , TNT
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt.png" group-title="Canais l Filmes e Séries" , TNT
 http://45.58.126.146:14341/tnt_fhd.ts
 
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , A&E
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/aee.png" group-title="Canais l Filmes e Séries" , A&E
 http://45.58.126.146:14293/a&e.ts
 
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , AMC
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/amc.png" group-title="Canais l Filmes e Séries" , AMC
 http://45.58.126.146:14296/amc.ts
 
-#EXTINF:-1 tvg-id="National geographic" tvg-name="National geographic"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Documentários" , National Geographic
+#EXTINF:-1 tvg-id="National geographic" tvg-name="National geographic"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/national-geographic.png" group-title="Canais l Documentários" , National Geographic
 http://45.58.126.146:14287/national_geographic.ts
 
-#EXTINF:-1 tvg-id="Sony" tvg-name="Sony"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/Sony-Pictures-logo.png" group-title="Canais l Filmes e Séries" , Sony
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/sony.png" group-title="Canais l Filmes e Séries" , Sony
 http://45.58.126.146:14302/sony.ts
 
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Cinemax
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cinemax.png" group-title="Canais l Filmes e Séries" , Cinemax
 http://45.58.126.146:14305/cinemax.ts
 
-#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Megapix 
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/megapix.png" group-title="Canais l Filmes e Séries" , Megapix 
 http://45.58.126.146:14317/megapix.ts
 
-#EXTINF:-1 tvg-id="Paramont" tvg-name="Paramont"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/Paramount-Pictures-Logo-1.png" group-title="Canais l Filmes e Séries" , Paramont 
+#EXTINF:-1 tvg-id="Paramont" tvg-name="Paramont"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/paramount-network.png" group-title="Canais l Filmes e Séries" , Paramont 
 http://45.58.126.146:14320/paramont.ts
 
-#EXTINF:-1 tvg-id="Space" tvg-name="Space"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Space
+#EXTINF:-1 tvg-id="Space" tvg-name="Space"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/space.png" group-title="Canais l Filmes e Séries" , Space
 http://45.58.126.146:14323/space.ts
 
- #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/10/Universal-Logo.png" group-title="Canais l Filmes e Séries" , Studio Universal 
+ #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/studio-universal.png" group-title="Canais l Filmes e Séries" , Studio Universal 
 http://45.58.126.146:14332/studio_universal.ts
 
-#EXTINF:-1 tvg-id="Tbs" tvg-name="Tbs"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Tbs
+#EXTINF:-1 tvg-id="Tbs" tvg-name="Tbs"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tbs.png" group-title="Canais l Filmes e Séries" , Tbs
 http://45.58.126.146:14338/tbs.ts
 
-#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Séries"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , TNT Séries 
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Séries"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt-series.png" group-title="Canais l Filmes e Séries" , TNT Séries 
 http://45.58.126.146:14345/tnt_series.ts
 
 #EXTINF:-1 tvg-id="Universal Tv" tvg-name="Universal Tv"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Canais l Filmes e Séries" , Universal Tv 
