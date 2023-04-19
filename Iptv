@@ -1,10 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Globosp.br"
-tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" , Globo
+#EXTINF:0 tvg-id="Globosp.br" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" , Globo
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="Sbt"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l SBT" , SBT SP
+#EXTINF:-1 tvg-id="Sbt" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l SBT" , SBT SP
 http://170.82.200.38:8080/sbt_sp/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Band"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais l Band" , Band
