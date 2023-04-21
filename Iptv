@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" , Globo 
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Globo"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" , Globo 
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
