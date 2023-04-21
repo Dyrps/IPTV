@@ -4,7 +4,7 @@
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Sbt" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l SBT" , SBT SP
-http://170.82.200.38:8080/sbt_sp/tracks-v1a1/mono.m3u8
+http://170.82.200.38:8080/sbt_sp/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Band"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais l Band" , Band
 http://170.82.200.38:8080/bandsp/tracks-v1a1/mono.m3u8
