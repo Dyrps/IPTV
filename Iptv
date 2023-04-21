@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="http://acstatic.co/epg/epg.xml"
 
-#EXTINF:-1 tvg-id="Globo" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" , Globo 
+#EXTINF:-1 tvg-id="" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" , Globo 
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="SBT" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l SBT" , SBT 
+#EXTINF:-1 tvg-id="" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l SBT" , SBT 
 http://170.82.200.38:8080/sbt_sp/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="Band"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais l Band" , Band
+#EXTINF:-1 tvg-id=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais l Band" , Band
 http://170.82.200.38:8080/bandsp/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Record"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="Canais l Record" , Record
+#EXTINF:-1 tvg-id=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="Canais l Record" , Record
 http://45.58.126.146:14153/record.ts
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoon-network.png"group-title="Canais l Infantil" ,  Cartoon Network 
@@ -39,13 +39,13 @@ http://45.58.126.146:14215/nickelodeon.ts
 #EXTINF:-1 tvg-id="Band News"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/band-news.png"group-title="Canais l Notícias" , Band News 
 http://45.58.126.146:14231/bandnews.ts
 
-#EXTINF:-1 tvg-id="CNN Brasil"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cnn-brasil.png"group-title="Canais l Notícias" , CNN Brasil 
+#EXTINF:-1 tvg-id=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cnn-brasil.png"group-title="Canais l Notícias" , CNN Brasil 
 http://45.58.126.146:14234/cnn.ts
 
-#EXTINF:-1 tvg-id="Globo News" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globonews.png"group-title="Canais l Notícias" , Globo News 
+#EXTINF:-1 tvg-id="" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globonews.png"group-title="Canais l Notícias" , Globo News 
 http://15.235.10.31:14354/globonews.ts
 
-#EXTINF:-1 tvg-id="Jovem Pan News" tvg-logo="https://mondrian.claro.com.br/channels/inverse/jp-news-vertical.png"group-title="Canais l Notícias" , JP News 
+#EXTINF:-1 tvg-id="" tvg-logo="https://mondrian.claro.com.br/channels/inverse/jp-news-vertical.png"group-title="Canais l Notícias" , Jovem Pan News 
 http://45.58.126.146:14241/jp_news.ts
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://mondrian.claro.com.br/channels/inverse/animal-planet.png"group-title="Canais l Documentários" , Animal Planet 
