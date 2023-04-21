@@ -1,4 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://img.elitehdbr.com/logos/globo.png" group-title="CANAIS ABERTOS",GLOBO RJ HD
-http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
+http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u
+
+
