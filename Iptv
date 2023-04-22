@@ -36,18 +36,6 @@ http://45.58.126.146:14212/nick_jr.ts
 #EXTINF:-1 tvg-id="Nickelodeon"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/nickelodeon.png"group-title="Canais l Infantil" , Nickelodeon 
 http://45.58.126.146:14215/nickelodeon.ts
 
-#EXTINF:-1 tvg-id="Band News"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/band-news.png"group-title="Canais l Notícias" , Band News 
-http://45.58.126.146:14231/bandnews.ts
-
-#EXTINF:-1 tvg-id=""  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cnn-brasil.png"group-title="Canais l Notícias" , CNN Brasil 
-http://45.58.126.146:14234/cnn.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globonews.png"group-title="Canais l Notícias" , Globo News 
-http://15.235.10.31:14354/globonews.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://mondrian.claro.com.br/channels/inverse/jp-news-vertical.png"group-title="Canais l Notícias" , Jovem Pan News 
-http://45.58.126.146:14241/jp_news.ts
-
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://mondrian.claro.com.br/channels/inverse/animal-planet.png"group-title="Canais l Documentários" , Animal Planet 
 http://45.58.126.146:14249/animal_planet.ts
 
@@ -233,3 +221,15 @@ http://200.194.238.229:8383/live/urbansports/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RetroTv" tvg-name="Retrô Tv"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Canais l Retrô Tv" , Retrô TV 
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Band News"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/band-news.png"group-title="Canais l Notícias" , Band News 
+http://45.58.126.146:14231/bandnews.ts
+
+#EXTINF:-1 tvg-id="CNN Brasil"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cnn-brasil.png"group-title="Canais l Notícias" , CNN Brasil 
+http://45.58.126.146:14234/cnn.ts
+
+#EXTINF:-1 tvg-id="Globo News" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globonews.png"group-title="Canais l Notícias" , Globo News 
+http://15.235.10.31:14354/globonews.ts
+
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-logo="https://mondrian.claro.com.br/channels/inverse/jp-news-vertical.png"group-title="Canais l Notícias" , Jovem Pan News 
+http://45.58.126.146:14241/jp_news.ts
