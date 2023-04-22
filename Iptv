@@ -1,6 +1,6 @@
-#EXTM3U url-tvg="http://acstatic.co/epg/epg.xml"
+#EXTM3U url-tvg="http://epg.pfsv.io"
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" , Globo 
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" , Globo 
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l SBT" , SBT 
