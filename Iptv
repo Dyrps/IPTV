@@ -19,5 +19,5 @@ http://170.82.200.38:8080/bandsp/tracks-v1a1/mono.m3u8
 tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoon-network.png" 
 http://45.58.126.146:14197/Cartoon_network.ts
 
-#EXTINF:-1 tvg-id="Bloomberg.br"  group-title="Canais l Infantil" , Cartonito tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoonito.png"
+#EXTINF:0 tvg-id="Bloomberg.br"  group-title="Canais l Infantil" , Cartonito tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoonito.png"
 http://45.58.126.146:14200/cartonito.ts
