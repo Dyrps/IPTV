@@ -1,4 +1,4 @@
 #EXTM3U url-tvg="http://webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Brazil/clarotv.com.br.channels.xml"
 
-#EXTINF:-1 tvg-id="1_#_1042" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" , Globo 
+#EXTINF:-1 tvg-id="1_#_435" xmltv_id="São Paulo/SP Globo" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" , Globo 
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
