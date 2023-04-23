@@ -3,7 +3,7 @@
 tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l SBT" ,SBT 
 http://170.82.200.38:8080/sbt_sp/tracks-v1a1/index.m3u8
 
-#EXTINF:0 tvg-id="Globosp.br" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title=Canais l Globo" ,Globo
+#EXTINF:0 tvg-id="Globosp.br" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" ,Globo
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-id="Rederecord.br" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="Canais l Record" ,Record
@@ -12,8 +12,9 @@ http://170.82.200.38:8080/bandsp/tracks-v1a1/mono.m3u8"
 #EXTINF:0 tvg-id="Bandeirantes.br" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais l Band" ,Band
 http://170.82.200.38:8080/bandsp/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="Cartoonnetwork.br" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoon-network.png" group-title="Canais l Infantil" ,Cartoon Network 
-http://45.58.126.146:14197/Cartoon_network.ts
+#EXTINF:0 tvg-id="Cartoonnetwork.br"  
+tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoon-network.png" group-title="Canais l Infantil" ,Cartoon Network http://45.58.126.146:14197/Cartoon_network.ts
 
-#EXTINF:0 tvg-id="Bloomberg.br" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoonito.png" group-title="Canais l Infantil" ,Cartonito
+#EXTINF:0 tvg-id="Bloomberg.br"  
+tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoonito.png" group-title="Canais l Infantil" ,Cartonito    
 http://45.58.126.146:14200/cartonito.ts
