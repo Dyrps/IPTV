@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="Globo SP HD" tvg-name="Globo SP HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" , Globo
-http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
-
 #EXTINF:0 tvg-id="SBT SP HD" tvg-name="SBT SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l SBT" , SBT
 http://170.82.200.38:8080/sbt_sp/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais l Band" , Band
-http://170.82.200.38:8080/bandsp/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Globo SP HD" tvg-name="Globo SP HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" , Globo
+http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-id="Recordtv SP HD" tvg-name="Recordtv SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="Canais l Record" , Record
 http://45.58.126.146:14153/record.ts
+
+#EXTINF:0 tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais l Band" , Band
+http://170.82.200.38:8080/bandsp/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoon-network.png"group-title="Canais l Infantil" ,  Cartoon Network 
 http://45.58.126.146:14197/Cartoon_network.ts
@@ -27,11 +27,41 @@ http://45.58.126.146:14203/discovery_kids.ts
 #EXTINF:0 tvg-id="Gloob HD" tvg-name="Gloob HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/gloob.png" group-title="Canais l Infantil" , Gloob
 http://45.58.126.146:14209/gloob.ts
 
-#EXTINF:0 tvg-id="Gloobinho HD" tvg-name= "Gloobinho HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/gloobinho.png" group-title="Canais l Infantil" , Gloobinho 
+#EXTINF:0 tvg-id="Gloobinho HD" tvg-name="Gloobinho HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/gloobinho.png" group-title="Canais l Infantil" , Gloobinho 
 http://15.235.10.31:14359/gloobinho.ts
 
 #EXTINF:0 tvg-id="Nick JR HD" tvg-name="Nick JR HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/nick-jr.png"group-title="Canais l Infantil" , Nick JR 
 http://45.58.126.146:14212/nick_jr.ts
 
-#EXTINF:0 tvg-id="Nickelodeon HD" tvg-name= "Nickelodeon HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/nickelodeon.png"group-title="Canais l Infantil" , Nickelodeon 
+#EXTINF:0 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/nickelodeon.png"group-title="Canais l Infantil" , Nickelodeon 
 http://45.58.126.146:14215/nickelodeon.ts
+
+#EXTINF:0 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/animal-planet.png"group-title="Canais l Documentários" , Animal Planet 
+http://45.58.126.146:14249/animal_planet.ts
+
+#EXTINF:0 tvg-id="HGTV HD" tvg-name="HGTV HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hgtv.png"group-title="Canais l Documentários" , HGTV 
+http://15.235.10.31:14412/hgtv.ts
+
+#EXTINF:0 tvg-id="TLC HD" tvg-name="TCL HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tlc.png"group-title="Canais l Documentários" , TCL
+http://45.58.126.146:14270/tcl.ts
+
+#EXTINF:0  tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery.png" group-title="Canais l Discovery" , Discovery Channel 
+http://45.58.126.146:14252/discovery_channel.ts
+
+#EXTINF:0 tvg-id="Discovery H&H HD" tvg-name="Discovery H&H HD" tvg-name="Discovery H&H HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-home-and-health.png" group-title="Canais l Discovery" , Discovery H&H
+http://45.58.126.146:14255/discovery_h&h.ts
+
+#EXTINF:0 tvg-id="Discovery ID HD"  tvg-name="Discovery ID HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png" group-title="Canais l Discovery" , Discovery ID
+http://45.58.126.146:14258/discovery_id.ts
+
+#EXTINF:0 tvg-id="Discovery Science Channel HD" tvg-name="Discovery Science HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-science.png" group-title="Canais l Discovery" , Discovery Science 
+http://45.58.126.146:14261/discovery_science.ts
+
+#EXTINF:0 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-theater.png" group-title="Canais l Discovery" , Discovery Theater 
+http://45.58.126.146:14264/discovery_theater.ts
+
+#EXTINF:0 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-turbo.png" group-title="Canais l Discovery" , Discovery Turbo
+http://45.58.126.146:14267/discovery_turbo.ts
+
+#EXTINF:0 tvg-id="Discovery World HD" tvg-name="Discovery World HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-world.png" group-title="Canais l Discovery" , Discovery World
+http://45.58.126.146:14273/discovery_world.ts
