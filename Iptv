@@ -9,18 +9,14 @@ http://170.82.200.38:8080/sbt_sp/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais l Band" , Band
 http://170.82.200.38:8080/bandsp/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="Record SP HD" 
-tvg-name="Record SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="Canais l Record" , Record
+#EXTINF:0 tvg-id="Record SP HD" tvg-name="Record SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="Canais l Record" , Record
 http://45.58.126.146:14153/record.ts
 
-#EXTINF:0 tvg-id="Cartoon Network HD"
-tvg-name="Cartoon Network HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoon-network.png"group-title="Canais l Infantil" ,  Cartoon Network 
+#EXTINF:0 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoon-network.png"group-title="Canais l Infantil" ,  Cartoon Network 
 http://45.58.126.146:14197/Cartoon_network.ts
 
-#EXTINF:0 tvg-id="Cartoonito HD"
-tvg-name="Cartoonito HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoonito.png"group-title="Canais l Infantil" , Cartonito 
+#EXTINF:0 tvg-id="Cartoonito HD" tvg-name="Cartoonito HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoonito.png"group-title="Canais l Infantil" , Cartonito 
 http://45.58.126.146:14200/cartonito.ts
 
-#EXTINF:0 tvg-id="Disney Channel HD" 
-tvg-name="Disney Channel HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/disney-channel.png" group-title="Canais l Infantil" , Disney Channel
+#EXTINF:0 tvg-id="Disney Channel HD" tvg-name="Disney Channel HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/disney-channel.png" group-title="Canais l Infantil" , Disney Channel
 http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
