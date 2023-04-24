@@ -72,7 +72,7 @@ http://45.58.126.146:14270/tcl.ts
 #EXTINF:0 tvg-id="History HD" tvg-name="History HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/history-channel.png" group-title="Canais l Documentários" , History
 http://45.58.126.146:14281/history.ts
 
-#EXTINF:0 tvg-id="History 2 HD" tvg-name="History 2 HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/history-2.png" group-title="Canais l Documentários" , History 2
+#EXTINF:0 tvg-id="History Channel 2 FHD" tvg-name="History Channel 2 FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/history-2.png" group-title="Canais l Documentários" , History 2
 http://45.58.126.146:14284/history_2.ts
 
 #EXTINF:0 tvg-id="Star Channel HD" tvg-name="Star Channel HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/star-channel.png" group-title="Canais l Filmes e Séries" , Star Channel 
