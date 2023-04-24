@@ -36,15 +36,6 @@ http://45.58.126.146:14212/nick_jr.ts
 #EXTINF:0 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/nickelodeon.png"group-title="Canais l Infantil" , Nickelodeon 
 http://45.58.126.146:14215/nickelodeon.ts
 
-#EXTINF:0 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/animal-planet.png"group-title="Canais l Documentários" , Animal Planet 
-http://45.58.126.146:14249/animal_planet.ts
-
-#EXTINF:0 tvg-id="HGTV HD" tvg-name="HGTV HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hgtv.png"group-title="Canais l Documentários" , HGTV 
-http://15.235.10.31:14412/hgtv.ts
-
-#EXTINF:0 tvg-id="TLC HD" tvg-name="TCL HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tlc.png"group-title="Canais l Documentários" , TCL
-http://45.58.126.146:14270/tcl.ts
-
 #EXTINF:0  tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery.png" group-title="Canais l Discovery" , Discovery Channel 
 http://45.58.126.146:14252/discovery_channel.ts
 
@@ -65,3 +56,12 @@ http://45.58.126.146:14267/discovery_turbo.ts
 
 #EXTINF:0 tvg-id="Discovery World HD" tvg-name="Discovery World HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-world.png" group-title="Canais l Discovery" , Discovery World
 http://45.58.126.146:14273/discovery_world.ts
+
+#EXTINF:0 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/animal-planet.png"group-title="Canais l Documentários" , Animal Planet 
+http://45.58.126.146:14249/animal_planet.ts
+
+#EXTINF:0 tvg-id="HGTV HD" tvg-name="HGTV HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hgtv.png"group-title="Canais l Documentários" , HGTV 
+http://15.235.10.31:14412/hgtv.ts
+
+#EXTINF:0 tvg-id="ext" tvg-name="ext" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tlc.png"group-title="Canais l Documentários" , TCL
+http://45.58.126.146:14270/tcl.ts
