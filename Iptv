@@ -234,3 +234,17 @@ http://200.194.238.229:8383/live/urbansports/playlist.m3u8
 #EXTINF:0 tvg-id="RetroTv" tvg-name="Retrô Tv"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Canais l Retrô Tv" , Retrô TV 
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
  
+#EXTINF:0 tvg-id="Pluto TV Cine" tvg-name="Pluto TV Cine"  tvg-logo="" group-title="Filmes l Pluto TV Cine Sucessos" , Pluto TV Cine
+https://i.mjh.nz/PlutoTV/5f120e94a5714d00074576a1-alt.m3u8
+
+#EXTINF:0 tvg-id="Pluto TV Cine Ação" tvg-name="Pluto TV Cine Ação"  tvg-logo="" group-title="Filmes",Pluto TV Filmes Ação" , Pluto TV Filmes Ação
+https://i.mjh.nz/PlutoTV/5f120f41b7d403000783a6d6-alt.m3u8
+
+#EXTINF:0 tvg-id="Pluto TV Cine Comédia" tvg-name="Pluto TV Cine"  tvg-logo="" group-title="Filmes",Pluto TV Cine Comédia" , Pluto TV Cine Comédia
+https://i.mjh.nz/PlutoTV/5f12101f0b12f00007844c7c-alt.m3u8
+
+#EXTINF:0 tvg-id="Pluto TV Cine Drama" tvg-name="Pluto TV Cine.Drama"  tvg-logo="" group-title="Filmes",Pluto TV Cine Drama" , Pluto TV Cine Drama
+https://i.mjh.nz/PlutoTV/5f1210d14ae1f80007bafb1d-alt.m3u8
+
+#EXTINF:0 tvg-id="Pluto TV Cine Terror" tvg-name="Pluto TV Cine Terror"  tvg-logo="" group-title="Filmes",Pluto TV Cine Terror" , Pluto TV Cine Terror 
+https://i.mjh.nz/PlutoTV/5f12111c9e6c2c00078ef3bb-alt.m3u8
