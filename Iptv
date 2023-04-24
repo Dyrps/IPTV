@@ -114,7 +114,7 @@ http://45.58.126.146:14323/space.ts
  #EXTINF:0 tvg-id="Studio Universal HD" tvg-name="Studio Universal HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/studio-universal.png" group-title="Canais l Filmes e Séries" , Studio Universal 
 http://45.58.126.146:14332/studio_universal.ts
 
-#EXTINF:0 tvg-id="Tbs HD" tvg-name="Tbs HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tbs.png" group-title="Canais l Filmes e Séries" , Tbs
+#EXTINF:0 tvg-id="Tbs HD" tvg-name="Tbs HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tbs.png" group-title="Canais l Filmes e Séries" , TBS
 http://45.58.126.146:14338/tbs.ts
 
 #EXTINF:0 tvg-id="TNT Series FHD" tvg-name="TNT Series FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt-series.png" group-title="Canais l Filmes e Séries" , TNT Séries 
