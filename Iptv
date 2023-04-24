@@ -63,5 +63,5 @@ http://45.58.126.146:14249/animal_planet.ts
 #EXTINF:0 tvg-id="HGTV HD" tvg-name="HGTV HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hgtv.png"group-title="Canais l Documentários" , HGTV 
 http://15.235.10.31:14412/hgtv.ts
 
-#EXTINF:0 tvg-id="ext" tvg-name="ext" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tlc.png"group-title="Canais l Documentários" , TCL
+#EXTINF:0 tvg-id="Discovery TCL HD" tvg-name="Discovery TCL HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tlc.png"group-title="Canais l Documentários" , TCL
 http://45.58.126.146:14270/tcl.ts
