@@ -21,7 +21,7 @@ http://45.58.126.146:14200/cartonito.ts
 #EXTINF:0 tvg-id="Disney Channel HD" tvg-name="Disney Channel HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/disney-channel.png" group-title="Canais l Infantil" , Disney Channel
 http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="https://mondrian.claro.com.br/channels/default/discovery-kids.png" group-title="Canais l Infantil" , Discovery Kids 
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-kids.png" group-title="Canais l Infantil" , Discovery Kids 
 http://45.58.126.146:14203/discovery_kids.ts
 
 #EXTINF:-1 tvg-id="GloobHD" tvg-name="GloobHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/gloob.png" group-title="Canais l Infantil" , Gloob
@@ -30,7 +30,7 @@ http://45.58.126.146:14209/gloob.ts
 #EXTINF:-1 tvg-id="Gloobinho HD" tvg-name= "Gloobinho HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/gloobinho.png" group-title="Canais l Infantil" , Gloobinho 
 http://15.235.10.31:14359/gloobinho.ts
 
-#EXTINF:-1 tvg-id="Nick JR HD" tvg-name="Nick JR HD tvg-logo="https://mondrian.claro.com.br/channels/inverse/nick-jr.png"group-title="Canais l Infantil" , Nick JR 
+#EXTINF:-1 tvg-id="Nick JR HD" tvg-name="Nick JR HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/nick-jr.png"group-title="Canais l Infantil" , Nick JR 
 http://45.58.126.146:14212/nick_jr.ts
 
 #EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name= Nickelodeon HD tvg-logo="https://mondrian.claro.com.br/channels/inverse/nickelodeon.png"group-title="Canais l Infantil" , Nickelodeon 
