@@ -90,7 +90,7 @@ http://45.58.126.146:14341/tnt_fhd.ts
 #EXTINF:0 tvg-id="A&E HD" tvg-name="A&E HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/aee.png" group-title="Canais l Filmes e Séries" , A&E
 http://45.58.126.146:14293/a&e.ts
 
-#EXTINF:0 tvg-id="AMC HD" tvg-name="AMC HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/amc.png" group-title="Canais l Filmes e Séries" , AMC
+#EXTINF:0 tvg-id="AMC FHD" tvg-name="AMC FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/amc.png" group-title="Canais l Filmes e Séries" , AMC
 http://45.58.126.146:14296/amc.ts
 
 #EXTINF:0 tvg-id="Sony Channel FHD" tvg-name="Sony Channel FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/sony.png" group-title="Canais l Filmes e Séries" , Sony
