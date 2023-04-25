@@ -234,6 +234,9 @@ http://200.194.238.229:8383/live/urbansports/playlist.m3u8
 #EXTINF:0 tvg-id="RetroTv" tvg-name="Retrô Tv"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Canais l Retrô Tv" , Retrô TV 
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
  
+#EXTINF:0 tvg-id="ext" group-title="Canais l Pluto TV",Guia de Canais
+https://i.mjh.nz/PlutoTV/5fa97a8a75cc210007c9041d-alt.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Canais l Pluto TV Filmes",Pluto TV Cine Sucessos
 https://i.mjh.nz/PlutoTV/5f120e94a5714d00074576a1-alt.m3u8
 
@@ -551,9 +554,6 @@ https://i.mjh.nz/PlutoTV/630e30ba3583440007c64a20-alt.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Canais l Pluto TV Estilo de Vida",Pluto TV KFOOD
 https://i.mjh.nz/PlutoTV/633ee9ba83c08f00076b60a6-alt.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Canais l Pluto TV Pluto TV",Guia de Canais
-https://i.mjh.nz/PlutoTV/5fa97a8a75cc210007c9041d-alt.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Canais l Pluto TV Paramount+ Apresenta",Paramount+ Apresenta
 https://i.mjh.nz/PlutoTV/60072798dcf437000755b4f3-alt.m3u8
