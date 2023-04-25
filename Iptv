@@ -42,7 +42,7 @@ http://45.58.126.146:14252/discovery_channel.ts
 #EXTINF:0 tvg-id="Discovery H&H HD" tvg-name="Discovery H&H HD" tvg-name="Discovery H&H HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-home-and-health.png" group-title="Canais l Discovery" , Discovery H&H
 http://45.58.126.146:14255/discovery_h&h.ts
 
-#EXTINF:0 tvg-id="Discovery ID HD"  tvg-name="Discovery ID HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png" group-title="Canais l Discovery" , Discovery ID
+#EXTINF:0 tvg-id="Investigacao  Discovery FHD"  tvg-name="Investigacao  Discovery FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png" group-title="Canais l Discovery" , Discovery ID
 http://45.58.126.146:14258/discovery_id.ts
 
 #EXTINF:0 tvg-id="Discovery Science Channel HD" tvg-name="Discovery Science HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-science.png" group-title="Canais l Discovery" , Discovery Science 
