@@ -234,7 +234,7 @@ http://200.194.238.229:8383/live/urbansports/playlist.m3u8
 #EXTINF:0 tvg-id="RetroTv" tvg-name="Retrô Tv"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Canais l Retrô Tv" , Retrô TV 
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
  
-#EXTINF:0 tvg-id="Pluto TV Cine Sucesso" tvg-name="Pluto TV Cine Sucesso"  tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/thumbnail.jpg" group-title="Canais l Pluto TV" , Pluto Cine Sucessos
+#EXTINF:0 tvg-id="Pluto TV Cine Sucessos" tvg-name="Pluto TV Cine Sucessos"  tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/thumbnail.jpg" group-title="Canais l Pluto TV" , Pluto TV Cine Sucessos
 https://i.mjh.nz/PlutoTV/5f120e94a5714d00074576a1-alt.m3u8
 
 #EXTINF:0 tvg-id="Pluto Tv Filmes Ação" tvg-name="Pluto TV Filmes Ação"  tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/thumbnail.jpg" group-title="Canais l Pluto TV" , Pluto TV Filmes Ação
