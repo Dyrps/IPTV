@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/br.xml"
 
+#EXTM3U url-tvg=http://acstatic.co/epg/epg.xml
+
 #EXTINF:0 tvg-id="SBT SP HD" tvg-name="SBT SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l SBT" , SBT
 http://170.82.200.38:8080/sbt_sp/tracks-v1a1/mono.m3u8
 
