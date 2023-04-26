@@ -1,4 +1,7 @@
 # 
 
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l SBT",Futura SD
+#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l SBT",SBT SD
 http://170.82.200.38:8080/sbt_sp/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t64mzBk.png" group-title="TV Aberta",FUTURA HD
+https://tv.unisc.br/hls/test.m3u8
