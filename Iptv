@@ -1,15 +1,18 @@
 #EXTM3U 
 
-#EXTINF:0 tvg-id="SBT SP HD" tvg-name="SBT SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l SBT" , SBT
+#EXTINF:0 tvg-id="SBT SP HD" tvg-name="SBT SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l Abertos" , SBT
 http://170.82.200.38:8080/sbt_sp/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="GLOBO SP HD" tvg-name="GLOBO SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" , Globo
+#EXTINF:0 tvg-id="GLOBO SP HD" tvg-name="GLOBO SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Abertos" , Globo
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 
-#EXTINF:0 tvg-id="Recordtv SP HD" tvg-name="Recordtv SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="Canais l Record" , Record
+#EXTINF:0 tvg-id="Recordtv SP HD" tvg-name="Recordtv SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="Canais l Abertos" , Record
 http://45.58.126.146:14153/record.ts
 
-#EXTINF:0 tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais l Band" , Band
+#EXTINF:0 tvg-id="Rede TV HD" tvg-name="Rede TV HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/redetv!.png" group-title="Canais l Abertos" , Rede TV HD
+http://45.230.96.42:80/distv/@distv/392
+
+#EXTINF:0 tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais l Abertos" , Band
 http://170.82.200.38:8080/bandsp/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="TV Cultura HD" tvg-name="TV Cultura HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cultura.png" group-title="Canais l Abertos" , TV Cultura HD 
