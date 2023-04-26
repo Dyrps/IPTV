@@ -12,6 +12,16 @@ http://45.58.126.146:14153/record.ts
 #EXTINF:0 tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais l Band" , Band
 http://170.82.200.38:8080/bandsp/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-id="Rede Brasil SD" tvg-name="Rede Brasil SD"  tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" group-title="Canais l Abertos" , Rede Brasil 
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
+
+#EXTINF:0 tvg-id="TV Brasil HD" tvg-name="TV Brasil HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-brasil.jpg" group-title="Canais l Abertos" , TV Brasil HD
+http://kuchini.site:8080/9a7c64ba/PJnnJEHm8BxxyKdg/166056
+
+#EXTINF:0 tvg-id="Futura HD" tvg-name="Futura HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/futura.png" group-title="Canais l Abertos" , Futura 
+http://15.235.10.31:14337/futura.ts
+
+
 #EXTINF:0 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoon-network.png"group-title="Canais l Infantil" ,  Cartoon Network 
 http://45.58.126.146:14197/Cartoon_network.ts
 
@@ -167,15 +177,6 @@ http://15.235.10.31:14409/hbo_plus.ts
 
 #EXTINF:0 tvg-id="HBO Family HD" tvg-name="HBO Family HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-family.png" group-title="Canais l HBO" , HBO Family 
 http://15.235.10.31:14387/hbo_family.ts 
-
-#EXTINF:0 tvg-id="Rede Brasil SD" tvg-name="Rede Brasil SD"  tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" group-title="Canais l Abertos" , Rede Brasil 
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
-
-#EXTINF:0 tvg-id="TV Brasil" tvg-name="TV Brasil"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-brasil.svg" group-title="Canais l Abertos" , Rede Brasil 
-http://kuchini.site:8080/9a7c64ba/PJnnJEHm8BxxyKdg/166056
-
-#EXTINF:0 tvg-id="Futura HD" tvg-name="Futura HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/futura.png" group-title="Canais l Abertos" , Futura 
-http://15.235.10.31:14337/futura.ts
 
 #EXTINF:0 tvg-id="Telecine Action HD" tvg-name="Telecine Action HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-action.png" group-title="Canais l Telecine" , Telecine Action 
 http://45.230.96.42:80/distv/@distv/655
