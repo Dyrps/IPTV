@@ -19,7 +19,7 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
 
 #EXTINF:0 tvg-id="TV Brasil HD" tvg-name="TV Brasil HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-brasil.png" group-title="Canais l Abertos" , TV Brasil HD
-http://kuchini.site:8080/9a7c64ba/PJnnJEHm8BxxyKdg/166056
+http://45.230.96.42:80/distv/@distv/447
 
 #EXTINF:0 tvg-id="Futura HD" tvg-name="Futura HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/futura.png" group-title="Canais l Abertos" , Futura 
 http://15.235.10.31:14337/futura.ts
