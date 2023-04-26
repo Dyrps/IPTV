@@ -3,7 +3,7 @@
 #EXTINF:0 tvg-id="SBT SP HD" tvg-name="SBT SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l SBT" , SBT
 http://170.82.200.38:8080/sbt_sp/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" , Globo
+#EXTINF:0 tvg-id="Globo São Paulo" tvg-name="Globo São Paulo" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" , Globo
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-id="Recordtv SP HD" tvg-name="Recordtv SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="Canais l Record" , Record
