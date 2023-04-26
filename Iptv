@@ -1,36 +1,37 @@
 #EXTM3U 
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l BBB 23",BBB 23 HD 1
+#EXTINF:0 tvg-id="BBB 23 HD 1" tvg-name="BBB 23 HD 1" tvg-logo="https://mondrian.claro.com.br/channels/inverse/big-brother-brasil.png" group-title="Canais l BBB 23" , BBB 23 HD 1
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402875.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l BBB 23",BBB 23 - 01
+#EXTINF:0 tvg-id="BBB 23 - 01" tvg-name="BBB 23 - 01" tvg-logo="https://mondrian.claro.com.br/channels/inverse/big-brother-brasil-1.png" group-title="Canais l BBB 23" ,BBB 23 - 01
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402876.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l BBB 23",BBB 23 - 02
+
+#EXTINF:0 tvg-id="BBB 23 - 02" tvg-name="BBB 23 - 02" tvg-logo="https://mondrian.claro.com.br/channels/inverse/big-brother-brasil-2.png" group-title="Canais l BBB 23" ,BBB 23 - 02
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402877.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l BBB 23",BBB 23 - 03
+#EXTINF:0 tvg-id="BBB 23 - 03" tvg-name="BBB 23 - 03" tvg-logo="https://mondrian.claro.com.br/channels/inverse/big-brother-brasil-3.png" group-title="Canais l BBB 23" ,BBB 23 - 03
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402878.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l BBB 23",BBB 23 - 04
+#EXTINF:0 tvg-id="BBB 23 - 04" tvg-name="BBB 23 - 04" tvg-logo="https://mondrian.claro.com.br/channels/inverse/big-brother-brasil-4.png" group-title="Canais l BBB 23" ,BBB 23 - 04
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402879.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l BBB 23",BBB 23 - 05
+#EXTINF:0 tvg-id="BBB 23 - 05" tvg-name="BBB 23 - 05" tvg-logo="https://mondrian.claro.com.br/channels/inverse/big-brother-brasil-5.png" group-title="Canais l BBB 23" ,BBB 23 - 05
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402880.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l BBB 23",BBB 23 - 06
+#EXTINF:0 tvg-id="BBB 23 - 06" tvg-name="BBB 23 - 06" tvg-logo="https://mondrian.claro.com.br/channels/inverse/big-brother-brasil-6.png" group-title="Canais l BBB 23" ,BBB 23 - 06
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402881.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l BBB 23",BBB 23 - 07
+#EXTINF:0 tvg-id="BBB 23 - 07" tvg-name="BBB 23 - 07" tvg-logo="https://mondrian.claro.com.br/channels/inverse/big-brother-brasil-7.png" group-title="Canais l BBB 23" ,BBB 23 - 07
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402882.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l BBB 23",BBB 23 - 08
+#EXTINF:0 tvg-id="BBB 23 - 08" tvg-name="BBB 23 - 08" tvg-logo="https://mondrian.claro.com.br/channels/inverse/big-brother-brasil-8.png" group-title="Canais l BBB 23" ,BBB 23 - 08
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402883.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l BBB 23",BBB 23 - 09
+#EXTINF:0 tvg-id="BBB 23 - 09" tvg-name="BBB 23 - 09" tvg-logo="https://mondrian.claro.com.br/channels/inverse/big-brother-brasil-9.png" group-title="Canais l BBB 23" ,BBB 23 - 09
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402884.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l BBB 23",BBB 23 - 10
+#EXTINF:0 tvg-id="BBB 23 - 10" tvg-name="BBB 23 - 10" tvg-logo="https://mondrian.claro.com.br/channels/inverse/big-brother-brasil-10.png" group-title="Canais l BBB 23" ,BBB 23 - 10
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402885.ts
 
 #EXTINF:0 tvg-id="ext" group-title="Canais l BBB 23",BBB 23 - 11
