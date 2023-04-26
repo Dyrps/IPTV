@@ -280,62 +280,62 @@ http://200.194.238.229:8383/live/urbansports/playlist.m3u8
 #EXTINF:0 tvg-id="RetroTv" tvg-name="Retrô Tv"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Canais l Retrô Tv" , Retrô TV 
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
  
-#EXTINF:0 tvg-id="ext" group-title="Canais l CINE SKY",CINE SKY 01
+#EXTINF:0 tvg-id="ext" group-title="Canais l Cine SKY",Cine SKY 01
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402965.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l CINE SKY",CINE SKY 02
+#EXTINF:0 tvg-id="ext" group-title="Canais l Cine SKY",Cine SKY 02
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402966.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l CINE SKY",CINE SKY 03
+#EXTINF:0 tvg-id="ext" group-title="Canais l Cine SKY",Cine SKY 03
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402967.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l CINE SKY",CINE SKY 04
+#EXTINF:0 tvg-id="ext" group-title="Canais l Cine SKY",Cine SKY 04
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402968.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l CINE SKY",CINE SKY 05
+#EXTINF:0 tvg-id="ext" group-title="Canais l Cine SKY",Cine SKY 05
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402969.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l CINE SKY",CINE SKY 06
+#EXTINF:0 tvg-id="ext" group-title="Canais l Cine SKY",Cine SKY 06
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402970.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l CINE SKY",CINE SKY 07
+#EXTINF:0 tvg-id="ext" group-title="Canais l Cine SKY",Cine SKY 07
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402971.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l CINE SKY",CINE SKY 08
+#EXTINF:0 tvg-id="ext" group-title="Canais l Cine SKY",Cine SKY 08
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402972.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l CINE SKY",CINE SKY 09
+#EXTINF:0 tvg-id="ext" group-title="Canais l Cine SKY",Cine SKY 09
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402973.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l CINE SKY",Canais l Cine SKY 10
+#EXTINF:0 tvg-id="ext" group-title="Canais l Cine SKY",Canais l Cine SKY 10
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402974.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l CINE",CINE DISNEY
+#EXTINF:0 tvg-id="ext" group-title="Canais l Cine",Cine Disney
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402961.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l CINE",CINE FAROESTE
+#EXTINF:0 tvg-id="ext" group-title="Canais l Cine",Cine Faroeste
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402962.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l CINE",CINE 007
+#EXTINF:0 tvg-id="ext" group-title="Canais l Cine",Cine 007
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402956.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l CINE",CINE MARVEL
+#EXTINF:0 tvg-id="ext" group-title="Canais l Cine",Cine Marvel
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402963.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l CINE", CINE SESSÃO DA TARDE
+#EXTINF:0 tvg-id="ext" group-title="Canais l Cine", Cine Sessão da Tarde
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402964.ts
 
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l CINE", CINE LIGA Da JUSTIÇA
+#EXTINF:0 tvg-id="ext" group-title="Canais l Cine", Cine Liga da Justiça
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402975.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l CINE", CINE SUCESSOS
+#EXTINF:0 tvg-id="ext" group-title="Canais l Cine", Cine Sucessos
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402976.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l CINE", CINE OS TRAPALHÕES
+#EXTINF:0 tvg-id="ext" group-title="Canais l Cine", Cine Os Trapalhões
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402977.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l CAZÉ TV",CAZÉ TV
+#EXTINF:0 tvg-id="ext" group-title="Canais l Cazé TV",Cazé TV
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402955.ts
 
 #EXTINF:0 tvg-id="ext" group-title="Canais l Pluto TV",Guia de Canais
