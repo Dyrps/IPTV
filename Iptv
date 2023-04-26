@@ -1,4 +1,4 @@
 #EXTM3U url-tvg=""
 
-#EXTINF:-1 tvg-name="ext" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" tvg-id=""   group-title="Canais l SBT" , SBT
+#EXTINF:-1 tvg-name="ext" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" tvg-id="" group-title="Canais l SBT" , SBT
 http://170.82.200.38:8080/sbt_sp/tracks-v1a1/mono.m3u8
