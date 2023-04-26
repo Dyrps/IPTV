@@ -310,6 +310,34 @@ http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402973.ts
 #EXTINF:0 tvg-id="ext" group-title="Canais l CINE SKY",Canais l Cine SKY 10
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402974.ts
 
+#EXTINF:0 tvg-id="ext" group-title="Canais l CINE",CINE DISNEY
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402961.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Canais l CINE",CINE FAROESTE
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402962.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Canais l CINE",CINE 007
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402956.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Canais l CINE",CINE MARVEL
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402963.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Canais l CINE", CINE SESSÃO DA TARDE
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402964.ts
+
+
+#EXTINF:0 tvg-id="ext" group-title="Canais l CINE", CINE LIGA Da JUSTIÇA
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402975.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Canais l CINE", CINE SUCESSOS
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402976.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Canais l CINE", CINE OS TRAPALHÕES
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402977.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Canais l CAZÉ TV",CAZÉ TV
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402955.ts
+
 #EXTINF:0 tvg-id="ext" group-title="Canais l Pluto TV",Guia de Canais
 https://i.mjh.nz/PlutoTV/5fa97a8a75cc210007c9041d-alt.m3u8
 
