@@ -44,7 +44,7 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.
 http://170.82.200.38:8080/sbt_sp/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="GLOBO SP HD" tvg-name="GLOBO SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Abertos" , Globo
-http://45.230.96.42:80/distv/@distv/484
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1403207.ts
 
 #EXTINF:0 tvg-id="Recordtv SP HD" tvg-name="Recordtv SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="Canais l Abertos" , Record
 http://45.58.126.146:14153/record.ts
