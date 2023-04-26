@@ -1,9 +1,9 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
+#EXTM3U 
 
 #EXTINF:0 tvg-id="SBT SP HD" tvg-name="SBT SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l SBT" , SBT
 http://170.82.200.38:8080/sbt_sp/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="GloboSP.br" tvg-name="GloboSP.br" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" , Globo
+#EXTINF:0 tvg-id="Globo SP HD" tvg-name="Globo SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Globo" , Globo
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-id="Recordtv SP HD" tvg-name="Recordtv SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="Canais l Record" , Record
@@ -592,4 +592,4 @@ https://i.mjh.nz/PlutoTV/63eb9cfbc111bc0008feda3b-alt.m3u8
 https://i.mjh.nz/PlutoTV/63eb9dc84e83e70008abea92-alt.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Canais l Pluto TV Novidades Na Pluto",NCIS
-https://i.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8
+https://i.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8 
