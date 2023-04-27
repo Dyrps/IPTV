@@ -335,7 +335,9 @@ http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402976.ts
 #EXTINF:0 tvg-id="ext" group-title="Canais l Cine", Cine Os Trapalhões
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402977.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canais l Cazé TV",Cazé TV
+
+#EXTINF:0 tvg-id="ext" tvg-name="ext" tvg-logo="https://yt3.googleusercontent.com/nQ3GD7zBDJ6BilNBJT6Nf_AaRbgXE_2Irjxa3XHCsFdVftpY81_NLjvbpPhQcOLTXfh7Vr_b=s176-c-k-c0x00ffffff-no-rj" group-title="Canais l Cazé TV" , Cazé TV 
+https://yt3.googleusercontent.com/nQ3GD7zBDJ6BilNBJT6Nf_AaRbgXE_2Irjxa3XHCsFdVftpY81_NLjvbpPhQcOLTXfh7Vr_b=s176-c-k-c0x00ffffff-no-rj
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402955.ts
 
 #EXTINF:0 tvg-id="ext" group-title="Canais l Pluto TV",Guia de Canais
@@ -1522,4 +1524,3 @@ http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1403902.ts
 
 #EXTINF:0 tvg-id="ext" group-title="Canais l 24h",A ilha Recordtv
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1403903.ts
-
