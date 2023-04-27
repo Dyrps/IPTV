@@ -1,9 +1,6 @@
-url="http://www.clarotv.com.br.EK">
-
-<channel id="Telecine Touch">
-<display-name lang="pt">Telecine Touch</display-name>
-<url>http://www.clarotv.com.br</url>
-</channel>
-<channel id="Telecine Premium">
-<display-name lang="pt">Telecine Touch</display-name>
-<url>http://www.clarotv.com.br</url>
+<tv generator-info-name="CCCC">
+<channel id="+GloboSP.br"> <display-name>Globo SP
+</display-name>
+<icon
+src="http://acsa.ws:80/images/d93d887596
+</channel> 
