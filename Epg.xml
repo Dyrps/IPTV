@@ -4,10 +4,10 @@
     <display-name lang="pt">Globo HD</display-name>
     <icon src="https://www.lineup.tv.br/canais/1575015953.gif|https://www.lineup.tv.br/canais/band.gif" /> <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Globo HD">
-    <display-name lang="pt">Globo HD</display-name>
+  <channel id="Globo FHD">
+    <display-name lang="pt">Globo FHD</display-name>
     <icon src="https://www.lineup.tv.br/canais/1575015953.gif|https://www.lineup.tv.br/canais/band.gif" />
-  <url>http://www.lineup.net.br</url>
+  <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Record HD">
     <display-name lang="pt">Record HD</display-name>
