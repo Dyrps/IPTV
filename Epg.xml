@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv
-<channel id="São Paulo/SP Globo HD">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://clarotv.com.br">
+  <channel id="São Paulo/SP Globo HD">
     <display-name lang="pt">São Paulo/SP Globo HD</display-name>
     <url>http://clarotv.com.br</url>
 </channel>
 </tv>
-
-
