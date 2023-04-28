@@ -88,7 +88,7 @@ http://45.58.126.146:14212/nick_jr.ts
 #EXTINF:0 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/nickelodeon.png"group-title="Canais l Infantil" , Nickelodeon 
 http://45.58.126.146:14215/nickelodeon.ts
 
-#EXTINF:0 tvg-id="Tooncast HD" tvg-name="Tooncast HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tooncast.png"group-title="Canais l Infantil" , Tooncast
+#EXTINF:0 tvg-id="Tooncast SD" tvg-name="Tooncast SD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tooncast.png"group-title="Canais l Infantil" , Tooncast
 http://45.230.96.42:80/distv/@distv/594
 
 #EXTINF:0  tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery.png" group-title="Canais l Discovery" , Discovery Channel 
