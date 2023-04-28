@@ -88,6 +88,9 @@ http://45.58.126.146:14212/nick_jr.ts
 #EXTINF:0 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/nickelodeon.png"group-title="Canais l Infantil" , Nickelodeon 
 http://45.58.126.146:14215/nickelodeon.ts
 
+#EXTINF:0 tvg-id="Tooncast HD" tvg-name="Tooncast HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tooncast.png"group-title="Canais l Infantil" , Tooncast
+http://45.230.96.42:80/distv/@distv/594
+
 #EXTINF:0  tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery.png" group-title="Canais l Discovery" , Discovery Channel 
 http://45.230.96.42:80/distv/@distv/602
 
@@ -145,7 +148,7 @@ http://45.58.126.146:14293/a&e.ts
 #EXTINF:0 tvg-id="AMC FHD" tvg-name="AMC FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/amc.png" group-title="Canais l Filmes e Séries" , AMC
 http://45.58.126.146:14296/amc.ts
 
-#EXTINF:0 tvg-id="Sony Channel FHD" tvg-name="Sony Channel FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/sony.png" group-title="Canais l Filmes e Séries" , Sony
+#EXTINF:0 tvg-id="Canal Sony FHD" tvg-name="Canal Sony FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/sony.png" group-title="Canais l Filmes e Séries" , Sony
 http://45.58.126.146:14302/sony.ts
 
 #EXTINF:0 tvg-id="Cinemax HD" tvg-name="Cinemax HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cinemax.png" group-title="Canais l Filmes e Séries" , Cinemax
