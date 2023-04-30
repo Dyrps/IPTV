@@ -1,7 +1,6 @@
-<tv generator-info-name="" generator-info- url="http://dns.p2.wtf:80/">
-<channel id="">
-<display-name>Globo HD</display-
-name> <icon
-<url>http://dns.p2.wtf:80/</url>
-</channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<tv url="http://dns.p2.wtf:80/">
+  <channel id="Globo SP FHD H265">
+    <display-name lang="pt">Globo SP FHD H265"</display-name> <url>http://dns.p2.wtf:80/</url>
+  </channel>
 </tv>
