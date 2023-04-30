@@ -1,6 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv url="http://dns.p2.wtf:80/">
-  <channel id="Globo SP FHD H265">
-    <display-name lang="pt">Globo SP FHD H265"</display-name> <url>http://dns.p2.wtf:80/</url>
-  </channel>
+<tv generator-info-name="CCCC">
+<channel id="+globosat.br">
+<display-name>Modo Viagem FHD</display-name>
+<icon src="http://acsa.ws:80/images/d93d8875965a86e8f2d5bcc153074e87.png"/>
+</channel>
+<channel id="+globosat.br">
+<display-name>Modo Viagem FHD [H265]</display-name>
+<icon src="http://acsa.ws:80/images/d93d8875965a86e8f2d5bcc153074e87.png"/>
+</channel>
+<channel id="+globosat.br">
+<display-name>Modo Viagem HD</display-name>
+<icon src="http://acsa.ws:80/images/d93d8875965a86e8f2d5bcc153074e87.png"/>
+</channel>
+<channel id="+globosat.br">
+<display-name>Modo Viagem SD</display-name>
+<icon src="http://acsa.ws:80/images/d93d8875965a86e8f2d5bcc153074e87.png"/>
+</channel>
+<channel id="+globosat.br">
+<display-name>Modo Viagem 4K FHDR</display-name>
+<icon src="http://acsa.ws:80/images/d93d8875965a86e8f2d5bcc153074e87.png"/>
+</channel>
+<channel id="24 KITCHEN HD">
+<display-name>24 KITCHEN HD</display-name>
+<icon src="https://i.imgur.com/h7zVseY.png"/>
+</channel>
+<channel id="A BOLA">
+<display-name>A BOLA TV SD</display-name>
+<icon src="https://i.imgur.com/4DzM6Dw.png"/>
+</channel>
+<channel id="A BOLA">
+<display-name>A BOLA TV HD</display-name>
+<icon src="https://i.imgur.com/4DzM6Dw.png"/>
+</channel>
+<channel id="A BOLA">
+<display-name>A BOLA TV FHD</display-name>
+<icon src="https://i.imgur.com/4DzM6Dw.png"/>
+</channel>
+<channel id="Ae.br">
+<display-name>A&E FHD</display-name>
+<icon src="https://acstatic.co/logos/canais/a%26e.png"/>
+</channel>
+<channel id="Ae.br">
+<display-name>A&E FHD [H265]</display-name>
+<icon src="https://acstatic.co/logos/canais/a%26e.png"/>
+</channel>
+<channel id="Ae.br">
+<display-name>A&E HD</display-name>
+<icon src="https://acstatic.co/logos/canais/a%26e.png"/>
+</channel>
+<channel id="Ae.br">
+<display-name>A&E SD</display-name>
+<icon src="https://acstatic.co/logos/canais/a%26e.png"/>
+</channel>
+<channel id="Ae.br">
+<display-name>A&E 4K FHDR</display-name>
+<icon src="https://acstatic.co/logos/canais/a%26e.png"/>
+</channel>
+<channel id="AFRO MUSIC">
+<display-name>AFRO MUSIC SD</display-name>
+<icon src="https://i.imgur.com/YdHGyWn.png"/>
+</channel>
+<channel id="AMC Break">
+<display-name>AMC BREAK SD</display-name>
+<icon src="https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/200?cb=20220419183751"/>
+</channel>
+<channel id="AMC Break HD">
+<display-name>AMC BREAK HD</display-name>
+<icon src="https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/200?cb=20220419183751"/>
+</channel>
+<channel id="AMC Crime">
+<display-name>AMC CRIME SD</display-name>
+<icon src="https://static.wikia.nocookie.net/logopedia/images/7/76/AMC_Crime.svg/revision/latest/scale-to-width-down/300?cb=20220420114936"/>
+</channel>
+<channel id="AMC FHD">
+<display-name>AMC FHD</display-name>
+<icon src="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC%2Blogo.png"/>
+</channel>
+<channel id="AMC HD">
+<display-name>AMC SD</display-name>
+<icon src="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC%2Blogo.png"/>
+</channel>
+<channel id="AMC HD">
+<display-name>AMC HD</display-name>
+<icon src="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC%2Blogo.png"/>
+</channel>
+<channel id="Amc.br">
+<display-name>AMC FHD</display-name>
+<icon src="https://acstatic.co/logos/canais/amc.png"/>
+</channel></channel>
+<channel id="GLOBO FHD">
+<display-name>TV GLOBO FHD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/pt/8/8c/TV_GLOBO_2008_portugal.png"/>
+</channel>
+<channel id="GLOBO HD">
+<display-name>TV GLOBO HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/pt/8/8c/TV_GLOBO_2008_portugal.png"/>
+</channel>
 </tv>
+
