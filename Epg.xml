@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv url="http://www.clarotv.com.br.EK">
-  <channel id="1_#_563">
-    <display-name lang="pt">São Paulo/SP Globo HD</display-name> <url>clarotv.com.br</url>
+<tv url="http://dns.p2.wtf:80/">
+  <channel id="Globo HD">
+    <display-name lang="pt">Globo HD</display-name> <url>http://dns.p2.wtf:80/</url>
   </channel>
 </tv>
