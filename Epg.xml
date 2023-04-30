@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="clarotv.com.br.EK">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.clarotv.com.br.EK">
 <channels>
-<channel update="i" site="clarotv.com.br" site_id="23_#_463" xmltv_id="Belo Horizonte/MG Playboy TV ">Belo Horizonte/MG Playboy TV </channel>
-<channel update="i" site="clarotv.com.br" site_id="23_#_798" xmltv_id="Belo Horizonte/MG Sextreme">Belo Horizonte/MG Sextreme</channel>
-<channel update="i" site="clarotv.com.br" site_id="23_#_528" xmltv_id="Belo Horizonte/MG Venus">Belo Horizonte/MG Venus</channel>
-<channel update="i" site="clarotv.com.br" site_id="23_#_442" xmltv_id="Belo Horizonte/MG Sexy Hot">Belo Horizonte/MG Sexy Hot</channel>
-<channel update="i" site="clarotv.com.br" site_id="23_#_2288" xmltv_id="Belo Horizonte/MG Playboy HD">Belo Horizonte/MG Playboy HD</channel>
-<channel update="i" site="clarotv.com.br" site_id="23_#_430" xmltv_id="Belo Horizonte/MG Futura">Belo Horizonte/MG Futura</channel>
-<channel update="i" site="clarotv.com.br" site_id="23_#_472" xmltv_id="Belo Horizonte/MG National Geographic">Belo Horizonte/MG National Geographic</channel>
-
-<site
+<channel update="i" site="clarotv.com.br" site_id="" xmltv_id="São Paulo/SP Globo HD ">São Paulo/SP Globo HD </channel>
+</tv>
