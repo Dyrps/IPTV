@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Telecine Premium">
-    <display-name lang="pt">Telecine Premium</display-name> <url>http://dns.p2.wtf:80/</url>
+  <channel id="São Paulo/SP Globo HD">
+    <display-name lang="pt">São Paulo/SP Globo HD</display-name> <url>clarotv.com.br</url>
   </channel>
-  <channel id="Telecine Action">
-    <display-name lang="pt">Telecine Action</display-name> <url>http://dns.p2.wtf:80/</url>
+  <channel id="São Paulo/SP Globo HD">
+    <display-name lang="pt">São Paulo/SP Globo HD</display-name> <url>clarotv.com.br</url>
   </channel>
-  <channel id="Telecine Touch">
-    <display-name lang="pt">Telecine Touch</display-name> <url>http://dns.p2.wtf:80/<
+  <channel id="São Paulo/SP Globo HD">
+    <display-name lang="pt">São Paulo/SP Globo HD</display-name> <url>clarotv.com.br<
 </tv>
