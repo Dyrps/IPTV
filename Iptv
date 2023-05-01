@@ -1,12 +1,12 @@
 #EXTM3U 
 
-#EXTINF:0 tvg-id="Cultura FHD" tvg-name="Cultura FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cultura.png" group-title="Canais l Abertos" , Cultura
+#EXTINF:0 tvg-id="TVCulturaNacional.br" tvg-name="TVCulturaNacional.br"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cultura.png" group-title="Canais l Abertos" , Cultura
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8
 
 #EXTINF:0 tvg-id="SBT SP HD" tvg-name="SBT SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l Abertos" , SBT
 http://170.82.200.38:8080/sbt_sp/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="Globo SP FHD" tvg-name="Globo SP FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Abertos" , Globo
+#EXTINF:0 tvg-id="TVGloboSaoPaulo.br" tvg-name="TVGloboSaoPaulo.br" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Abertos" , Globo
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-id="Recordtv SP HD" tvg-name="Recordtv SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="Canais l Abertos" , Record
