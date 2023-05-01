@@ -244,30 +244,6 @@ http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 #EXTINF:0 tvg-id="Urban Sports" tvg-name="Urban Sports"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMv6Mt-jWa-Vrfk7riOi8KysQsmARQxBoPHQ&s.jpg" group-title="Canais l Urban" , Urban Sports 
 http://200.194.238.229:8383/live/urbansports/playlist.m3u8
 
-#EXTINF:0 tvg-id="RetroTv" tvg-name="Retrô Tv"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Canais l Webtv" , Retrô TV 
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
- 
-#EXTINF:0 tvg-id="Classique TV 1" tvg-name="Classique TV 1"  tvg-logo="" group-title="Canais l Webtv" , Classique TV 1
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
-
-#EXTINF:0 tvg-id="Classique TV 2" tvg-name="Classique TV 2"  tvg-logo="" group-title="Canais l Webtv" , Classique TV 2
-https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
-
-#EXTINF:0 tvg-id="Jetson TV" tvg-name="Jetson TV"  tvg-logo="" group-title="Canais l Webtv" , Jetson TV
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-
-#EXTINF:0 tvg-id="Vintage TV" tvg-name="Web vintage"  tvg-logo="" group-title="Canais l Webtv" , Web vintage
-https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
-
-#EXTINF:0 tvg-id="Anime TV vintage" tvg-name="Anime TV"  tvg-logo="" group-title="Canais l Webtv" , Anime TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
-#EXTINF:0 tvg-id="Gospel Cartoon" tvg-name="Gospel Cartoon"  tvg-logo="" group-title="Canais l Webtv" , Gospel Cartoon
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" tvg-name="ext" tvg-logo="https://yt3.googleusercontent.com/nQ3GD7zBDJ6BilNBJT6Nf_AaRbgXE_2Irjxa3XHCsFdVftpY81_NLjvbpPhQcOLTXfh7Vr_b=s176-c-k-c0x00ffffff-no-rj" group-title="Canais l Cazé TV" , Cazé TV 
-http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402955.ts
-
 #EXTINF:0 tvg-id="ext" group-title="Canais l Pluto TV",Guia de Canais
 https://i.mjh.nz/PlutoTV/5fa97a8a75cc210007c9041d-alt.m3u8
 
@@ -627,3 +603,41 @@ https://i.mjh.nz/PlutoTV/63eb9dc84e83e70008abea92-alt.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Canais l Pluto TV Novidades Na Pluto",NCIS
 https://i.mjh.nz/PlutoV/63eb9fdda995710008991c54-alt.m3u8 
+
+#EXTINF:0 tvg-id="RetroTv" tvg-name="Retrô Tv"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Canais l Webtv" , Retrô TV 
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="Classique TV 1" tvg-name="Classique TV 1"  tvg-logo="" group-title="Canais l Webtv" , Classique TV 1
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
+#EXTINF:0 tvg-id="Classique TV 2" tvg-name="Classique TV 2"  tvg-logo="" group-title="Canais l Webtv" , Classique TV 2
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
+
+#EXTINF:0 tvg-id="Jetson TV" tvg-name="Jetson TV"  tvg-logo="" group-title="Canais l Webtv" , Jetson TV
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="" group-title="Canais l Webtv" , Web vintage
+https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="" group-title="Canais l Webtv" , Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="" group-title="Canais l Webtv" , Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="" group-title="Canais l Webtv" , Kids Mais
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/kidsmais.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="" group-title="Canais l Webtv" , TV Clássicos
+https://a.cdni.live/tvclassicos/tvclassicos/chunklist_w959820175.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="" group-title="Canais l Webtv" , TV
+https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
+
+
+#EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="" group-title="Canais l Webtv" , Filmes 
+https://stmv1.srvif.com/channel1/channel1/chunkxlist_w285237757.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-name="Flintsones"  tvg-logo="" group-title="Canais l Webtv" , Flintsones
+https://stmv1.srvif.com/flintstones/flintstones/playlist.m3u8
+
