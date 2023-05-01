@@ -256,10 +256,7 @@ https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 #EXTINF:0 tvg-id="Jetson TV" tvg-name="Jetson TV"  tvg-logo="" group-title="Canais l Webtv" , Jetson TV
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
-#EXTINF:0 tvg-id="TV serie" tvg-name="Jetson TV"  tvg-logo="" group-title="Canais l Webtv" , TV serie
-https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8
-
-#EXTINF:0 tvg-id="Web vintage" tvg-name="Web vintage"  tvg-logo="" group-title="Canais l Webtv" , Web vintage
+#EXTINF:0 tvg-id="Vintage TV" tvg-name="Web vintage"  tvg-logo="" group-title="Canais l Webtv" , Web vintage
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 
 #EXTINF:0 tvg-id="Anime TV vintage" tvg-name="Anime TV"  tvg-logo="" group-title="Canais l Webtv" , Anime TV
