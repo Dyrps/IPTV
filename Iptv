@@ -607,28 +607,31 @@ https://i.mjh.nz/PlutoV/63eb9fdda995710008991c54-alt.m3u8
 #EXTINF:0 tvg-id="RetroTv" tvg-name="Retrô Tv"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Canais l Webtv" , Retrô TV 
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
  
-#EXTINF:0 tvg-id="Classique TV 1" tvg-name="Classique TV 1"  tvg-logo="" group-title="Canais l Webtv" , Classique TV 1
+#EXTINF:0 tvg-id="RetroTv" tvg-name="Retrô Tv"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Canais l Webtv" , Retrô TV 
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="Classique TV 1" tvg-name="Classique TV 1"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg--w8W05h6FHNCXXlUWhnqfTv2EFdt_z580BIcoY9gRO2uAQcl4olRVW86dWK8hEotMqgRxPpCvyMJP4PyZS4ocS2zgDO1XVOWGJCCnGJoHypOP182WAt5mPf3ZLaLurwWXJfqO2DSXsw0Tg0sU5-s_QTe9YPbOjx7HIg33og1uJsahn21rqLLTrn_/s200/CLASSIQUE%20TV.webp" group-title="Canais l Webtv" , Classique TV 1
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
-#EXTINF:0 tvg-id="Classique TV 2" tvg-name="Classique TV 2"  tvg-logo="" group-title="Canais l Webtv" , Classique TV 2
+#EXTINF:0 tvg-id="Classique TV 2" tvg-name="Classique TV 2"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg--w8W05h6FHNCXXlUWhnqfTv2EFdt_z580BIcoY9gRO2uAQcl4olRVW86dWK8hEotMqgRxPpCvyMJP4PyZS4ocS2zgDO1XVOWGJCCnGJoHypOP182WAt5mPf3ZLaLurwWXJfqO2DSXsw0Tg0sU5-s_QTe9YPbOjx7HIg33og1uJsahn21rqLLTrn_/s200/CLASSIQUE%20TV.webp" group-title="Canais l Webtv" , Classique TV 2
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 
-#EXTINF:0 tvg-id="Jetson TV" tvg-name="Jetson TV"  tvg-logo="" group-title="Canais l Webtv" , Jetson TV
+#EXTINF:0 tvg-id="Jetson TV" tvg-name="Jetson TV"  tvg-logo="https://1.bp.blogspot.com/-0Iq6wbVRaAg/YFDNyFtWiqI/AAAAAAAAEZk/N-oqR72a8Qsc5_0zN7DpoBalbUuienn-gCLcBGAsYHQ/s0/JETSONS%2BTV.png" group-title="Canais l Webtv" , Jetson TV
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="" group-title="Canais l Webtv" , Web vintage
+#EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCIZFrY_LKmHNyMA54BKaDCMUZtnvv5ci4a2b4slp7EFXHQuurVaB1Dbnxwlc9i-oWIo_n07Ji8xw4RlZ1WI6tiPfvDX70gABdc40zz1qqs8Ca9dEqZ_uiL3Qi7PXySJqcUtO5cacWolBHebU9eOzRR9_nhMz-ni4iqkrFJniW5qaZr7KYAQhrW7Sf/s200/VINTAGE%20TV.webp" group-title="Canais l Webtv" , Web vintage
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="" group-title="Canais l Webtv" , Anime TV
+#EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvO0TeS567UkG7g9QGBtIxLFgKgRCNnfnH49hx1wFd1Vz3hTmTEuocVasXWk7q0Oamhnxz9AQ5Sn2vFHjrZ8UzIuH8QC4v4p4U6y8zdcG1Ww1zBnZ4eAlNRTxVJQ_AUYm5x6DdHhANeOVQwiwTlPV2P4KVo2-DNJAMjL2RixYq9hqVOi542KqYO_W7/s200/ANIME%20TV.webp" group-title="Canais l Webtv" , Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="" group-title="Canais l Webtv" , Gospel Cartoon
+#EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEizLhOyd0VXCtqylncWxnmHdWiioUjsV9tBfDWFO1LO5jHYbt6Ff1vMMSY1lm8yYPtcLEGOVwECGa9PXpYpZb_B75yCNV0KcAIE7k7_CUbZOH24H1yGMCASMQ0VhbGgcUtVZCYLIFO_0JLWG90_N4kyJ5ZjE6-X4O0wVKdkItd6AX7ktaZM0u2dCro9=s200" group-title="Canais l Webtv" , Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="" group-title="Canais l Webtv" , Kids Mais
+#EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvWOrU9PL5fekPHyJDKrXvkXvNg4yCR0bVi_K1Ul2nVg3rrve8yDUlH9ArsheVp9xuZykrsbESHG___NQSMW8JLmxA1eo6Vii09MxAfVD7PE3OssJWdFsqQoooIX_YmnpqFlknFeLw7XXdPiBfT3aRqXtVTYwHv4wzfyiSWna-b0e3pTsJ57tKWP6G/s200/TV%20KIDMAIS.jpg" group-title="Canais l Webtv" , Kids Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/kidsmais.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="" group-title="Canais l Webtv" , TV Clássicos
+#EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvotGjoQIrCNd84HGgNoSn7hFk3cQx5hVSbDAz-VZtcmWQq0agIpzBiC4pP7LM5rHFVUPtZTQFNg_lF4lxizRwNzchZuFLzbsCvxRrS89_tyX7JNSV3NzLP7imphyR_MAZJwMpXNQPWErWqn_R3lOKkUNbvGA7651DIBA0EBDaOj-1zbarEbQSrWjc/s200/TV%20CL%C3%81SSICOS.jpg" group-title="Canais l Webtv" , TV Clássicos
 https://a.cdni.live/tvclassicos/tvclassicos/chunklist_w959820175.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="" group-title="Canais l Webtv" , TV
@@ -638,6 +641,10 @@ https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 #EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="" group-title="Canais l Webtv" , Filmes 
 https://stmv1.srvif.com/channel1/channel1/chunkxlist_w285237757.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-name="Flintsones"  tvg-logo="" group-title="Canais l Webtv" , Flintsones
+#EXTINF:0 tvg-id="ext" tvg-name="Flintsones"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3gQwpbB4bWulxprgiad_SQzUSVg8XbJNGF8jvN9jwi6RhMyXcHTp6nu3TsQKCTprP8FiwopURy76a0m1EJioGVznDMo3T_5WdpIa0W0UmSc4RNp-NJdOK8QF3bp9cxN2aMfDwrnVnm74ssf-heNC2QY0T4deZg1fTfIb3gyi3RjSyTzChnbwVaVmj/s200/THE%20FLINTSTONES%20TV.webp" group-title="Canais l Webtv" , Flintsones
 https://stmv1.srvif.com/flintstones/flintstones/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-name="Flintsones"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4fm6pVYCZ--ZASVPspyNugJwm0C7fkfwkbEQktG7WHtJFWbctUYPfxbPXcB6PL3ctwGyM5NBn1GYbUDFYT5jKc6SkwiIocLxT180fyKfdA7UGRsYxMdp6KbjdYiqNqUce51RhDb4ZZ9v8zgo5YHlj7vX417fuso2JLW7-LXlc_yLtnG2FhGkpbSws/s200/CANAL%2029.jpg" group-title="Canais l Webtv" , Canal 29 - Séries Antigas
+https://stmv1.srvif.com/canal29/canal29/chunklist_w191356186.m3u8
+
 
