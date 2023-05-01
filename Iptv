@@ -244,9 +244,30 @@ http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 #EXTINF:0 tvg-id="Urban Sports" tvg-name="Urban Sports"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMv6Mt-jWa-Vrfk7riOi8KysQsmARQxBoPHQ&s.jpg" group-title="Canais l Urban" , Urban Sports 
 http://200.194.238.229:8383/live/urbansports/playlist.m3u8
 
-#EXTINF:0 tvg-id="RetroTv" tvg-name="Retrô Tv"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Canais l Retrô Tv" , Retrô TV 
+#EXTINF:0 tvg-id="RetroTv" tvg-name="Retrô Tv"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Canais l Webtv" , Retrô TV 
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
  
+#EXTINF:0 tvg-id="Classique TV 1" tvg-name="Classique TV 1"  tvg-logo="" group-title="Canais l Webtv" , Classique TV 1
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
+#EXTINF:0 tvg-id="Classique TV 2" tvg-name="Classique TV 2"  tvg-logo="" group-title="Canais l Webtv" , Classique TV 2
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
+
+#EXTINF:0 tvg-id="Jetson TV" tvg-name="Jetson TV"  tvg-logo="" group-title="Canais l Webtv" , Jetson TV
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+#EXTINF:0 tvg-id="TV serie" tvg-name="Jetson TV"  tvg-logo="" group-title="Canais l Webtv" , TV serie
+https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8
+
+#EXTINF:0 tvg-id="Web vintage" tvg-name="Web vintage"  tvg-logo="" group-title="Canais l Webtv" , Web vintage
+https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
+
+#EXTINF:0 tvg-id="Anime TV vintage" tvg-name="Anime TV"  tvg-logo="" group-title="Canais l Webtv" , Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:0 tvg-id="Gospel Cartoon" tvg-name="Gospel Cartoon"  tvg-logo="" group-title="Canais l Webtv" , Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Canais l Cine",Cine  01
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1402965.ts
 
