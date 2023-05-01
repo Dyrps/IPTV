@@ -607,9 +607,6 @@ https://i.mjh.nz/PlutoV/63eb9fdda995710008991c54-alt.m3u8
 #EXTINF:0 tvg-id="RetroTv" tvg-name="Retrô Tv"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Canais l Webtv" , Retrô TV 
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
  
-#EXTINF:0 tvg-id="RetroTv" tvg-name="Retrô Tv"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Canais l Webtv" , Retrô TV 
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
- 
 #EXTINF:0 tvg-id="Classique TV 1" tvg-name="Classique TV 1"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg--w8W05h6FHNCXXlUWhnqfTv2EFdt_z580BIcoY9gRO2uAQcl4olRVW86dWK8hEotMqgRxPpCvyMJP4PyZS4ocS2zgDO1XVOWGJCCnGJoHypOP182WAt5mPf3ZLaLurwWXJfqO2DSXsw0Tg0sU5-s_QTe9YPbOjx7HIg33og1uJsahn21rqLLTrn_/s200/CLASSIQUE%20TV.webp" group-title="Canais l Webtv" , Classique TV 1
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
@@ -634,11 +631,10 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/kidsmais.m3u8
 #EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvotGjoQIrCNd84HGgNoSn7hFk3cQx5hVSbDAz-VZtcmWQq0agIpzBiC4pP7LM5rHFVUPtZTQFNg_lF4lxizRwNzchZuFLzbsCvxRrS89_tyX7JNSV3NzLP7imphyR_MAZJwMpXNQPWErWqn_R3lOKkUNbvGA7651DIBA0EBDaOj-1zbarEbQSrWjc/s200/TV%20CL%C3%81SSICOS.jpg" group-title="Canais l Webtv" , TV Clássicos
 https://a.cdni.live/tvclassicos/tvclassicos/chunklist_w959820175.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="" group-title="Canais l Webtv" , TV
+#EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTW8-DZVkuexoUbWwdnbNNNdl2nB0rKmcjF-cyIWo-ak-35gwLyzBmGB6r_l85EalwCUtYErxmBlPmwn8YVM1Au2djT9e7_W3U477lAhLk8wh2xMkdZbV3aQ5O1Bs-099b1VliOfgoPyyWPZascV9S9b8GQU9-qu4NrgPqOMVDxSvhgtTU1iVPEsen/s200/AWTV.webp" group-title="Canais l Webtv" , AWTV
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 
-
-#EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="" group-title="Canais l Webtv" , Filmes 
+#EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGhMBh-0Oihm0A_SlXqBJC4sodwRg4KGM8OIwOUZIBfrBfYKsdfynP4gn071IjtJiNFHJlHgjBqB6UGAsZjuLNIZ2MSgBHejrKef7dXARN6yNfxDf3UFnlVsGZqcEtDpD5dBKFGQfnu8dm4ahH3JWd0voC6r71DJpYKKguUnH3pwOEo003dA-mFUqe/s200/CHANNEL%201.webp" group-title="Canais l Webtv" , CHANNEL 1 
 https://stmv1.srvif.com/channel1/channel1/chunkxlist_w285237757.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-name="Flintsones"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3gQwpbB4bWulxprgiad_SQzUSVg8XbJNGF8jvN9jwi6RhMyXcHTp6nu3TsQKCTprP8FiwopURy76a0m1EJioGVznDMo3T_5WdpIa0W0UmSc4RNp-NJdOK8QF3bp9cxN2aMfDwrnVnm74ssf-heNC2QY0T4deZg1fTfIb3gyi3RjSyTzChnbwVaVmj/s200/THE%20FLINTSTONES%20TV.webp" group-title="Canais l Webtv" , Flintsones
