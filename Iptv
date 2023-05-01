@@ -97,7 +97,7 @@ http://45.58.126.146:14284/history_2.ts
 #EXTINF:0 tvg-id="Star Channel HD" tvg-name="Star Channel HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/star-channel.png" group-title="Canais l Filmes e Séries" , Star Channel 
 http://170.82.200.38:8080/star_channel/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="Cinecanal FHD" tvg-name="Cinecanal FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cinecanal.png" group-title="Canais l Filmes e Séries" , Cine Canal
+#EXTINF:0 tvg-id="StarLifeBrazil.br" tvg-name="StarLifeBrazil.br"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cinecanal.png" group-title="Canais l Filmes e Séries" , Cine Canal
 http://45.58.126.146:14326/cine_canal.ts
 
 #EXTINF:0 tvg-id="FX HD" tvg-name="Fx HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/fx.png" group-title="Canais l Filmes e Séries" , Fx
