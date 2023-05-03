@@ -10,7 +10,7 @@ http://170.82.200.38:8080/sbt_sp/tracks-v1a1/mono.m3u8
 http://170.82.200.38:8080/globo_sp/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-id="Recordtv SP HD" tvg-name="Recordtv SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="Canais l Abertos" , Record
-http://45.58.126.146:14153/record.ts
+http://45.230.96.42:80/distv/@distv/499
 
 #EXTINF:0 tvg-id="RedeTV FHD" tvg-name="RedeTV FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/redetv!.png" group-title="Canais l Abertos" , Rede TV
 http://45.230.96.42:80/distv/@distv/392
