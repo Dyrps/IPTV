@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:0 tvg-id="Cultura FHD" tvg-name="Cultura FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cultura.png" group-title="Canais l Abertos" , Cultura
-http://ttv.bz:80/NXDGDFGFGHFGNVBCVBCBNGBFG/Vj5jmJR4aD/1064
+http://200.4.96.47:8000/play/a010/index.m3u8
 
 #EXTINF:0 tvg-id="SBT SP HD" tvg-name="SBT SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l Abertos" , SBT
 http://170.82.200.38:8080/sbt_sp/tracks-v1a1/mono.m3u8
@@ -22,7 +22,7 @@ http://170.82.200.38:8080/bandsp/tracks-v1a1/mono.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
 
 #EXTINF:0 tvg-id="TV Brasil HD" tvg-name="TV Brasil HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-brasil.png" group-title="Canais l Abertos" , TV Brasil
-http://45.230.96.42:80/distv/@distv/447
+http://191.209.60.250:8000/play/a00c
 
 #EXTINF:0 tvg-id="Futura HD" tvg-name="Futura HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/futura.png" group-title="Canais l Abertos" , Futura 
 http://15.235.10.31:14337/futura.ts
