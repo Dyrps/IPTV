@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:0 tvg-id="Cultura FHD" tvg-name="Cultura FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cultura.png" group-title="Canais l Abertos" , Cultura
-http://200.4.96.47:8000/play/a010/index.m3u8
+http://200.4.96.47:8000/play/a03g/index.m3u8
 
 #EXTINF:0 tvg-id="SBT SP HD" tvg-name="SBT SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l Abertos" , SBT
 http://170.82.200.38:8080/sbt_sp/tracks-v1a1/mono.m3u8
@@ -22,7 +22,7 @@ http://170.82.200.38:8080/bandsp/tracks-v1a1/mono.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
 
 #EXTINF:0 tvg-id="TV Brasil HD" tvg-name="TV Brasil HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-brasil.png" group-title="Canais l Abertos" , TV Brasil
-http://170.80.157.9:8000/play/a02j
+http://7go.xyz:8080/tiamar/martia/64623
 
 #EXTINF:0 tvg-id="Futura HD" tvg-name="Futura HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/futura.png" group-title="Canais l Abertos" , Futura 
 http://15.235.10.31:14337/futura.ts
@@ -137,7 +137,10 @@ http://45.58.126.146:14332/studio_universal.ts
 http://45.58.126.146:14338/tbs.ts
 
 #EXTINF:0 tvg-id="Canal Brasil" tvg-name="Canal Brasil"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/canal-brasil.png" group-title="Canais l Filmes e Séries" , Canal Brasil
-http://191.209.60.250:8000/play/a00t
+http://7go.xyz:8080/tiamar/martia/59645
+
+#EXTINF:0 tvg-id="TCM" tvg-name="TCM"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tcm.png" group-title="Canais l Filmes e Séries" , TCM
+http://7go.xyz:8080/tiamar/martia/160764
 
 #EXTINF:0 tvg-id="TNT Series FHD" tvg-name="TNT Series FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt-series.png" group-title="Canais l Filmes e Séries" , TNT Séries 
 http://45.58.126.146:14345/tnt_series.ts
@@ -648,3 +651,4 @@ https://stmv1.srvif.com/canal29/canal29/chunklist_w191356186.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4fm6pVYCZ--ZASVPspyNugJwm0C7fkfwkbEQktG7WHtJFWbctUYPfxbPXcB6PL3ctwGyM5NBn1GYbUDFYT5jKc6SkwiIocLxT180fyKfdA7UGRsYxMdp6KbjdYiqNqUce51RhDb4ZZ9v8zgo5YHlj7vX417fuso2JLW7-LXlc_yLtnG2FhGkpbSws/s200/CANAL%2029.jpg" group-title="Canais l Webtv" , Todo mundo odeia o cris
 http://45.58.126.146:14510/play.ts
+
