@@ -1,22 +1,22 @@
 #EXTM3U 
 
 #EXTINF:0 tvg-id="Cultura FHD" tvg-name="Cultura FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cultura.png" group-title="Canais l Abertos" , Cultura
-http://200.4.96.47:8000/play/a03g/index.m3u8
+http://7go.xyz:8080/tiamar/martia/18878
 
 #EXTINF:0 tvg-id="SBT SP HD" tvg-name="SBT SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l Abertos" , SBT
-http://200.4.96.47:8000/play/a014/index.m3u8
+http://7go.xyz:8080/tiamar/martia/18611
 
 #EXTINF:0 tvg-id="Globo SP FHD" tvg-name="Globo SP FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Abertos" , Globo
-http://200.4.96.47:8000/play/a025/index.m3u8
+http://7go.xyz:8080/tiamar/martia/18569
 
 #EXTINF:0 tvg-id="Recordtv SP HD" tvg-name="Recordtv SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="Canais l Abertos" , Record
-http://200.4.96.47:8000/play/a00v/index.m3u8
+http://7go.xyz:8080/tiamar/martia/7668
 
 #EXTINF:0 tvg-id="RedeTV FHD" tvg-name="RedeTV FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/redetv!.png" group-title="Canais l Abertos" , Rede TV
-http://200.4.96.47:8000/play/a03b/index.m3u8
+http://7go.xyz:8080/tiamar/martia/22606
 
 #EXTINF:0 tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais l Abertos" , Band
-http://200.4.96.47:8000/play/a00x/index.m3u8
+http://7go.xyz:8080/tiamar/martia/18619
 
 #EXTINF:0 tvg-id="Rede Brasil SD" tvg-name="Rede Brasil SD"  tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F48%2F6484024_27835C7981400442.png&amp;height=60&amp;resize=RATIO&amp;format=PNG" group-title="Canais l Abertos" , Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
