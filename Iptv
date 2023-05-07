@@ -1,32 +1,31 @@
 #EXTM3U 
 
 #EXTINF:0 tvg-id="Cultura FHD" tvg-name="Cultura FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cultura.png" group-title="Canais l Abertos" , Cultura
-http://meuplay.shop:80/844315016183/874723444280/741
+http://pfsv.io:80/1771663/93924/64
 
 #EXTINF:0 tvg-id="SBT SP HD" tvg-name="SBT SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l Abertos" , SBT
-http://7go.xyz:8080/tiamar/martia/65737
+http://pfsv.io:80/1771663/93924/55
 
 #EXTINF:0 tvg-id="Globo SP FHD" tvg-name="Globo SP FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Abertos" , Globo
 http://pfsv.io:80/1771663/93924/394
 
 #EXTINF:0 tvg-id="Recordtv SP HD" tvg-name="Recordtv SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="Canais l Abertos" , Record
-http://7go.xyz:8080/tiamar/martia/7668
+http://pfsv.io:80/1771663/93924/52
 
 #EXTINF:0 tvg-id="RedeTV FHD" tvg-name="RedeTV FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/redetv!.png" group-title="Canais l Abertos" , Rede TV
-http://7go.xyz:8080/tiamar/martia/22606
+http://pfsv.io:80/1771663/93924/54
 
 #EXTINF:0 tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais l Abertos" , Band
-http://7go.xyz:8080/tiamar/martia/18619
+http://pfsv.io:80/1771663/93924/113584 
 
 #EXTINF:0 tvg-id="Rede Brasil SD" tvg-name="Rede Brasil SD"  tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F48%2F6484024_27835C7981400442.png&amp;height=60&amp;resize=RATIO&amp;format=PNG" group-title="Canais l Abertos" , Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
 
 #EXTINF:0 tvg-id="TV Brasil HD" tvg-name="TV Brasil HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-brasil.png" group-title="Canais l Abertos" , TV Brasil
-http://7go.xyz:8080/tiamar/martia/64623
+http://pfsv.io:80/1771663/93924/89
 
 #EXTINF:0 tvg-id="Futura HD" tvg-name="Futura HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/futura.png" group-title="Canais l Abertos" , Futura 
-http://15.235.10.31:14337/futura.ts
-
+http://pfsv.io:80/1771663/93924/51
 
 #EXTINF:0 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoon-network.png"group-title="Canais l Infantil" ,  Cartoon Network 
 http://45.58.126.146:14197/Cartoon_network.ts
