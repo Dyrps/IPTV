@@ -1,13 +1,13 @@
 #EXTM3U 
 
 #EXTINF:0 tvg-id="Cultura FHD" tvg-name="Cultura FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cultura.png" group-title="Canais l Abertos" , Cultura
-http://7go.xyz:8080/tiamar/martia/18878
+http://meuplay.shop:80/844315016183/874723444280/741
 
 #EXTINF:0 tvg-id="SBT SP HD" tvg-name="SBT SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l Abertos" , SBT
 http://7go.xyz:8080/tiamar/martia/65737
 
 #EXTINF:0 tvg-id="Globo SP FHD" tvg-name="Globo SP FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Abertos" , Globo
-http://7go.xyz:8080/tiamar/martia/18576
+http://pfsv.io:80/1771663/93924/394
 
 #EXTINF:0 tvg-id="Recordtv SP HD" tvg-name="Recordtv SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="Canais l Abertos" , Record
 http://7go.xyz:8080/tiamar/martia/7668
