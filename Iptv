@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:0 tvg-id="Cultura FHD" tvg-name="Cultura FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cultura.png" group-title="Canais l Abertos" , Cultura
-http://pfsv.io:80/1771663/93924/47
+http://pfsv.io:80/1771663/93924/30183
 
 #EXTINF:0 tvg-id="SBT SP HD" tvg-name="SBT SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l Abertos" , SBT
 http://pfsv.io:80/1771663/93924/46
@@ -13,7 +13,7 @@ http://pfsv.io:80/1771663/93924/354
 http://pfsv.io:80/1771663/93924/45
 
 #EXTINF:0 tvg-id="RedeTV FHD" tvg-name="RedeTV FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/redetv!.png" group-title="Canais l Abertos" , Rede TV
-http://pfsv.io:80/1771663/93924/48
+http://pfsv.io:80/1771663/93924/46
 
 #EXTINF:0 tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais l Abertos" , Band
 http://pfsv.io:80/1771663/93924/113585 
@@ -650,3 +650,4 @@ https://stmv1.srvif.com/canal29/canal29/chunklist_w191356186.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4fm6pVYCZ--ZASVPspyNugJwm0C7fkfwkbEQktG7WHtJFWbctUYPfxbPXcB6PL3ctwGyM5NBn1GYbUDFYT5jKc6SkwiIocLxT180fyKfdA7UGRsYxMdp6KbjdYiqNqUce51RhDb4ZZ9v8zgo5YHlj7vX417fuso2JLW7-LXlc_yLtnG2FhGkpbSws/s200/CANAL%2029.jpg" group-title="Canais l Webtv" , Todo mundo odeia o cris
 http://45.58.126.146:14510/play.ts
+
