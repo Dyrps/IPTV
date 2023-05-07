@@ -1,226 +1,232 @@
 #EXTM3U 
 
 #EXTINF:0 tvg-id="Cultura FHD" tvg-name="Cultura FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cultura.png" group-title="Canais l Abertos" , Cultura
-
+http://pfsv.io:80/1771663/93924/30183
 
 #EXTINF:0 tvg-id="SBT SP HD" tvg-name="SBT SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l Abertos" , SBT
-
+http://pfsv.io:80/1771663/93924/46
 
 #EXTINF:0 tvg-id="Globo SP FHD" tvg-name="Globo SP FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Abertos" , Globo
-
+http://pfsv.io:80/1771663/93924/354
 
 #EXTINF:0 tvg-id="Recordtv SP HD" tvg-name="Recordtv SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="Canais l Abertos" , Record
-
+http://pfsv.io:80/1771663/93924/45
 
 #EXTINF:0 tvg-id="RedeTV FHD" tvg-name="RedeTV FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/redetv!.png" group-title="Canais l Abertos" , Rede TV
-
+http://pfsv.io:80/1771663/93924/46
 
 #EXTINF:0 tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais l Abertos" , Band
- 
+http://pfsv.io:80/1771663/93924/113585 
 
 #EXTINF:0 tvg-id="Rede Brasil SD" tvg-name="Rede Brasil SD"  tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F48%2F6484024_27835C7981400442.png&amp;height=60&amp;resize=RATIO&amp;format=PNG" group-title="Canais l Abertos" , Rede Brasil
-
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
 
 #EXTINF:0 tvg-id="TV Brasil HD" tvg-name="TV Brasil HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-brasil.png" group-title="Canais l Abertos" , TV Brasil
-
+http://pfsv.io:80/1771663/93924/89
 
 #EXTINF:0 tvg-id="Futura HD" tvg-name="Futura HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/futura.png" group-title="Canais l Abertos" , Futura 
-
+http://pfsv.io:80/1771663/93924/43
 
 #EXTINF:0 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoon-network.png"group-title="Canais l Infantil" ,  Cartoon Network 
-
+http://45.58.126.146:14197/Cartoon_network.ts
 
 #EXTINF:0 tvg-id="Cartoonito HD" tvg-name="Cartoonito HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoonito.png"group-title="Canais l Infantil" , Cartonito 
-
+http://45.58.126.146:14200/cartonito.ts
 
 #EXTINF:0 tvg-id="Disney Channel HD" tvg-name="Disney Channel HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/disney-channel.png" group-title="Canais l Infantil" , Disney Channel
-
+http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-kids.png" group-title="Canais l Infantil" , Discovery Kids 
-
+http://45.58.126.146:14203/discovery_kids.ts
 
 #EXTINF:0 tvg-id="Gloob HD" tvg-name="Gloob HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/gloob.png" group-title="Canais l Infantil" , Gloob
-
+http://45.58.126.146:14209/gloob.ts
 
 #EXTINF:0 tvg-id="Gloobinho HD" tvg-name="Gloobinho HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/gloobinho.png" group-title="Canais l Infantil" , Gloobinho 
-
+http://15.235.10.31:14359/gloobinho.ts
 
 #EXTINF:0 tvg-id="Nick JR HD" tvg-name="Nick JR HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/nick-jr.png"group-title="Canais l Infantil" , Nick JR 
-
+http://45.58.126.146:14212/nick_jr.ts
 
 #EXTINF:0 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/nickelodeon.png"group-title="Canais l Infantil" , Nickelodeon 
-
+http://45.58.126.146:14215/nickelodeon.ts
 
 #EXTINF:0 tvg-id="Tooncast SD" tvg-name="Tooncast SD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tooncast.png"group-title="Canais l Infantil" , Tooncast
-
+http://45.230.96.42:80/distv/@distv/594
 
 #EXTINF:0  tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery.png" group-title="Canais l Discovery" , Discovery Channel 
-
+http://pfsv.io:80/1771663/93924/166
 
 #EXTINF:0 tvg-id="Discovery H&H HD" tvg-name="Discovery H&H HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-home-and-health.png" group-title="Canais l Discovery" , Discovery H&H
+http://pfsv.io:80/1771663/93924/168
 
-
-#EXTINF:0 tvg-id="ID FHD" tvg-name="ID FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png" group-title="Canais l Discovery" , Discovery ID
-
+#EXTINF:0 tvg-id="Discovery ID FHD" tvg-name="ID FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png" group-title="Canais l Discovery" , Discovery ID
+http://pfsv.io:80/1771663/93924/175
 
 #EXTINF:0 tvg-id="Discovery Science Channel HD" tvg-name="Discovery Science HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-science.png" group-title="Canais l Discovery" , Discovery Science 
-
+http://pfsv.io:80/1771663/93924/169
 
 #EXTINF:0 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-theater.png" group-title="Canais l Discovery" , Discovery Theater 
-
+http://pfsv.io:80/1771663/93924/170
 
 #EXTINF:0 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-turbo.png" group-title="Canais l Discovery" , Discovery Turbo
-
+http://pfsv.io:80/1771663/93924/171
 
 #EXTINF:0 tvg-id="Discovery World HD" tvg-name="Discovery World HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-world.png" group-title="Canais l Discovery" , Discovery World
+http://pfsv.io:80/1771663/93924/172
 
-
-#EXTINF:-1 tvg-id="National geographic HF" tvg-name="National geographic HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/national-geographic.png" group-title="Canais l Documentários" , National Geographic
-
+#EXTINF:-1 tvg-id="National Geographic HF" tvg-name="National Geographic HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/national-geographic.png" group-title="Canais l Documentários" , National Geographic
+http://pfsv.io:80/1771663/93924/30251
 
 #EXTINF:0 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/animal-planet.png"group-title="Canais l Documentários" , Animal Planet 
-
+http://pfsv.io:80/1771663/93924/164
 
 #EXTINF:0 tvg-id="HGTV HD" tvg-name="HGTV HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hgtv.png"group-title="Canais l Documentários" , HGTV 
-
+http://pfsv.io:80/1771663/93924/167
 
 #EXTINF:0 tvg-id="TLC FHD" tvg-name="TLC FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tlc.png"group-title="Canais l Documentários" , TLC
+http://pfsv.io:80/1771663/93924/286
 
+#EXTINF:0 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="https://mondrian.claro.com.br/channels/inverse/arte1.png"group-title="Canais l Documentários" , Arte 1
+http://pfsv.io:80/1771663/93924/165
 
-#EXTINF:0 tvg-id="History HD" tvg-name="History HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/history-channel.png" group-title="Canais l Documentários" , History
+#EXTINF:0 tvg-id="TruTV" tvg-name="TruTV" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tru-tv.png"group-title="Canais l Documentários" , TruTV
+http://pfsv.io:80/1771663/93924/289
 
+#EXTINF:0 tvg-id="History Channel HD" tvg-name="History HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/history-channel.png" group-title="Canais l Documentários" , History
+http://pfsv.io:80/1771663/93924/174
 
-#EXTINF:0 tvg-id="History Channel 2 FHD" tvg-name="History Channel 2 FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/history-2.png" group-title="Canais l Documentários" , History 2
-
+#EXTINF:0 tvg-id="History Channel 2 FHD" tvg-name="History Channel 2 FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/history-2.png" group-title="Canais l Documentários" , History Channel 2
+http://pfsv.io:80/1771663/93924/173
 
 #EXTINF:0 tvg-id="Star Channel HD" tvg-name="Star Channel HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/star-channel.png" group-title="Canais l Filmes e Séries" , Star Channel 
-
+http://pfsv.io:80/1771663/93924/292
 
 #EXTINF:0 tvg-id="Cinecanal FHD" tvg-name="Cinecanal FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cinecanal.png" group-title="Canais l Filmes e Séries" , Cine Canal
-
+http://pfsv.io:80/1771663/93924/132944
 
 #EXTINF:0 tvg-id="FX HD" tvg-name="Fx HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/fx.png" group-title="Canais l Filmes e Séries" , Fx
-
+http://pfsv.io:80/1771663/93924/279
 
 #EXTINF:0 tvg-id="TNT HD" tvg-name="TNT HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt.png" group-title="Canais l Filmes e Séries" , TNT
-
+http://pfsv.io:80/1771663/93924/287
 
 #EXTINF:0 tvg-id="A&E HD" tvg-name="A&E HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/aee.png" group-title="Canais l Filmes e Séries" , A&E
-
+http://pfsv.io:80/1771663/93924/293
 
 #EXTINF:0 tvg-id="AMC FHD" tvg-name="AMC FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/amc.png" group-title="Canais l Filmes e Séries" , AMC
-
+http://pfsv.io:80/1771663/93924/294
 
 #EXTINF:0 tvg-id="Canal Sony FHD" tvg-name="Canal Sony FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/sony.png" group-title="Canais l Filmes e Séries" , Sony
-
+http://pfsv.io:80/1771663/93924/274
 
 #EXTINF:0 tvg-id="Cinemax HD" tvg-name="Cinemax HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cinemax.png" group-title="Canais l Filmes e Séries" , Cinemax
-
+http://pfsv.io:80/1771663/93924/275
 
 #EXTINF:0 tvg-id="Megapix HD" tvg-name="Megapix HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/megapix.png" group-title="Canais l Filmes e Séries" , Megapix 
-
+http://pfsv.io:80/1771663/93924/281
 
 #EXTINF:0 tvg-id="Universal Tv HD" tvg-name="Universal Tv HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/universal-channel.png" group-title="Canais l Filmes e Séries" , Universal Tv 
-
+http://pfsv.io:80/1771663/93924/290
 
 #EXTINF:0 tvg-id="Paramount Channel FHD" tvg-name="Paramount Channel FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/paramount-network.png" group-title="Canais l Filmes e Séries" , Paramont 
-
+http://pfsv.io:80/1771663/93924/296
 
 #EXTINF:0 tvg-id="Space HD" tvg-name="Space HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/space.png" group-title="Canais l Filmes e Séries" , Space
-
+http://pfsv.io:80/1771663/93924/282
 
 #EXTINF:0 tvg-id="Studio Universal HD" tvg-name="Studio Universal HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/studio-universal.png" group-title="Canais l Filmes e Séries" , Studio Universal 
-
+http://pfsv.io:80/1771663/93924/283
 
 #EXTINF:0 tvg-id="Tbs HD" tvg-name="Tbs HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tbs.png" group-title="Canais l Filmes e Séries" , TBS
-
+http://pfsv.io:80/1771663/93924/285
 
 #EXTINF:0 tvg-id="Canal Brasil" tvg-name="Canal Brasil"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/canal-brasil.png" group-title="Canais l Filmes e Séries" , Canal Brasil
-
+http://pfsv.io:80/1771663/93924/298
 
 #EXTINF:0 tvg-id="TCM" tvg-name="TCM"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tcm.png" group-title="Canais l Filmes e Séries" , TCM
-
+http://pfsv.io:80/1771663/93924/59978
 
 #EXTINF:0 tvg-id="TNT Series FHD" tvg-name="TNT Series FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt-series.png" group-title="Canais l Filmes e Séries" , TNT Séries 
-
+http://pfsv.io:80/1771663/93924/288
 
 #EXTINF:0 tvg-id="Warner Channel HD" tvg-name="Warner Channel HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/warner-channel.png" group-title="Canais l Filmes e Séries" , Warner Channel 
-
+http://pfsv.io:80/1771663/93924/297
 
 #EXTINF:0 tvg-id="AXN HD" tvg-name="AXN HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/axn.png" group-title="Canais l Filmes e Séries" , AXN
-
+http://pfsv.io:80/1771663/93924/295
 
 #EXTINF:0 tvg-id="Syfy HD" tvg-name="Syfy HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/syfy.png" group-title="Canais l Filmes e Séries" , Syfy
-
+http://pfsv.io:80/1771663/93924/284
 
 #EXTINF:0 tvg-id="Multishow HD" tvg-name="Multishow HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/multishow.png" group-title="Canais l Variedades" , Multishow 
-
+http://15.235.10.31:14505/multishow.ts
 
 #EXTINF:0 tvg-id="Viva HD" tvg-name="Viva HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/viva.png" group-title="Canais l Variedades" , Viva
-
+http://199.127.60.83:16884/viva.ts
 
 #EXTINF:0 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/comedy-central.png" group-title="Canais l Variedades" , Comedy Central 
-
+http://45.58.126.146:14308/comedy_central.ts
 
 #EXTINF:0 tvg-id="GNT HD" tvg-name="GNT HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/gnt.png" group-title="Canais l Variedades" , GNT
-
+http://15.235.10.31:14366/gnt.ts
 
 #EXTINF:0 tvg-id="Life Time HD" tvg-name="Life Time HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/lifetime.png" group-title="Canais l Variedades" , Life Time 
-
+http://45.58.126.146:14314/lifetime.ts
 
 #EXTINF:0 tvg-id="HBO HD" tvg-name="HBO HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo.png" group-title="Canais l HBO" , HBO
-
+http://15.235.10.31:14379/Hbo.ts
 
 #EXTINF:0 tvg-id="HBO 2 HD" tvg-name="HBO 2 HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-2.png" group-title="Canais l HBO" , HBO 2 
-
+http://15.235.10.31:14383/hbo2.ts
 
 #EXTINF:0 tvg-id="HBO Pop HD" tvg-name="HBO Pop HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-pop.png" group-title="Canais l HBO" , HBO Pop 
-
+http://15.235.10.31:14397/hbo_pop.ts
 
 #EXTINF:0 tvg-id="HBO Mundi HD" tvg-name="HBO Mundi HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-mundi.png" group-title="Canais l HBO" , HBO Mundi 
-
+http://15.235.10.31:14395/hbo_mundi.ts
 
 #EXTINF:0 tvg-id="HBO Xtreme FHD" tvg-name="HBO Xtreme FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-xtreme.png" group-title="Canais l HBO" , HBO Xtreme 
-
+http://15.235.10.31:14407/hbo_extreme.ts
 
 #EXTINF:0 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-signature.png" group-title="Canais l HBO" , HBO Signature
-
+http://15.235.10.31:14403/hbo_signature.ts
 
 #EXTINF:0 tvg-id="HBO Plus HD" tvg-name="HBO Plus HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/hboplus.png" group-title="Canais l HBO" , HBO Plus
-
+http://15.235.10.31:14409/hbo_plus.ts
 
 #EXTINF:0 tvg-id="HBO Family HD" tvg-name="HBO Family HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-family.png" group-title="Canais l HBO" , HBO Family 
- 
+http://15.235.10.31:14387/hbo_family.ts 
 
 #EXTINF:0 tvg-id="Telecine Action HD" tvg-name="Telecine Action HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-action.png" group-title="Canais l Telecine" , Telecine Action 
-
+http://45.230.96.42:80/distv/@distv/655
 
 #EXTINF:0 tvg-id="Telecine Pipoca HD" tvg-name="Telecine Pipoca HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-pipoca.png" group-title="Canais l Telecine" , Telecine Pipoca 
-
+http://45.230.96.42:80/distv/@distv/658
 
 #EXTINF:0 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-premium.png" group-title="Canais l Telecine" , Telecine Premium 
-
+http://45.230.96.42:80/distv/@distv/659
 
 #EXTINF:0 tvg-id="Telecine Cult HD" tvg-name="Telecine Cult HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-cult.png" group-title="Canais l Telecine" , Telecine Cult 
-
+http://45.230.96.42:80/distv/@distv/656
 
 #EXTINF:0 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-fun.png" group-title="Canais l Telecine" , Telecine Fun
-
+http://45.230.96.42:80/distv/@distv/657
 
 #EXTINF:0 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tc-touch.png" group-title="Canais l Telecine" , Telecine Touch
-
+http://45.230.96.42:80/distv/@distv/660
 
 #EXTINF:0 tvg-id="Band News HD" tvg-name="Band News HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band-news.png"group-title="Canais l Notícias" , Band News 
-
+http://45.58.126.146:14231/bandnews.ts
 
 #EXTINF:0 tvg-id="CNN Brasil HD" tvg-name="CNN Brasil HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cnn-brasil.png"group-title="Canais l Notícias" , CNN Brasil 
-
+http://45.58.126.146:14234/cnn.ts
 
 #EXTINF:0 tvg-id="Globo News HD" tvg-name="Globo News HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globonews.png"group-title="Canais l Notícias" , Globo News 
-
+http://15.235.10.31:14354/globonews.ts
 
 #EXTINF:0 tvg-id="Jovem Pan News HD" tvg-name="Jovem Pan News HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/jp-news-vertical.png"group-title="Canais l Notícias" , Jovem Pan News 
-
+http://45.58.126.146:14241/jp_news.ts
 
 #EXTINF:0 tvg-id="Urban Kids" tvg-name="Urban Kids"  tvg-logo="https://urbantv.com.br/canais/logo-urbankids.jpg" group-title="Canais l Urban" , Urban Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
@@ -248,7 +254,6 @@ http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 
 #EXTINF:0 tvg-id="Urban Sports" tvg-name="Urban Sports"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMv6Mt-jWa-Vrfk7riOi8KysQsmARQxBoPHQ&s.jpg" group-title="Canais l Urban" , Urban Sports 
 http://200.194.238.229:8383/live/urbansports/playlist.m3u8
-
 
 #EXTINF:0 tvg-id="ext" group-title="Canais l Pluto TV",Guia de Canais
 https://i.mjh.nz/PlutoTV/5fa97a8a75cc210007c9041d-alt.m3u8
@@ -651,4 +656,3 @@ https://stmv1.srvif.com/canal29/canal29/chunklist_w191356186.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4fm6pVYCZ--ZASVPspyNugJwm0C7fkfwkbEQktG7WHtJFWbctUYPfxbPXcB6PL3ctwGyM5NBn1GYbUDFYT5jKc6SkwiIocLxT180fyKfdA7UGRsYxMdp6KbjdYiqNqUce51RhDb4ZZ9v8zgo5YHlj7vX417fuso2JLW7-LXlc_yLtnG2FhGkpbSws/s200/CANAL%2029.jpg" group-title="Canais l Webtv" , Todo mundo odeia o cris
 http://45.58.126.146:14510/play.ts
-
