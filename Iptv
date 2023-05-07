@@ -7,7 +7,7 @@ http://pfsv.io:80/1771663/93924/47
 http://pfsv.io:80/1771663/93924/46
 
 #EXTINF:0 tvg-id="Globo SP FHD" tvg-name="Globo SP FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Abertos" , Globo
-http://pfsv.io:80/1771663/93924/394
+http://pfsv.io:80/1771663/93924/354
 
 #EXTINF:0 tvg-id="Recordtv SP HD" tvg-name="Recordtv SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="Canais l Abertos" , Record
 http://pfsv.io:80/1771663/93924/45
@@ -25,7 +25,7 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
 http://pfsv.io:80/1771663/93924/89
 
 #EXTINF:0 tvg-id="Futura HD" tvg-name="Futura HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/futura.png" group-title="Canais l Abertos" , Futura 
-http://pfsv.io:80/1771663/93924/51
+http://pfsv.io:80/1771663/93924/43
 
 #EXTINF:0 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoon-network.png"group-title="Canais l Infantil" ,  Cartoon Network 
 http://45.58.126.146:14197/Cartoon_network.ts
@@ -650,4 +650,3 @@ https://stmv1.srvif.com/canal29/canal29/chunklist_w191356186.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4fm6pVYCZ--ZASVPspyNugJwm0C7fkfwkbEQktG7WHtJFWbctUYPfxbPXcB6PL3ctwGyM5NBn1GYbUDFYT5jKc6SkwiIocLxT180fyKfdA7UGRsYxMdp6KbjdYiqNqUce51RhDb4ZZ9v8zgo5YHlj7vX417fuso2JLW7-LXlc_yLtnG2FhGkpbSws/s200/CANAL%2029.jpg" group-title="Canais l Webtv" , Todo mundo odeia o cris
 http://45.58.126.146:14510/play.ts
-
