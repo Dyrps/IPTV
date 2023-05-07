@@ -94,64 +94,64 @@ http://45.58.126.146:14281/history.ts
 http://45.58.126.146:14284/history_2.ts
 
 #EXTINF:0 tvg-id="Star Channel HD" tvg-name="Star Channel HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/star-channel.png" group-title="Canais l Filmes e Séries" , Star Channel 
-http://170.82.200.38:8080/star_channel/tracks-v1a1/mono.m3u8
+http://pfsv.io:80/1771663/93924/292
 
 #EXTINF:0 tvg-id="Cinecanal FHD" tvg-name="Cinecanal FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cinecanal.png" group-title="Canais l Filmes e Séries" , Cine Canal
-http://7go.xyz:8080/tiamar/martia/18865
+http://pfsv.io:80/1771663/93924/132944
 
 #EXTINF:0 tvg-id="FX HD" tvg-name="Fx HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/fx.png" group-title="Canais l Filmes e Séries" , Fx
-http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
+http://pfsv.io:80/1771663/93924/279
 
 #EXTINF:0 tvg-id="TNT HD" tvg-name="TNT HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt.png" group-title="Canais l Filmes e Séries" , TNT
-http://7go.xyz:8080/tiamar/martia/18875
+http://pfsv.io:80/1771663/93924/287
 
 #EXTINF:0 tvg-id="A&E HD" tvg-name="A&E HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/aee.png" group-title="Canais l Filmes e Séries" , A&E
-http://7go.xyz:8080/tiamar/martia/18787
+http://pfsv.io:80/1771663/93924/293
 
 #EXTINF:0 tvg-id="AMC FHD" tvg-name="AMC FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/amc.png" group-title="Canais l Filmes e Séries" , AMC
-http://7go.xyz:8080/tiamar/martia/18788
+http://pfsv.io:80/1771663/93924/294
 
 #EXTINF:0 tvg-id="Canal Sony FHD" tvg-name="Canal Sony FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/sony.png" group-title="Canais l Filmes e Séries" , Sony
-http://7go.xyz:8080/tiamar/martia/18860
+http://pfsv.io:80/1771663/93924/274
 
 #EXTINF:0 tvg-id="Cinemax HD" tvg-name="Cinemax HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cinemax.png" group-title="Canais l Filmes e Séries" , Cinemax
-http://7go.xyz:8080/tiamar/martia/18813
+http://pfsv.io:80/1771663/93924/275
 
 #EXTINF:0 tvg-id="Megapix HD" tvg-name="Megapix HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/megapix.png" group-title="Canais l Filmes e Séries" , Megapix 
-http://7go.xyz:8080/tiamar/martia/18847
+http://pfsv.io:80/1771663/93924/281
 
 #EXTINF:0 tvg-id="Universal Tv HD" tvg-name="Universal Tv HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/universal-channel.png" group-title="Canais l Filmes e Séries" , Universal Tv 
-http://7go.xyz:8080/tiamar/martia/18879
+http://pfsv.io:80/1771663/93924/290
 
 #EXTINF:0 tvg-id="Paramount Channel FHD" tvg-name="Paramount Channel FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/paramount-network.png" group-title="Canais l Filmes e Séries" , Paramont 
-http://7go.xyz:8080/tiamar/martia/18852
+http://pfsv.io:80/1771663/93924/296
 
 #EXTINF:0 tvg-id="Space HD" tvg-name="Space HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/space.png" group-title="Canais l Filmes e Séries" , Space
-http://7go.xyz:8080/tiamar/martia/22611
+http://pfsv.io:80/1771663/93924/282
 
 #EXTINF:0 tvg-id="Studio Universal HD" tvg-name="Studio Universal HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/studio-universal.png" group-title="Canais l Filmes e Séries" , Studio Universal 
-http://7go.xyz:8080/tiamar/martia/18866
+http://pfsv.io:80/1771663/93924/283
 
 #EXTINF:0 tvg-id="Tbs HD" tvg-name="Tbs HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tbs.png" group-title="Canais l Filmes e Séries" , TBS
-http://7go.xyz:8080/tiamar/martia/160764
+http://pfsv.io:80/1771663/93924/285
 
 #EXTINF:0 tvg-id="Canal Brasil" tvg-name="Canal Brasil"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/canal-brasil.png" group-title="Canais l Filmes e Séries" , Canal Brasil
-http://7go.xyz:8080/tiamar/martia/59645
+http://pfsv.io:80/1771663/93924/298
 
 #EXTINF:0 tvg-id="TCM" tvg-name="TCM"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tcm.png" group-title="Canais l Filmes e Séries" , TCM
-http://7go.xyz:8080/tiamar/martia/160764
+http://pfsv.io:80/1771663/93924/59978
 
 #EXTINF:0 tvg-id="TNT Series FHD" tvg-name="TNT Series FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt-series.png" group-title="Canais l Filmes e Séries" , TNT Séries 
-http://7go.xyz:8080/tiamar/martia/18876
+http://pfsv.io:80/1771663/93924/288
 
 #EXTINF:0 tvg-id="Warner Channel HD" tvg-name="Warner Channel HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/warner-channel.png" group-title="Canais l Filmes e Séries" , Warner Channel 
-http://7go.xyz:8080/tiamar/martia/18882
+http://pfsv.io:80/1771663/93924/297
 
 #EXTINF:0 tvg-id="AXN HD" tvg-name="AXN HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/axn.png" group-title="Canais l Filmes e Séries" , AXN
-http://7go.xyz:8080/tiamar/martia/18791
+http://pfsv.io:80/1771663/93924/295
 
 #EXTINF:0 tvg-id="Syfy HD" tvg-name="Syfy HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/syfy.png" group-title="Canais l Filmes e Séries" , Syfy
-http://7go.xyz:8080/tiamar/martia/18867
+http://pfsv.io:80/1771663/93924/284
 
 #EXTINF:0 tvg-id="Multishow HD" tvg-name="Multishow HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/multishow.png" group-title="Canais l Variedades" , Multishow 
 http://15.235.10.31:14505/multishow.ts
