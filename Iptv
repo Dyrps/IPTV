@@ -1,22 +1,22 @@
 #EXTM3U 
 
 #EXTINF:0 tvg-id="Cultura FHD" tvg-name="Cultura FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cultura.png" group-title="Canais l Abertos" , Cultura
-http://pfsv.io:80/1771663/93924/64
+http://pfsv.io:80/1771663/93924/47
 
 #EXTINF:0 tvg-id="SBT SP HD" tvg-name="SBT SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l Abertos" , SBT
-http://pfsv.io:80/1771663/93924/55
+http://pfsv.io:80/1771663/93924/46
 
 #EXTINF:0 tvg-id="Globo SP FHD" tvg-name="Globo SP FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Abertos" , Globo
 http://pfsv.io:80/1771663/93924/394
 
 #EXTINF:0 tvg-id="Recordtv SP HD" tvg-name="Recordtv SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="Canais l Abertos" , Record
-http://pfsv.io:80/1771663/93924/52
+http://pfsv.io:80/1771663/93924/45
 
 #EXTINF:0 tvg-id="RedeTV FHD" tvg-name="RedeTV FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/redetv!.png" group-title="Canais l Abertos" , Rede TV
-http://pfsv.io:80/1771663/93924/54
+http://pfsv.io:80/1771663/93924/48
 
 #EXTINF:0 tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais l Abertos" , Band
-http://pfsv.io:80/1771663/93924/113584 
+http://pfsv.io:80/1771663/93924/113585 
 
 #EXTINF:0 tvg-id="Rede Brasil SD" tvg-name="Rede Brasil SD"  tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F48%2F6484024_27835C7981400442.png&amp;height=60&amp;resize=RATIO&amp;format=PNG" group-title="Canais l Abertos" , Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
