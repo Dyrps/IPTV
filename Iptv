@@ -166,7 +166,7 @@ http://pfsv.io:80/1771663/93924/284
 http://pfsv.io:80/1771663/93924/3
 
 #EXTINF:0 tvg-id="Viva HD" tvg-name="Viva HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/viva.png" group-title="Canais l Variedades" , Viva
-http://pfsv.io:80/1771663/93924/105
+http://pfsv.io:80/1771663/93924/130263
 
 #EXTINF:0 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/comedy-central.png" group-title="Canais l Variedades" , Comedy Central 
 http://pfsv.io:80/1771663/93924/97
@@ -179,6 +179,18 @@ http://pfsv.io:80/1771663/93924/108
 
 #EXTINF:0 tvg-id="Life Time HD" tvg-name="Life Time HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/lifetime.png" group-title="Canais l Variedades" , Life Time 
 http://pfsv.io:80/1771663/93924/280
+
+#EXTINF:0 tvg-id="Curta!" tvg-name="Curta!"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/curta!.png" group-title="Canais l Variedades" , Curta!
+http://pfsv.io:80/1771663/93924/30192
+
+#EXTINF:0 tvg-id="Food Network" tvg-name="Food Network"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/food-network.png" group-title="Canais l Variedades" , Food Network
+http://pfsv.io:80/1771663/93924/30193
+
+#EXTINF:0 tvg-id="Mais GloboSat" tvg-name="Mais GloboSat"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/mais.png" group-title="Canais l Variedades" , Mais GloboSat
+http://pfsv.io:80/1771663/93924/30194
+
+#EXTINF:0 tvg-id="Prime Box Brasil" tvg-name="Prime Box Brasil"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/prime-boxbrazil.svg" group-title="Canais l Variedades" , Prime Box Brasil
+http://pfsv.io:80/1771663/93924/30190
 
 #EXTINF:0 tvg-id="HBO HD" tvg-name="HBO HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo.png" group-title="Canais l HBO" , HBO
 http://pfsv.io:80/1771663/93924/471
