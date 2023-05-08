@@ -139,10 +139,10 @@ http://pfsv.io:80/1771663/93924/296
 http://pfsv.io:80/1771663/93924/282
 
 #EXTINF:0 tvg-id="Studio Universal HD" tvg-name="Studio Universal HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/studio-universal.png" group-title="Canais l Filmes e Séries" , Studio Universal 
-http://pfsv.io:80/1771663/93924/283
+http://pfsv.io:80/1771663/93924/130196
 
 #EXTINF:0 tvg-id="Tbs HD" tvg-name="Tbs HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tbs.png" group-title="Canais l Filmes e Séries" , TBS
-http://pfsv.io:80/1771663/93924/285
+http://pfsv.io:80/1771663/93924/321
 
 #EXTINF:0 tvg-id="Canal Brasil" tvg-name="Canal Brasil"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/canal-brasil.png" group-title="Canais l Filmes e Séries" , Canal Brasil
 http://pfsv.io:80/1771663/93924/298
@@ -190,7 +190,7 @@ http://pfsv.io:80/1771663/93924/470
 http://pfsv.io:80/1771663/93924/469
 
 #EXTINF:0 tvg-id="HBO Mundi HD" tvg-name="HBO Mundi HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-mundi.png" group-title="Canais l HBO" , HBO Mundi 
-http://pfsv.io:80/1771663/93924/467
+http://pfsv.io:80/1771663/93924/30239
 
 #EXTINF:0 tvg-id="HBO Xtreme FHD" tvg-name="HBO Xtreme FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-xtreme.png" group-title="Canais l HBO" , HBO Xtreme 
 http://pfsv.io:80/1771663/93924/468
@@ -253,7 +253,7 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
 
 #EXTINF:0 tvg-id="Urban Turbo" tvg-name="Urban Turbo"  tvg-logo="https://urbantv.com.br/canais/logo-urbanturbo.jpg" group-title="Canais l Urban" , Urban Turbo
-http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
+http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 
 #EXTINF:0 tvg-id="Urban Travel" tvg-name="Urban Travel"  tvg-logo="https://urbantv.com.br/canais/logo-urbantravel.jpg" group-title="Canais l Urban" , Urban Travel
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
@@ -662,4 +662,3 @@ https://stmv1.srvif.com/canal29/canal29/chunklist_w191356186.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4fm6pVYCZ--ZASVPspyNugJwm0C7fkfwkbEQktG7WHtJFWbctUYPfxbPXcB6PL3ctwGyM5NBn1GYbUDFYT5jKc6SkwiIocLxT180fyKfdA7UGRsYxMdp6KbjdYiqNqUce51RhDb4ZZ9v8zgo5YHlj7vX417fuso2JLW7-LXlc_yLtnG2FhGkpbSws/s200/CANAL%2029.jpg" group-title="Canais l Webtv" , Todo mundo odeia o cris
 http://45.58.126.146:14510/play.ts
-
