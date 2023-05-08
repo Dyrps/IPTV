@@ -54,7 +54,7 @@ http://pfsv.io:80/1771663/93924/131
 #EXTINF:0 tvg-id="Tooncast SD" tvg-name="Tooncast SD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tooncast.png"group-title="Canais l Infantil" , Tooncast
 http://pfsv.io:80/1771663/93924/48756
 
-#EXTINF:0 tvg-id="TV RA-TIM-BUM" tvg-name="TV RA-TIM-BUM" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tooncast.png"group-title="Canais l Infantil" , TV RA-TIM-BUM
+#EXTINF:0 tvg-id="TV RA-TIM-BUM" tvg-name="TV RA-TIM-BUM" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-ra-tim-bum.png"group-title="Canais l Infantil" , TV RA-TIM-BUM
 http://pfsv.io:80/1771663/93924/132
 
 #EXTINF:0  tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery.png" group-title="Canais l Discovery" , Discovery Channel 
@@ -174,8 +174,8 @@ http://pfsv.io:80/1771663/93924/97
 #EXTINF:0 tvg-id="GNT HD" tvg-name="GNT HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/gnt.png" group-title="Canais l Variedades" , GNT
 http://pfsv.io:80/1771663/93924/102
 
-#EXTINF:0 tvg-id="E!" tvg-name="E!"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/gnt.png" group-title="Canais l Variedades" , E!
-http://pfsv.io:80/1771663/93924/99
+#EXTINF:0 tvg-id="E!" tvg-name="E!"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/e!.png" group-title="Canais l Variedades" , E!
+http://pfsv.io:80/1771663/93924/30186
 
 #EXTINF:0 tvg-id="Life Time HD" tvg-name="Life Time HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/lifetime.png" group-title="Canais l Variedades" , Life Time 
 http://pfsv.io:80/1771663/93924/280
@@ -662,3 +662,4 @@ https://stmv1.srvif.com/canal29/canal29/chunklist_w191356186.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-name="ext"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4fm6pVYCZ--ZASVPspyNugJwm0C7fkfwkbEQktG7WHtJFWbctUYPfxbPXcB6PL3ctwGyM5NBn1GYbUDFYT5jKc6SkwiIocLxT180fyKfdA7UGRsYxMdp6KbjdYiqNqUce51RhDb4ZZ9v8zgo5YHlj7vX417fuso2JLW7-LXlc_yLtnG2FhGkpbSws/s200/CANAL%2029.jpg" group-title="Canais l Webtv" , Todo mundo odeia o cris
 http://45.58.126.146:14510/play.ts
+
