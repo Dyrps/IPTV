@@ -1,42 +1,7 @@
-#EXTM3U 
 
-#EXTINF:0 tvg-id="Cultura FHD" tvg-name="Cultura FHD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/cultura.png" group-title="Canais l Abertos" , Cultura
-http://pfsv.io:80/1771663/93924/30183
 
-#EXTINF:0 tvg-id="SBT SP HD" tvg-name="SBT SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais l Abertos" , SBT
-http://pfsv.io:80/1771663/93924/46
 
-#EXTINF:0 tvg-id="Globo SP FHD" tvg-name="Globo SP FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globo.png" group-title="Canais l Abertos" , Globo
-http://pfsv.io:80/1771663/93924/354
-
-#EXTINF:0 tvg-id="Recordtv SP HD" tvg-name="Recordtv SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="Canais l Abertos" , Record
-http://pfsv.io:80/1771663/93924/45
-
-#EXTINF:0 tvg-id="RedeTV FHD" tvg-name="RedeTV FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/redetv!.png" group-title="Canais l Abertos" , Rede TV
-http://pfsv.io:80/1771663/93924/48
-
-#EXTINF:0 tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais l Abertos" , Band
-http://pfsv.io:80/1771663/93924/113585 
-
-#EXTINF:0 tvg-id="Rede Brasil SD" tvg-name="Rede Brasil SD"  tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F48%2F6484024_27835C7981400442.png&amp;height=60&amp;resize=RATIO&amp;format=PNG" group-title="Canais l Abertos" , Rede Brasil
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
-
-#EXTINF:0 tvg-id="TV Brasil HD" tvg-name="TV Brasil HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-brasil.png" group-title="Canais l Abertos" , TV Brasil
-http://pfsv.io:80/1771663/93924/89
-
-#EXTINF:0 tvg-id="Futura HD" tvg-name="Futura HD"  tvg-logo="https://mondrian.claro.com.br/channels/inverse/futura.png" group-title="Canais l Abertos" , Futura 
-http://pfsv.io:80/1771663/93924/43
-
-#EXTINF:0 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoon-network.png"group-title="Canais l Infantil" ,  Cartoon Network 
-http://pfsv.io:80/1771663/93924/126
-
-#EXTINF:0 tvg-id="Cartoonito HD" tvg-name="Cartoonito HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cartoonito.png"group-title="Canais l Infantil" , Cartonito 
-http://pfsv.io:80/1771663/93924/125
-
-#EXTINF:0 tvg-id="Disney Channel HD" tvg-name="Disney Channel HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/disney-channel.png" group-title="Canais l Infantil" , Disney Channel
-http://pfsv.io:80/1771663/93924/135
-
-#EXTINF:0 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-kids.png" group-title="Canais l Infantil" , Discovery Kids 
+ tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-kids.png" group-title="Canais l Infantil" , Discovery Kids 
 http://pfsv.io:80/1771663/93924/127
 
 #EXTINF:0 tvg-id="Gloob HD" tvg-name="Gloob HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/gloob.png" group-title="Canais l Infantil" , Gloob
