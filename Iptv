@@ -246,6 +246,30 @@ http://pfsv.io:80/1771663/93924/512
 #EXTINF:0 tvg-id="Jovem Pan News HD" tvg-name="Jovem Pan News HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/jp-news-vertical.png"group-title="Canais l Notícias" , Jovem Pan News 
 http://pfsv.io:80/1771663/93924/98166
 
+#EXTINF:0 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere-2.png"group-title="Canais l Premiere" , Premiere 2
+http://pfsv.io:80/1771663/93924/130234
+
+#EXTINF:0 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere-3.png"group-title="Canais l Premiere" , Premiere 3
+http://pfsv.io:80/1771663/93924/130235
+
+#EXTINF:0 tvg-id="Premiere 4" tvg-name="Premiere 4" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere-4.png"group-title="Canais l Premiere" , Premiere 4
+http://pfsv.io:80/1771663/93924/130236
+
+#EXTINF:0 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere-5.png"group-title="Canais l Premiere" , Premiere 5
+http://pfsv.io:80/1771663/93924/130237
+
+#EXTINF:0 tvg-id="Premiere 6" tvg-name="Premiere 6" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere-6.png"group-title="Canais l Premiere" , Premiere 6
+http://pfsv.io:80/1771663/93924/130238
+
+#EXTINF:0 tvg-id="Premiere 7" tvg-name="Premiere 7" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere-7.pmg"group-title="Canais l Premiere" , Premiere 7
+http://pfsv.io:80/1771663/93924/130239
+
+#EXTINF:0 tvg-id="Premiere 8" tvg-name="Premiere 8" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere-8.png"group-title="Canais l Premiere" , Premiere 8
+http://pfsv.io:80/1771663/93924/130240
+
+#EXTINF:0 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere-clubes-hd.png"group-title="Canais l Premiere" , Premiere Clubes
+http://pfsv.io:80/1771663/93924/130233
+
 #EXTINF:0 tvg-id="Urban Kids" tvg-name="Urban Kids"  tvg-logo="https://urbantv.com.br/canais/logo-urbankids.jpg" group-title="Canais l Urban" , Urban Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
