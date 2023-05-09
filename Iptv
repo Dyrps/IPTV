@@ -13,7 +13,7 @@ http://pfsv.io:80/1771663/93924/354
 http://pfsv.io:80/1771663/93924/45
 
 #EXTINF:0 tvg-id="RedeTV FHD" tvg-name="RedeTV FHD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/redetv!.png" group-title="Canais l Abertos" , Rede TV
-http://pfsv.io:80/1771663/93924/46
+http://pfsv.io:80/1771663/93924/48
 
 #EXTINF:0 tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais l Abertos" , Band
 http://pfsv.io:80/1771663/93924/113585 
@@ -261,7 +261,7 @@ http://pfsv.io:80/1771663/93924/130237
 #EXTINF:0 tvg-id="Premiere 6" tvg-name="Premiere 6" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere-6.png"group-title="Canais l Premiere" , Premiere 6
 http://pfsv.io:80/1771663/93924/130238
 
-#EXTINF:0 tvg-id="Premiere 7" tvg-name="Premiere 7" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere-7.pmg"group-title="Canais l Premiere" , Premiere 7
+#EXTINF:0 tvg-id="Premiere 7" tvg-name="Premiere 7" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere-7.png"group-title="Canais l Premiere" , Premiere 7
 http://pfsv.io:80/1771663/93924/130239
 
 #EXTINF:0 tvg-id="Premiere 8" tvg-name="Premiere 8" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere-8.png"group-title="Canais l Premiere" , Premiere 8
